@@ -1,0 +1,1785 @@
+,Players,Points,Clubs,Position,Start,Goals,A,CS,CS part,Yellow,Red,Sub,CO,Off,Pen SV,Pen M,Goals conceded,Conceded 1+,OG,FirstInitial,Firstname,Surname
+0,Jamie Vardy,202,LEICSC,Forward,36,24,6,0,0,6,0,0,0,7,0,1,0,0,0,J,Jamie,Vardy
+1,Harry Kane,199,SPURS,Forward,38,25,2,0,0,5,0,0,0,9,0,0,0,0,1,H,Harry,Kane
+2,Riyad Mahrez,189,LEICSC,Midfielder,36,17,12,0,0,1,0,2,1,24,0,2,0,0,0,R,Riyad,Mahrez
+3,Sergio Aguero,182,MCFC,Forward,29,24,2,0,0,1,0,3,1,16,0,1,0,0,0,S,Sergio,Aguero
+4,Romelu Lukaku,179,EVER,Forward,36,18,7,0,0,3,0,2,1,8,0,1,0,0,0,R,Romelu,Lukaku
+5,Olivier Giroud,157,ARSL,Forward,26,16,6,0,0,2,0,12,12,8,0,0,0,0,1,O,Olivier,Giroud
+6,Troy Deeney,155,WFC,Forward,36,13,9,0,0,6,0,2,2,3,0,1,0,0,1,T,Troy,Deeney
+7,Odion Ighalo,153,WFC,Forward,36,15,3,0,0,4,0,1,1,8,0,0,0,0,0,O,Odion,Ighalo
+8,Mesut Ozil,153,ARSL,Midfielder,35,6,19,0,0,4,0,0,0,14,0,0,0,0,0,M,Mesut,Ozil
+9,Hector Bellerin,152,ARSL,Defender,36,1,7,18,0,3,0,0,0,0,0,0,33,15,0,H,Hector,Bellerin
+10,Georginio Wijnaldum,143,NEWU,Midfielder,36,11,5,0,0,1,0,2,2,7,0,0,0,0,0,G,Georginio,Wijnaldum
+11,Toby Alderweireld,141,SPURS,Defender,38,4,2,13,0,3,0,0,0,1,0,0,35,10,0,T,Toby,Alderweireld
+12,Marko Arnautovic,141,STOKEC,Midfielder,33,11,7,0,0,2,0,1,1,14,0,0,0,0,0,M,Marko,Arnautovic
+13,Alexis Sanchez,137,ARSL,Forward,28,13,5,0,0,1,0,2,2,12,0,0,0,0,0,A,Alexis,Sanchez
+14,Dimitri Payet,137,WESTHAM,Midfielder,29,9,12,0,0,3,0,1,1,6,0,0,0,0,0,D,Dimitri,Payet
+15,Ross Barkley,137,EVER,Midfielder,36,8,9,0,0,4,0,2,2,14,0,0,0,0,0,R,Ross,Barkley
+16,Nacho Monreal,136,ARSL,Defender,36,0,3,17,1,1,0,2,1,0,0,0,34,15,0,N,Nacho,Monreal
+17,Jermain Defoe,136,SUND,Forward,28,15,1,0,0,3,0,9,5,5,0,0,0,0,0,J,Jermain,Defoe
+18,Christian Eriksen,135,SPURS,Midfielder,33,6,13,0,0,2,0,2,2,10,0,0,0,0,0,C,Christian,Eriksen
+19,Andre Ayew,135,SWAN,Forward,34,12,4,0,0,5,0,1,0,15,0,0,0,0,0,A,Andre,Ayew
+20,Sadio Mane,133,SOTOM,Midfielder,30,11,7,0,0,5,1,8,7,15,0,1,0,0,0,S,Sadio,Mane
+21,Wes Morgan,133,LEICSC,Defender,38,2,1,15,0,3,0,0,0,0,0,0,36,13,0,W,Wes,Morgan
+22,Dele Alli,131,SPURS,Midfielder,28,10,9,0,0,7,0,6,5,17,0,0,0,0,0,D,Dele,Alli
+23,Dusan Tadic,130,SOTOM,Midfielder,27,7,12,0,0,2,0,11,7,19,0,0,0,0,0,D,Dusan,Tadic
+24,Laurent Koscielny,129,ARSL,Defender,33,4,0,15,0,3,0,1,0,2,0,0,32,14,0,L,Laurent,Koscielny
+25,Robert Huth,128,LEICSC,Defender,35,3,1,15,0,8,0,0,0,0,0,0,32,12,0,R,Robert,Huth
+26,Gylfi Sigurdsson,126,SWAN,Midfielder,32,11,3,0,0,6,0,4,4,6,0,0,0,0,0,G,Gylfi,Sigurdsson
+27,Diego Costa,125,CHEL,Forward,27,12,6,0,0,8,0,2,1,6,0,0,0,0,0,D,Diego,Costa
+28,Anthony Martial,125,MUFC,Midfielder,29,11,4,0,0,2,0,2,2,2,0,0,0,0,0,A,Anthony,Martial
+29,Christian Fuchs,124,LEICSC,Defender,30,0,4,15,0,4,0,4,2,1,0,0,23,6,0,C,Christian,Fuchs
+30,Graziano Pelle,123,SOTOM,Forward,23,11,7,0,0,6,0,9,7,4,0,0,0,0,0,G,Graziano,Pelle
+31,Roberto Firmino,122,LPOOL,Midfielder,24,10,6,0,0,1,0,7,7,17,0,0,0,0,0,R,Roberto,Firmino
+32,Kasper Schmeichel,121,LEICSC,Goalkeeper,38,0,0,15,0,2,0,0,0,0,0,0,36,13,0,K,Kasper,Schmeichel
+33,Francesc Fabregas,120,CHEL,Midfielder,33,5,10,0,0,5,0,4,4,8,0,0,0,0,0,F,Francesc,Fabregas
+34,Petr Cech,119,ARSL,Goalkeeper,34,0,0,16,0,0,0,2,0,0,0,0,31,13,0,P,Petr,Cech
+35,Daley Blind,118,MUFC,Defender,35,1,2,12,3,2,0,2,0,3,0,0,35,15,0,D,Daley,Blind
+36,Chris Smalling,117,MUFC,Defender,35,0,1,17,0,8,0,0,0,0,0,0,31,13,1,C,Chris,Smalling
+37,Hugo Lloris,116,SPURS,Goalkeeper,37,0,0,13,0,0,0,1,0,0,0,0,34,10,0,H,Hugo,Lloris
+38,Juan Mata,115,MUFC,Midfielder,34,6,6,0,0,5,0,4,4,15,0,0,0,0,0,J,Juan,Mata
+39,Aaron Cresswell,115,WESTHAM,Defender,37,2,4,11,0,1,0,0,0,1,0,0,50,24,0,A,Aaron,Cresswell
+40,Heurelho Gomes,114,WFC,Goalkeeper,38,0,2,11,0,4,0,0,0,1,3,0,50,23,0,H,Heurelho,Gomes
+41,Joe Hart,114,MCFC,Goalkeeper,35,0,0,15,0,0,0,1,0,1,0,0,36,16,0,J,Joe,Hart
+42,Salomon Rondon,114,WBFC,Forward,30,9,3,0,0,1,1,4,4,15,0,0,0,0,0,S,Salomon,Rondon
+43,Kevin De Bruyne,113,MCFC,Midfielder,22,7,11,0,0,2,0,4,3,4,0,0,0,0,0,K,Kevin,Bruyne
+44,Shane Long,111,SOTOM,Forward,23,10,4,0,0,2,0,9,5,5,0,0,0,0,0,S,Shane,Long
+45,Willian,111,CHEL,Midfielder,32,5,8,0,0,5,0,3,3,14,0,0,0,0,0,W,Willian,Willian
+46,David De Gea,111,MUFC,Goalkeeper,34,0,0,15,0,0,0,0,0,0,0,0,33,14,1,D,David,Gea
+47,Craig Dawson,111,WBFC,Defender,38,4,0,10,1,3,0,0,0,1,0,0,48,21,1,C,Craig,Dawson
+48,Mark Noble,110,WESTHAM,Midfielder,37,7,4,0,0,8,1,0,0,9,0,0,0,0,0,M,Mark,Noble
+49,Virgil van Dijk,109,SOTOM,Defender,34,3,0,10,0,2,0,0,0,0,0,0,36,12,0,V,Virgil,Dijk
+50,Jose Fonte,108,SOTOM,Defender,37,2,0,11,1,4,1,0,0,3,0,0,40,15,0,J,Jose,Fonte
+51,Kyle Walker,108,SPURS,Defender,33,1,3,12,0,7,0,3,0,2,0,0,31,10,1,K,Kyle,Walker
+52,Wayne Rooney,106,MUFC,Forward,27,8,5,0,0,4,0,1,1,4,0,0,0,0,0,W,Wayne,Rooney
+53,Scott Dann,106,LCFC,Defender,35,5,1,8,0,7,0,1,0,0,0,0,44,17,0,S,Scott,Dann
+54,Philippe Coutinho,105,LPOOL,Midfielder,24,8,6,0,0,3,0,5,2,11,0,0,0,0,0,P,Philippe,Coutinho
+55,Erik Lamela,105,SPURS,Midfielder,28,5,9,0,0,9,0,8,6,19,0,0,0,0,0,E,Erik,Lamela
+56,Aleksandar Kolarov,105,MCFC,Defender,25,3,4,10,3,3,0,10,4,2,0,1,33,17,0,A,Aleksandar,Kolarov
+57,Danny Simpson,104,LEICSC,Defender,30,0,0,13,1,4,0,3,0,3,0,0,22,6,0,D,Danny,Simpson
+58,James Milner,104,LPOOL,Midfielder,28,5,11,0,0,10,0,1,0,7,0,0,0,0,0,J,James,Milner
+59,Aleksandar Mitrovic,103,NEWU,Forward,22,9,4,0,0,4,2,14,12,8,0,0,0,0,0,A,Aleksandar,Mitrovic
+60,Matt Ritchie,103,BOU,Midfielder,33,4,6,0,0,5,0,4,4,9,0,0,0,0,0,M,Matt,Ritchie
+61,Yaya Toure,102,MCFC,Midfielder,28,6,5,0,0,3,0,4,4,12,0,0,0,0,0,Y,Yaya,Toure
+62,Nathan Redmond,101,NCFC,Midfielder,24,6,4,0,0,0,0,12,11,6,0,0,0,0,0,N,Nathan,Redmond
+63,Daniel Drinkwater,100,LEICSC,Midfielder,35,2,8,0,0,4,0,0,0,6,0,0,0,0,0,D,Daniel,Drinkwater
+64,David Silva,100,MCFC,Midfielder,22,2,15,0,0,1,0,2,2,12,0,0,0,0,0,D,David,Silva
+65,Wes Hoolahan,98,NCFC,Midfielder,25,4,8,0,0,1,0,11,5,20,0,0,0,0,0,W,Wes,Hoolahan
+66,Cesar Azpilicueta,98,CHEL,Defender,36,2,4,8,1,7,0,2,1,3,0,0,52,24,0,C,Cesar,Azpilicueta
+67,Ryan Bertrand,98,SOTOM,Defender,32,1,3,9,0,6,0,0,0,0,0,0,33,10,0,R,Ryan,Bertrand
+68,Moussa Sissoko,97,NEWU,Midfielder,37,1,7,0,0,3,0,0,0,6,0,0,0,0,0,M,Moussa,Sissoko
+69,Bacary Sagna,97,MCFC,Defender,27,0,3,11,2,4,0,7,1,1,0,0,26,11,0,B,Bacary,Sagna
+70,Pedro Rodriguez,97,CHEL,Midfielder,24,7,4,0,0,3,0,5,5,15,0,0,0,0,0,P,Pedro,Rodriguez
+71,Aaron Ramsey,96,ARSL,Midfielder,29,5,5,0,0,4,0,3,2,2,0,0,0,0,0,A,Aaron,Ramsey
+72,Marc Albrighton,96,LEICSC,Midfielder,34,2,6,0,0,4,0,4,4,22,0,0,0,0,0,M,Marc,Albrighton
+73,Simon Mignolet,96,LPOOL,Goalkeeper,34,0,0,11,0,2,0,3,0,0,1,0,42,19,0,S,Simon,Mignolet
+74,Charlie Daniels,96,BOU,Defender,37,3,5,7,0,2,0,0,0,1,0,0,64,34,0,C,Charlie,Daniels
+75,Michail Antonio,95,WESTHAM,Midfielder,23,8,3,0,0,3,0,10,3,8,0,0,0,0,0,M,Michail,Antonio
+76,Steven Davis,95,SOTOM,Midfielder,31,5,3,0,0,4,0,3,3,14,0,0,0,0,0,S,Steven,Davis
+77,Christian Benteke,95,LPOOL,Forward,14,9,3,0,0,2,0,16,15,3,0,0,0,0,0,C,Christian,Benteke
+78,Ashley Williams,93,SWAN,Defender,36,2,2,9,0,8,0,0,0,0,0,0,50,23,0,A,Ashley,Williams
+79,Yann M'Vila,92,SUND,Midfielder,36,1,5,0,0,1,0,1,1,4,0,0,0,0,0,Y,Yann,M'Vila
+80,Cheikhou Kouyate,91,WESTHAM,Midfielder,34,5,2,0,0,5,1,0,0,3,0,0,0,0,0,C,Cheikhou,Kouyate
+81,Adrian,90,WESTHAM,Goalkeeper,32,0,0,9,0,1,1,0,0,0,2,0,39,16,0,A,Adrian,Adrian
+82,Joshua King,90,BOU,Forward,24,6,2,0,0,1,0,7,7,18,0,0,0,0,0,J,Joshua,King
+83,Raheem Sterling,89,MCFC,Midfielder,23,6,2,0,0,1,0,11,8,15,0,0,0,0,0,R,Raheem,Sterling
+84,Adam Lallana,89,LPOOL,Midfielder,23,4,6,0,0,2,0,9,7,13,0,0,0,0,0,A,Adam,Lallana
+85,Jonathan Howson,89,NCFC,Midfielder,33,3,4,0,0,7,0,3,3,5,0,0,0,0,0,J,Jonathan,Howson
+86,Andy Carroll,89,WESTHAM,Forward,13,9,2,0,0,2,0,15,14,5,0,0,0,0,0,A,Andy,Carroll
+87,Lukasz Fabianski,89,SWAN,Goalkeeper,37,0,1,9,0,1,0,0,0,0,0,0,51,23,0,L,Lukasz,Fabianski
+88,Branislav Ivanovic,88,CHEL,Defender,33,2,2,8,0,5,0,0,0,2,0,0,46,21,0,B,Branislav,Ivanovic
+89,Ayoze Perez,88,NEWU,Forward,22,6,2,0,0,4,0,16,12,12,0,0,0,0,0,A,Ayoze,Perez
+90,Patrick van Aanholt,88,SUND,Defender,33,4,3,6,0,2,0,4,0,0,0,0,56,29,0,P,Patrick,Aanholt
+91,Shinji Okazaki,88,LEICSC,Forward,28,5,0,0,0,1,0,10,8,25,0,0,0,0,0,S,Shinji,Okazaki
+92,Alberto Moreno,88,LPOOL,Defender,28,1,5,6,3,3,0,6,4,3,0,0,42,19,0,A,Alberto,Moreno
+93,Robert Brady,88,NCFC,Midfielder,34,3,2,0,0,3,0,2,2,6,0,0,0,0,0,R,Robert,Brady
+94,Matteo Darmian,88,MUFC,Defender,24,1,0,8,8,8,0,7,4,11,0,0,21,9,0,M,Matteo,Darmian
+95,N'Golo Kante,87,LEICSC,Midfielder,33,1,5,0,0,3,0,4,4,2,0,0,0,0,0,N,N'Golo,Kante
+96,Darren Fletcher,87,WBFC,Midfielder,38,1,3,0,0,3,0,0,0,2,0,0,0,0,0,D,Darren,Fletcher
+97,Gareth McAuley,86,WBFC,Defender,34,1,0,10,0,4,1,0,0,0,0,0,41,17,1,G,Gareth,McAuley
+98,Nathaniel Clyne,86,LPOOL,Defender,33,1,1,10,0,6,0,1,0,0,0,0,45,22,0,N,Nathaniel,Clyne
+99,Jack Butland,86,STOKEC,Goalkeeper,31,0,0,10,0,0,0,0,0,0,0,0,37,16,0,J,Jack,Butland
+100,Bojan Krkic,85,STOKEC,Forward,22,7,1,0,0,2,0,13,5,17,0,0,0,0,0,B,Bojan,Krkic
+101,Craig Cathcart,85,WFC,Defender,34,1,0,10,0,3,0,2,1,1,0,0,48,23,1,C,Craig,Cathcart
+102,Eric Dier,85,SPURS,Midfielder,37,3,2,0,0,10,0,0,0,5,0,0,0,0,0,E,Eric,Dier
+103,Yohan Cabaye,84,LCFC,Midfielder,32,5,1,0,0,7,0,1,1,15,0,1,0,0,0,Y,Yohan,Cabaye
+104,Yannick Bolasie,84,LCFC,Midfielder,23,5,4,0,0,2,0,3,3,4,0,0,0,0,0,Y,Yannick,Bolasie
+105,Xherdan Shaqiri,84,STOKEC,Midfielder,27,3,6,0,0,3,0,2,0,18,0,0,0,0,0,X,Xherdan,Shaqiri
+106,Nicolas Otamendi,84,MCFC,Defender,30,1,0,11,0,9,0,3,0,1,0,0,35,16,0,N,Nicolas,Otamendi
+107,Danny Rose,83,SPURS,Defender,24,1,3,8,0,7,0,10,0,3,0,0,20,4,0,D,Danny,Rose
+108,Jordan Ayew,83,AVILLA,Forward,27,7,0,0,0,6,1,7,3,7,0,0,0,0,0,J,Jordan,Ayew
+109,Steve Cook,83,BOU,Defender,36,4,1,7,0,5,0,1,0,1,0,0,64,35,0,S,Steve,Cook
+110,Eden Hazard,83,CHEL,Midfielder,25,4,3,0,0,2,0,6,6,6,0,0,0,0,0,E,Eden,Hazard
+111,Manuel Lanzini,82,WESTHAM,Midfielder,23,6,2,0,0,3,0,5,3,13,0,0,0,0,0,M,Manuel,Lanzini
+112,Erik Pieters,82,STOKEC,Defender,35,0,1,10,0,10,0,0,0,3,0,0,46,21,0,E,Erik,Pieters
+113,Dieudonne Mbokani,82,NCFC,Forward,15,7,1,0,0,0,0,17,14,5,0,0,0,0,0,D,Dieudonne,Mbokani
+114,Andrew Surman,81,BOU,Midfielder,38,0,3,0,0,4,0,0,0,0,0,0,0,0,0,A,Andrew,Surman
+115,Bafetimbi Gomis,81,SWAN,Forward,18,6,0,0,0,0,0,18,15,8,0,0,0,0,0,B,Bafetimbi,Gomis
+116,Jason Puncheon,81,LCFC,Forward,31,2,4,0,0,3,0,2,0,10,0,0,0,0,0,J,Jason,Puncheon
+117,Jesus Navas,81,MCFC,Midfielder,24,0,8,0,0,1,0,12,10,8,0,0,0,0,0,J,Jesus,Navas
+118,Glen Johnson,80,STOKEC,Defender,25,0,3,9,0,1,0,0,0,2,0,0,30,14,0,G,Glen,Johnson
+119,Jonny Evans,79,WBFC,Defender,30,1,1,7,1,4,0,0,0,3,0,0,37,15,0,J,Jonny,Evans
+120,Jan Vertonghen,77,SPURS,Defender,29,0,0,9,0,5,0,0,0,1,0,0,29,9,1,J,Jan,Vertonghen
+121,Theo Walcott,77,ARSL,Forward,15,5,3,0,0,0,0,18,13,13,0,0,0,0,0,T,Theo,Walcott
+122,Philipp Wollscheid,76,STOKEC,Defender,30,0,0,10,0,2,0,7,1,1,0,0,44,23,0,P,Philipp,Wollscheid
+123,Allan Nyom,76,WFC,Defender,29,0,1,9,1,8,0,9,3,9,0,0,40,18,0,A,Allan,Nyom
+124,Seamus Coleman,76,EVER,Defender,27,1,4,7,0,4,0,1,1,4,0,0,38,17,1,S,Seamus,Coleman
+125,Kelechi Iheanacho,75,MCFC,Forward,7,8,1,0,0,1,0,28,19,5,0,0,0,0,0,K,Kelechi,Iheanacho
+126,Rudy Gestede,75,AVILLA,Forward,14,5,2,0,0,2,0,20,18,3,0,0,0,0,0,R,Rudy,Gestede
+127,Artur Boruc,75,BOU,Goalkeeper,32,0,0,7,0,1,0,1,0,0,2,0,51,26,0,A,Artur,Boruc
+128,Neil Taylor,75,SWAN,Defender,33,0,1,8,0,4,0,1,1,1,0,0,49,23,0,N,Neil,Taylor
+129,Federico Fernandez,75,SWAN,Defender,32,1,1,8,0,3,0,5,0,0,0,0,44,20,2,F,Federico,Fernandez
+130,Joel Ward,75,LCFC,Defender,30,2,1,6,0,4,0,1,0,1,0,0,42,18,0,J,Joel,Ward
+131,Cedric Soares,75,SOTOM,Defender,23,0,3,5,5,3,0,11,1,7,0,0,22,8,0,C,Cedric,Soares
+132,Jonathan Walters,75,STOKEC,Midfielder,18,5,2,0,0,1,0,11,9,4,0,0,0,0,0,J,Jonathan,Walters
+133,Arouna Kone,74,EVER,Forward,16,5,3,0,0,1,0,16,9,10,0,0,0,0,0,A,Arouna,Kone
+134,Dan Gosling,74,BOU,Midfielder,28,3,1,0,0,6,0,9,6,7,0,0,0,0,0,D,Dan,Gosling
+135,Gerard Deulofeu,74,EVER,Midfielder,16,2,8,0,0,2,0,17,10,11,0,0,0,0,0,G,Gerard,Deulofeu
+136,Damien Delaney,73,LCFC,Defender,32,2,2,5,0,2,0,2,0,0,0,0,46,19,2,D,Damien,Delaney
+137,Ashley R Westwood,73,AVILLA,Midfielder,31,2,2,0,0,6,0,4,1,3,0,0,0,0,0,A,Ashley,Westwood
+138,Fabio Borini,73,SUND,Forward,22,5,2,0,0,6,0,7,4,11,0,0,0,0,0,F,Fabio,Borini
+139,Per Mertesacker,72,ARSL,Defender,24,0,0,9,1,1,1,7,0,1,0,0,24,10,0,P,Per,Mertesacker
+140,Fernandinho,72,MCFC,Midfielder,31,2,2,0,0,8,0,4,2,4,0,0,0,0,0,F,Fernandinho,Fernandinho
+141,Wilfred Zaha,72,LCFC,Forward,30,2,1,0,0,5,0,4,4,12,0,0,0,0,0,W,Wilfred,Zaha
+142,James McClean,72,WBFC,Midfielder,28,2,3,0,0,7,1,7,7,8,0,0,0,0,0,J,James,McClean
+143,Nemanja Matic,72,CHEL,Midfielder,28,2,2,0,0,5,0,9,5,8,0,0,0,0,0,N,Nemanja,Matic
+144,Leonardo Ulloa,72,LEICSC,Forward,7,6,2,0,0,0,0,29,22,5,0,0,0,0,0,L,Leonardo,Ulloa
+145,Cameron Jerome,72,NCFC,Forward,19,3,2,0,0,2,0,19,15,13,0,0,0,0,0,C,Cameron,Jerome
+146,Moussa Dembele,71,SPURS,Midfielder,27,3,1,0,0,3,0,2,2,10,0,0,0,0,0,M,Moussa,Dembele
+147,Wayne Hennessey,71,LCFC,Goalkeeper,29,0,0,8,0,1,0,6,0,0,0,0,36,15,1,W,Wayne,Hennessey
+148,Ben Watson,71,WFC,Midfielder,31,2,0,0,0,5,0,7,4,3,0,0,0,0,0,B,Ben,Watson
+149,Angelo Obinze Ogbonna,71,WESTHAM,Defender,27,0,0,9,1,5,0,6,1,2,0,0,35,17,0,A,Angelo,Ogbonna
+150,Ramiro Funes Mori,71,EVER,Defender,24,4,1,6,0,4,1,7,4,0,0,0,43,21,0,R,Ramiro,Mori
+151,Craig Gardner,71,WBFC,Midfielder,20,3,3,0,0,5,0,18,14,11,0,1,0,0,0,C,Craig,Gardner
+152,Gabriel Paulista,71,ARSL,Defender,18,1,0,10,1,4,1,17,3,0,0,0,18,8,0,G,Gabriel,Paulista
+153,Glenn Whelan,71,STOKEC,Midfielder,37,0,1,0,0,6,0,0,0,8,0,0,0,0,0,G,Glenn,Whelan
+154,Simon Francis,70,BOU,Defender,38,0,4,6,1,5,1,0,0,0,0,0,67,36,0,S,Simon,Francis
+155,Pape Souare,70,LCFC,Defender,34,0,1,7,0,5,1,0,0,1,0,0,45,18,1,P,Pape,Souare
+156,Aaron Lennon,69,EVER,Midfielder,17,5,1,0,0,1,0,15,8,8,0,0,0,0,0,A,Aaron,Lennon
+157,Idrissa Gana Gueye,69,AVILLA,Midfielder,35,0,3,0,0,10,0,0,0,5,0,0,0,0,0,I,Idrissa,Gueye
+158,Connor Wickham,69,LCFC,Forward,15,5,3,0,0,1,0,6,6,10,0,0,0,0,0,C,Connor,Wickham
+159,James McCarthy,68,EVER,Midfielder,29,2,2,0,0,6,0,0,0,6,0,0,0,0,0,J,James,McCarthy
+160,Jonjo Shelvey,68,SWAN,Midfielder,25,1,5,0,0,8,0,8,6,8,0,0,0,0,0,J,Jonjo,Shelvey
+161,Jack Cork,68,SWAN,Midfielder,28,1,2,0,0,3,0,10,7,4,0,0,0,0,1,J,Jack,Cork
+162,Daniel Sturridge,68,LPOOL,Forward,11,8,1,0,0,0,0,7,3,5,0,0,0,0,0,D,Daniel,Sturridge
+163,James Ward-Prowse,67,SOTOM,Midfielder,14,2,5,0,0,5,0,24,19,5,0,0,0,0,0,J,James,Ward-Prowse
+164,John Stones,67,EVER,Defender,31,0,0,8,0,3,0,2,2,2,0,0,51,26,0,J,John,Stones
+165,Saido Berahino,67,WBFC,Forward,17,4,1,0,0,0,0,18,14,10,0,2,0,0,0,S,Saido,Berahino
+166,Kurt Zouma,66,CHEL,Defender,21,1,0,8,0,0,0,4,2,1,0,0,30,15,0,K,Kurt,Zouma
+167,Jonas Olsson,65,WBFC,Defender,25,1,1,5,3,5,0,11,3,6,0,0,34,14,1,J,Jonas,Olsson
+168,Oscar,65,CHEL,Midfielder,20,3,3,0,0,4,0,10,7,12,0,1,0,0,0,O,Oscar,Oscar
+169,Wilfried Bony,65,MCFC,Forward,13,4,3,0,0,1,0,16,13,9,0,1,0,0,0,W,Wilfried,Bony
+170,Ibrahim Afellay,65,STOKEC,Midfielder,24,2,2,0,0,3,1,8,7,10,0,0,0,0,0,I,Ibrahim,Afellay
+171,James McArthur,65,LCFC,Midfielder,26,2,2,0,0,5,0,2,2,10,0,0,0,0,0,J,James,McArthur
+172,Vincent Kompany,65,MCFC,Defender,13,2,0,9,0,5,0,2,1,1,0,0,8,3,0,V,Vincent,Kompany
+173,Heung Min Son,64,SPURS,Midfielder,13,4,1,0,0,0,0,17,15,12,0,0,0,0,0,H,Heung,Son
+174,Diafra Sakho,64,WESTHAM,Forward,18,5,1,0,0,3,0,3,3,11,0,0,0,0,0,D,Diafra,Sakho
+175,Jesse Lingard,63,MUFC,Midfielder,19,4,1,0,0,4,0,6,6,8,0,0,0,0,0,J,Jesse,Lingard
+176,Tom Cleverley,63,EVER,Midfielder,17,2,5,0,0,1,0,9,5,6,0,0,0,0,0,T,Tom,Cleverley
+177,Mame Biram Diouf,63,STOKEC,Forward,12,5,1,0,0,3,0,22,14,5,0,0,0,0,0,M,Mame,Diouf
+178,James Tomkins,63,WESTHAM,Defender,23,0,0,8,0,3,0,9,2,6,0,0,31,14,0,J,James,Tomkins
+179,Almen Abdi,63,WFC,Midfielder,25,2,0,0,0,4,0,11,7,20,0,0,0,0,0,A,Almen,Abdi
+180,Eliaquim Mangala,62,MCFC,Defender,23,0,0,9,0,8,0,5,0,2,0,0,23,9,1,E,Eliaquim,Mangala
+181,Etienne Capoue,62,WFC,Midfielder,33,0,1,0,0,7,0,0,0,8,0,0,0,0,0,E,Etienne,Capoue
+182,Victor Wanyama,61,SOTOM,Midfielder,29,1,2,0,0,6,1,1,1,3,0,0,0,0,0,V,Victor,Wanyama
+183,Claudio Yacob,61,WBFC,Midfielder,33,0,1,0,0,9,0,2,1,8,0,0,0,0,0,C,Claudio,Yacob
+184,Dejan Lovren,61,LPOOL,Defender,22,0,0,8,0,2,0,4,2,3,0,0,31,15,0,D,Dejan,Lovren
+185,Ander Herrera,61,MUFC,Midfielder,17,3,2,0,0,4,0,15,10,11,0,0,0,0,0,A,Ander,Herrera
+186,Marc Pugh,61,BOU,Midfielder,15,3,2,0,0,1,0,17,11,10,0,0,0,0,0,M,Marc,Pugh
+187,Stephane Sessegnon,61,WBFC,Midfielder,21,2,2,0,0,1,0,6,4,12,0,0,0,0,0,S,Stephane,Sessegnon
+188,Wayne Routledge,60,SWAN,Midfielder,22,2,1,0,0,3,0,11,6,17,0,0,0,0,0,W,Wayne,Routledge
+189,Chancel Mbemba,60,NEWU,Defender,33,0,0,7,0,5,0,0,0,1,0,0,55,29,0,C,Chancel,Mbemba
+190,Tim Howard,60,EVER,Goalkeeper,25,0,0,7,0,1,0,11,0,0,0,0,35,17,0,T,Tim,Howard
+191,Daryl Janmaat,60,NEWU,Defender,32,2,4,3,1,6,0,1,0,3,0,0,62,34,0,D,Daryl,Janmaat
+192,Vurnon Anita,60,NEWU,Midfielder,24,1,3,0,0,6,0,5,4,10,0,0,0,0,0,V,Vurnon,Anita
+193,Kyle Naughton,60,SWAN,Defender,19,0,3,4,3,2,1,18,8,1,0,0,32,12,0,K,Kyle,Naughton
+194,Philip Jagielka,59,EVER,Defender,21,0,0,7,0,0,0,1,0,2,0,0,25,11,0,P,Philip,Jagielka
+195,Nathan Ake,59,WFC,Defender,20,1,1,7,0,4,1,7,4,1,0,0,31,14,0,N,Nathan,Ake
+196,Nacer Chadli,59,SPURS,Midfielder,10,3,2,0,0,1,0,21,19,5,0,0,0,0,0,N,Nacer,Chadli
+197,Morgan Schneiderlin,59,MUFC,Midfielder,25,1,1,0,0,3,0,12,4,4,0,0,0,0,0,M,Morgan,Schneiderlin
+198,Gareth Barry,59,EVER,Midfielder,32,0,0,0,0,6,0,1,1,1,0,0,0,0,0,G,Gareth,Barry
+199,Steven Naismith,58,EVER,Forward,15,4,1,0,0,3,0,16,8,13,0,0,0,0,0,S,Steven,Naismith
+200,Junior Stanislas,58,BOU,Midfielder,17,3,2,0,0,1,0,7,4,9,0,0,0,0,0,J,Junior,Stanislas
+201,Geoff Cameron,58,STOKEC,Defender,27,0,0,4,4,0,1,3,3,5,0,0,42,20,0,G,Geoff,Cameron
+202,Adam Smith,58,BOU,Defender,22,2,1,6,1,5,0,10,9,2,0,0,53,29,0,A,Adam,Smith
+203,Jordan Veretout,57,AVILLA,Midfielder,21,0,5,0,0,4,0,11,4,8,0,0,0,0,0,J,Jordan,Veretout
+204,Boaz Myhill,57,WBFC,Goalkeeper,23,0,0,7,0,2,0,15,0,0,0,0,31,15,0,B,Boaz,Myhill
+205,Russell Martin,56,NCFC,Defender,30,3,0,4,0,4,1,3,0,0,0,0,54,28,0,R,Russell,Martin
+206,Paul Dummett,56,NEWU,Defender,23,1,0,6,0,3,0,1,0,5,0,0,33,16,0,P,Paul,Dummett
+207,Younes Kaboul,56,SUND,Defender,22,0,1,7,0,4,0,2,1,1,0,0,32,16,0,Y,Younes,Kaboul
+208,DeAndre Yedlin,56,SUND,Defender,21,0,1,6,0,2,0,10,2,3,0,0,30,13,0,D,DeAndre,Yedlin
+209,Scott Sinclair,56,AVILLA,Forward,19,2,0,0,0,0,0,18,8,10,0,0,0,0,0,S,Scott,Sinclair
+210,Sung-Yueng Ki,55,SWAN,Midfielder,21,2,1,0,0,4,0,11,7,8,0,0,0,0,1,S,Sung-Yueng,Ki
+211,Fraser Forster,55,SOTOM,Goalkeeper,18,0,0,6,0,0,0,0,0,0,0,0,17,5,0,F,Fraser,Forster
+212,Leandro Bacuna,55,AVILLA,Midfielder,27,1,0,0,0,8,0,11,4,5,0,0,0,0,0,L,Leandro,Bacuna
+213,Kevin Mirallas,55,EVER,Forward,10,4,2,0,0,1,1,23,13,4,0,0,0,0,0,K,Kevin,Mirallas
+214,Joselu,55,STOKEC,Forward,10,4,1,0,0,0,0,24,12,4,0,0,0,0,0,J,Joselu,Joselu
+215,Miguel Britos,55,WFC,Defender,24,0,0,7,0,7,0,5,0,3,0,0,31,14,0,M,Miguel,Britos
+216,Enner Valencia,54,WESTHAM,Midfielder,10,4,2,0,0,1,0,12,9,7,0,0,0,0,0,E,Enner,Valencia
+217,Jack Colback,54,NEWU,Midfielder,28,1,1,0,0,11,0,1,1,10,0,0,0,0,0,J,Jack,Colback
+218,Lamine Kone,54,SUND,Defender,15,2,1,4,0,0,0,0,0,1,0,0,16,5,0,L,Lamine,Kone
+219,Jeremain Lens,54,SUND,Forward,14,3,3,0,0,4,0,12,6,7,0,0,0,0,0,J,Jeremain,Lens
+220,Andros Townsend,54,SPURS,Midfielder,12,4,2,0,0,0,0,9,4,3,0,0,0,0,0,A,Andros,Townsend
+221,James Morrison,54,WBFC,Midfielder,17,3,3,0,0,3,0,2,1,7,0,1,0,0,0,J,James,Morrison
+222,Emre Can,54,LPOOL,Midfielder,28,1,0,0,0,9,0,2,2,4,0,0,0,0,0,E,Emre,Can
+223,Mamadou Sakho,53,LPOOL,Defender,21,1,0,5,0,1,0,4,1,2,0,0,31,14,0,M,Mamadou,Sakho
+224,Marcos Rojo,53,MUFC,Defender,15,0,1,5,4,3,0,3,1,6,0,0,13,6,0,M,Marcos,Rojo
+225,Jordan Henderson,53,LPOOL,Midfielder,15,2,4,0,0,1,0,4,2,5,0,0,0,0,0,J,Jordan,Henderson
+226,Marcus Rashford,53,MUFC,Forward,11,5,2,0,0,0,0,2,0,7,0,0,0,0,0,M,Marcus,Rashford
+227,Memphis Depay,53,MUFC,Midfielder,16,2,0,0,0,2,0,21,13,6,0,0,0,0,0,M,Memphis,Depay
+228,Adam Johnson,52,SUND,Midfielder,11,2,5,0,0,3,0,9,8,3,0,0,0,0,0,A,Adam,Johnson
+229,Winston Reid,52,WESTHAM,Defender,24,1,1,6,0,5,0,2,0,1,0,0,38,20,1,W,Winston,Reid
+230,Sebastian Prodl,52,WFC,Defender,19,2,0,5,0,5,0,14,2,0,0,0,29,13,0,S,Sebastian,Prodl
+231,Jose Manuel Jurado,51,WFC,Midfielder,27,0,0,0,0,3,0,2,0,20,0,0,0,0,0,J,Jose,Jurado
+232,Divock Origi,51,LPOOL,Forward,7,5,1,0,0,0,0,16,9,5,0,0,0,0,0,D,Divock,Origi
+233,Thibaut Courtois,51,CHEL,Goalkeeper,23,0,0,5,0,1,2,1,0,0,1,0,31,13,0,T,Thibaut,Courtois
+234,Matt Targett,51,SOTOM,Defender,13,0,1,6,2,1,0,4,1,5,0,0,12,6,0,M,Matt,Targett
+235,Joel Campbell,51,ARSL,Forward,11,3,2,0,0,0,0,19,8,10,0,0,0,0,0,J,Joel,Campbell
+236,Luis Antonio Valencia,51,MUFC,Defender,8,0,3,4,5,1,0,10,6,2,0,0,10,5,0,L,Luis,Valencia
+237,Lee Cattermole,50,SUND,Midfielder,27,0,0,0,0,8,0,5,4,11,0,0,0,0,0,L,Lee,Cattermole
+238,Maarten Stekelenburg,50,SOTOM,Goalkeeper,17,0,0,6,0,0,0,16,0,0,0,0,19,8,0,M,Maarten,Stekelenburg
+239,Martin Skrtel,50,LPOOL,Defender,21,1,0,6,0,5,0,5,1,1,0,0,30,14,1,M,Martin,Skrtel
+240,Jordan Ibe,50,LPOOL,Midfielder,12,1,2,0,0,0,0,21,15,9,0,0,0,0,0,J,Jordan,Ibe
+241,Leighton Baines,50,EVER,Defender,16,2,1,4,0,0,0,7,2,0,0,0,27,13,0,L,Leighton,Baines
+242,Alexander Tettey,49,NCFC,Midfielder,23,2,1,0,0,10,0,0,0,3,0,0,0,0,0,A,Alexander,Tettey
+243,Joleon Lescott,49,WBFC,Defender,32,1,0,5,0,2,0,6,0,2,0,0,65,38,0,J,Joleon,Lescott
+244,John Terry,49,CHEL,Defender,24,1,0,6,0,2,1,2,0,3,0,0,38,20,1,J,John,Terry
+245,Papiss Cisse,49,NEWU,Forward,14,3,0,0,0,1,0,11,7,11,0,0,0,0,0,P,Papiss,Cisse
+246,Maya Yoshida,49,SOTOM,Defender,10,1,0,4,4,0,0,27,10,2,0,0,22,10,0,M,Maya,Yoshida
+247,Ikechi Anya,48,WFC,Midfielder,17,0,1,0,0,0,0,20,11,5,0,0,0,0,0,I,Ikechi,Anya
+248,Sebastien Bassong,48,NCFC,Defender,30,1,0,4,0,4,0,5,2,1,0,0,59,31,0,S,Sebastien,Bassong
+249,Duncan Watmore,48,SUND,Midfielder,7,3,1,0,0,0,0,19,16,3,0,0,0,0,0,D,Duncan,Watmore
+250,Fernando,47,MCFC,Midfielder,17,2,0,0,0,4,0,11,7,3,0,0,0,0,0,F,Fernando,Fernando
+251,Carles Gil,47,AVILLA,Midfielder,17,2,0,0,0,3,0,17,6,12,0,0,0,0,0,C,Carles,Gil
+252,Steven Fletcher,47,SUND,Forward,11,4,0,0,0,0,0,10,5,9,0,0,0,0,0,S,Steven,Fletcher
+253,Ryan Shawcross,47,STOKEC,Defender,20,0,0,7,0,3,0,0,0,1,0,0,31,18,0,R,Ryan,Shawcross
+254,Callum Wilson,47,BOU,Forward,9,5,0,0,0,0,0,4,4,4,0,0,0,0,0,C,Callum,Wilson
+255,Benik Afobe,47,BOU,Forward,12,4,0,0,0,0,0,3,3,10,0,0,0,0,0,B,Benik,Afobe
+256,Gael Clichy,46,MCFC,Defender,12,0,1,5,1,0,0,13,2,2,0,0,13,5,0,G,Gael,Clichy
+257,Michael Carrick,46,MUFC,Midfielder,22,0,0,0,0,4,0,9,6,7,0,0,0,0,0,M,Michael,Carrick
+258,Ben Davies,46,SPURS,Defender,14,0,2,5,0,3,0,19,3,0,0,0,20,8,0,B,Ben,Davies
+259,John Ruddy,46,NCFC,Goalkeeper,27,0,0,3,0,0,0,11,0,0,0,0,44,20,0,J,John,Ruddy
+260,James Collins,46,WESTHAM,Defender,16,0,0,5,1,3,1,13,3,1,0,0,18,5,0,J,James,Collins
+261,Jeffrey Schlupp,45,LEICSC,Forward,14,1,2,0,0,4,0,11,10,5,0,0,0,0,0,J,Jeffrey,Schlupp
+262,Andy King,45,LEICSC,Midfielder,9,2,1,0,0,2,0,27,16,1,0,0,0,0,0,A,Andy,King
+263,Victor Moses,45,CHEL,Midfielder,13,1,2,0,0,0,0,12,8,11,0,0,0,0,0,V,Victor,Moses
+264,Oriol Romeu,44,SOTOM,Midfielder,17,1,0,0,0,7,0,19,12,7,0,0,0,0,0,O,Oriol,Romeu
+265,Danny Welbeck,44,ARSL,Forward,7,4,2,0,0,0,0,5,4,7,0,0,0,0,0,D,Danny,Welbeck
+266,Vito Mannone,44,SUND,Goalkeeper,19,0,0,4,0,2,0,19,0,0,0,0,23,8,0,V,Vito,Mannone
+267,Chris Brunt,44,WBFC,Midfielder,20,0,3,0,0,7,0,2,2,4,0,0,0,0,0,C,Chris,Brunt
+268,Martin Olsson,44,NCFC,Defender,20,1,2,3,1,2,0,13,4,2,0,0,43,23,0,M,Martin,Olsson
+269,Francis Coquelin,44,ARSL,Midfielder,21,0,1,0,0,6,0,6,5,8,0,0,0,0,0,F,Francis,Coquelin
+270,Bakary Sako,43,LCFC,Midfielder,11,2,1,0,0,1,0,12,9,8,0,0,0,0,0,B,Bakary,Sako
+271,Matt Jarvis,43,WESTHAM,Midfielder,13,1,1,0,0,0,0,15,9,10,0,0,0,0,0,M,Matt,Jarvis
+272,Lucas Leiva,43,LPOOL,Midfielder,21,0,1,0,0,8,0,9,6,4,0,0,0,0,0,L,Lucas,Leiva
+273,Jefferson Montero,43,SWAN,Midfielder,14,0,2,0,0,0,0,18,9,9,0,0,0,0,0,J,Jefferson,Montero
+274,Fabricio Coloccini,42,NEWU,Defender,26,1,0,5,0,1,1,0,0,1,0,0,49,28,1,F,Fabricio,Coloccini
+275,John O'Shea,42,SUND,Defender,23,0,0,1,4,2,0,11,5,3,0,0,42,19,0,J,John,O'Shea
+276,Gary Cahill,42,CHEL,Defender,21,2,1,2,0,2,0,12,2,0,0,0,39,18,1,G,Gary,Cahill
+277,John Mikel Obi,41,CHEL,Midfielder,19,0,1,0,0,6,0,16,6,4,0,0,0,0,0,J,John,Obi
+278,Joe Allen,40,LPOOL,Midfielder,8,2,1,0,0,0,0,21,11,5,0,0,0,0,0,J,Joe,Allen
+279,Glenn Murray,40,LCFC,Forward,8,3,0,0,0,2,0,18,13,7,0,1,0,0,0,G,Glenn,Murray
+280,Angel Rangel,40,SWAN,Defender,20,0,0,4,1,6,0,17,3,4,0,0,33,15,0,A,Angel,Rangel
+281,Harry Arter,40,BOU,Midfielder,21,1,0,0,0,7,0,0,0,13,0,0,0,0,0,H,Harry,Arter
+282,Leon Britton,40,SWAN,Midfielder,19,0,0,0,0,4,0,11,6,12,0,0,0,0,0,L,Leon,Britton
+283,Gabriel Agbonlahor,39,AVILLA,Forward,13,1,2,0,0,0,0,2,2,7,0,0,0,0,0,G,Gabriel,Agbonlahor
+284,Modou Barrow,39,SWAN,Forward,6,1,2,0,0,0,0,22,16,4,0,0,0,0,0,M,Modou,Barrow
+285,Ben Foster,39,WBFC,Goalkeeper,15,0,0,4,0,1,0,2,0,0,0,0,17,6,0,B,Ben,Foster
+286,Cuco Martina,38,SOTOM,Defender,11,1,2,1,2,1,0,19,4,1,0,0,18,6,0,C,Cuco,Martina
+287,Mauro Zarate,38,WESTHAM,Forward,9,3,0,0,0,1,0,8,6,8,0,0,0,0,0,M,Mauro,Zarate
+288,Wahbi Khazri,37,SUND,Midfielder,13,2,1,0,0,3,0,2,1,7,0,0,0,0,0,W,Wahbi,Khazri
+289,Jordy Clasie,37,SOTOM,Midfielder,20,0,0,0,0,5,0,8,2,16,0,0,0,0,0,J,Jordy,Clasie
+290,Dwight Gayle,37,LCFC,Forward,8,3,0,0,0,2,0,11,8,5,0,0,0,0,0,D,Dwight,Gayle
+291,Robert Elliot,37,NEWU,Goalkeeper,21,0,0,4,0,1,0,4,0,0,0,0,37,20,0,R,Robert,Elliot
+292,Mile Jedinak,37,LCFC,Midfielder,16,0,0,0,0,6,0,14,11,2,0,0,0,0,0,M,Mile,Jedinak
+293,Alex Iwobi,37,ARSL,Forward,8,2,2,0,0,0,0,13,5,7,0,0,0,0,0,A,Alex,Iwobi
+294,Alex Oxlade-Chamberlain,36,ARSL,Midfielder,9,1,0,0,0,0,0,14,13,8,0,0,0,0,0,A,Alex,Oxlade-Chamberlain
+295,Pedro Obiang,36,WESTHAM,Midfielder,11,0,1,0,0,2,0,22,13,4,0,0,0,0,0,P,Pedro,Obiang
+296,Graham Dorrans,36,NCFC,Midfielder,14,0,1,0,0,2,0,19,7,7,0,0,0,0,0,G,Graham,Dorrans
+297,Gary O'Neil,36,NCFC,Midfielder,19,0,0,0,0,7,1,15,8,1,0,0,0,0,0,G,Gary,O'Neil
+298,Pablo Zabaleta,36,MCFC,Defender,12,0,2,3,2,3,0,13,1,1,0,0,16,8,0,P,Pablo,Zabaleta
+299,Martin Demichelis,35,MCFC,Defender,10,0,0,3,5,3,0,27,10,1,0,0,26,14,0,M,Martin,Demichelis
+300,Fabian Delph,35,MCFC,Midfielder,8,2,0,0,0,0,0,11,9,7,0,0,0,0,0,F,Fabian,Delph
+301,Max Gradel,35,BOU,Midfielder,11,1,2,0,0,1,0,3,3,11,0,0,0,0,0,M,Max,Gradel
+302,Gianelli Imbula,34,STOKEC,Midfielder,14,2,0,0,0,4,0,0,0,0,0,0,0,0,0,G,Gianelli,Imbula
+303,Santi Cazorla,34,ARSL,Midfielder,15,0,3,0,0,3,0,2,0,2,0,1,0,0,0,S,Santi,Cazorla
+304,Asmir Begovic,34,CHEL,Goalkeeper,15,0,0,4,0,0,0,23,2,0,0,0,27,14,0,A,Asmir,Begovic
+305,Joe Ledley,34,LCFC,Midfielder,11,1,0,0,0,1,0,16,8,7,0,0,0,0,0,J,Joe,Ledley
+306,Marouane Fellaini,33,MUFC,Midfielder,12,1,0,0,0,2,0,15,6,6,0,0,0,0,0,M,Marouane,Fellaini
+307,Bastian Schweinsteiger,33,MUFC,Midfielder,13,1,0,0,0,3,0,5,5,5,0,0,0,0,0,B,Bastian,Schweinsteiger
+308,Charlie Adam,33,STOKEC,Midfielder,12,1,1,0,0,6,1,17,10,7,0,0,0,0,0,C,Charlie,Adam
+309,Carlos Sanchez,33,AVILLA,Midfielder,16,0,0,0,0,3,0,10,4,7,0,0,0,0,0,C,Carlos,Sanchez
+310,Ryan Bennett,33,NCFC,Defender,20,0,0,4,0,7,0,12,2,2,0,0,33,15,1,R,Ryan,Bennett
+311,Kieran Gibbs,33,ARSL,Defender,3,1,0,0,7,0,0,29,12,2,0,0,12,4,0,K,Kieran,Gibbs
+312,Ashley Young,32,MUFC,Midfielder,11,1,1,0,0,5,0,14,7,3,0,0,0,0,0,A,Ashley,Young
+313,Jack Grealish,32,AVILLA,Midfielder,9,1,1,0,0,1,0,16,7,5,0,0,0,0,0,J,Jack,Grealish
+314,Ryan Mason,32,SPURS,Midfielder,8,1,0,0,0,3,0,17,14,7,0,0,0,0,0,R,Ryan,Mason
+315,Kolo Toure,32,LPOOL,Defender,9,1,0,2,2,1,0,21,5,3,0,0,17,7,0,K,Kolo,Toure
+316,Kevin Wimmer,32,SPURS,Defender,9,0,0,4,0,2,0,15,1,1,0,0,7,1,0,K,Kevin,Wimmer
+317,Valon Behrami,32,WFC,Midfielder,14,0,1,0,0,3,1,12,7,6,0,0,0,0,0,V,Valon,Behrami
+318,Cameron Borthwick-Jackson,32,MUFC,Defender,6,0,2,1,4,0,0,10,4,1,0,0,7,2,0,C,Cameron,Borthwick-Jackson
+319,Ciaran Clark,31,AVILLA,Defender,16,1,0,3,2,6,0,15,2,0,0,0,31,18,0,C,Ciaran,Clark
+320,Bryan Oviedo,31,EVER,Defender,12,0,1,3,1,0,0,9,2,4,0,0,22,12,0,B,Bryan,Oviedo
+321,Jack Rodwell,31,SUND,Midfielder,9,1,0,0,0,5,0,20,13,1,0,0,0,0,0,J,Jack,Rodwell
+322,Baba Rahman,31,CHEL,Defender,11,0,1,2,0,1,0,18,4,3,0,0,18,5,0,B,Baba,Rahman
+323,Cheick Tiote,31,NEWU,Midfielder,16,0,0,0,0,5,0,9,4,12,0,0,0,0,0,C,Cheick,Tiote
+324,Lewis Grabban,31,NCFC,Forward,7,1,0,0,0,2,0,19,14,5,0,0,0,0,0,L,Lewis,Grabban
+325,Carl Jenkinson,30,WESTHAM,Defender,13,2,0,0,4,3,1,8,7,2,0,0,28,12,1,C,Carl,Jenkinson
+326,Ricky Lambert,30,WBFC,Forward,5,1,1,0,0,2,0,28,14,3,0,0,0,0,0,R,Ricky,Lambert
+327,Brad Guzan,30,AVILLA,Goalkeeper,28,0,0,2,0,2,0,10,0,0,0,0,58,32,0,B,Brad,Guzan
+328,Karl Darlow,30,NEWU,Goalkeeper,9,0,0,3,0,0,0,21,0,0,1,0,11,5,0,K,Karl,Darlow
+329,Jan Kirchhoff,29,SUND,Midfielder,14,0,0,0,0,0,0,1,1,10,0,0,0,0,0,J,Jan,Kirchhoff
+330,Billy Jones,29,SUND,Defender,23,1,1,2,0,8,0,12,1,2,0,0,48,26,0,B,Billy,Jones
+331,Ramires,28,CHEL,Midfielder,7,2,0,0,0,1,0,9,5,4,0,0,0,0,0,R,Ramires,Ramires
+332,Brendan Galloway,28,EVER,Defender,14,0,1,2,1,2,0,7,1,4,0,0,24,12,0,B,Brendan,Galloway
+333,Bertrand Traore,27,CHEL,Midfielder,4,2,1,0,0,0,0,19,6,4,0,0,0,0,0,B,Bertrand,Traore
+334,Jordan Mutch,27,LCFC,Midfielder,7,0,0,0,0,0,0,21,13,4,0,0,0,0,0,J,Jordan,Mutch
+335,Joel Robles,27,EVER,Goalkeeper,13,0,0,3,0,1,0,25,0,0,0,0,20,10,0,J,Joel,Robles
+336,Phil Jones,27,MUFC,Defender,6,0,0,2,3,0,0,7,4,2,0,0,8,3,0,P,Phil,Jones
+337,Samir Nasri,26,MCFC,Midfielder,4,2,1,0,0,3,0,8,8,2,0,0,0,0,0,S,Samir,Nasri
+338,Ola Toivonen,26,SUND,Forward,9,0,2,0,0,1,0,15,3,7,0,0,0,0,0,O,Ola,Toivonen
+339,Jores Okore,26,AVILLA,Defender,12,0,0,3,0,1,0,6,0,0,0,0,18,9,0,J,Jores,Okore
+340,Emmanuel Adebayor,26,LCFC,Forward,7,1,1,0,0,1,0,6,5,5,0,0,0,0,0,E,Emmanuel,Adebayor
+341,Tom Carroll,25,SPURS,Midfielder,4,1,0,0,0,3,0,28,15,3,0,0,0,0,0,T,Tom,Carroll
+342,Mathieu Flamini,25,ARSL,Midfielder,12,0,0,0,0,3,0,8,4,3,0,0,0,0,0,M,Mathieu,Flamini
+343,Sebastian Larsson,25,SUND,Midfielder,6,0,1,0,0,2,0,18,12,5,0,0,0,0,0,S,Sebastian,Larsson
+344,Jamaal Lascelles,25,NEWU,Defender,10,2,0,3,1,1,1,18,8,0,0,0,37,23,0,J,Jamaal,Lascelles
+345,Marco van Ginkel,25,STOKEC,Midfielder,8,0,0,0,0,0,0,13,9,5,0,0,0,0,0,M,Marco,Ginkel
+346,Alberto Paloschi,25,SWAN,Forward,7,2,0,0,0,2,0,5,3,5,0,0,0,0,0,A,Alberto,Paloschi
+347,Adlene Guedioura,25,WFC,Midfielder,3,0,2,0,0,2,0,26,15,2,0,0,0,0,0,A,Adlene,Guedioura
+348,Costel Pantilimon,24,SUND,Goalkeeper,17,0,0,3,0,3,0,19,0,0,0,0,33,19,0,C,Costel,Pantilimon
+349,Martin Kelly,24,LCFC,Defender,11,0,0,3,0,3,0,25,2,0,0,0,19,9,0,M,Martin,Kelly
+350,Nikica Jelavic,24,WESTHAM,Forward,1,1,2,0,0,1,0,17,12,0,0,0,0,0,0,N,Nikica,Jelavic
+351,Micah Richards,24,AVILLA,Defender,23,1,0,3,1,3,0,9,1,3,0,0,56,36,1,M,Micah,Richards
+352,Leroy Fer,24,SWAN,Midfielder,9,0,2,0,0,2,0,4,2,4,0,0,0,0,0,L,Leroy,Fer
+353,Mark Bunn,24,AVILLA,Goalkeeper,10,0,0,4,0,2,0,28,0,0,1,0,18,12,1,M,Mark,Bunn
+354,Siem De Jong,24,NEWU,Midfielder,3,0,1,0,0,0,0,27,15,3,0,0,0,0,0,S,Siem,Jong
+355,Eunan O'Kane,23,BOU,Midfielder,6,0,1,0,0,2,0,26,10,3,0,0,0,0,0,E,Eunan,O'Kane
+356,Jordan Amavi,23,AVILLA,Forward,9,0,2,0,0,2,0,3,1,0,0,0,0,0,0,J,Jordan,Amavi
+357,Luke Shaw,23,MUFC,Defender,5,0,1,3,0,1,0,0,0,0,0,0,3,1,0,L,Luke,Shaw
+358,Calum Chambers,23,ARSL,Defender,2,0,0,2,5,2,0,27,10,0,0,0,9,4,1,C,Calum,Chambers
+359,Kenedy,23,CHEL,Midfielder,4,1,0,0,0,0,0,20,10,3,0,0,0,0,0,K,Kenedy,Kenedy
+360,Juan Carlos Paredes,23,WFC,Midfielder,7,0,0,0,0,1,0,19,10,4,0,0,0,0,0,J,Juan,Paredes
+361,Brede Hangeland,22,LCFC,Defender,7,0,0,3,0,2,0,6,0,0,0,0,6,2,0,B,Brede,Hangeland
+362,Chung-Yong Lee,22,LCFC,Midfielder,4,1,0,0,0,0,0,21,9,4,0,0,0,0,0,C,Chung-Yong,Lee
+363,Ruben Loftus-Cheek,22,CHEL,Midfielder,4,1,0,0,0,0,0,26,9,2,0,0,0,0,0,R,Ruben,Loftus-Cheek
+364,Sheyi Ojo,22,LPOOL,Midfielder,5,0,3,0,0,0,0,3,3,3,0,0,0,0,0,S,Sheyi,Ojo
+365,Kieran Trippier,22,SPURS,Defender,5,1,1,1,0,1,0,29,1,0,0,0,5,0,0,K,Kieran,Trippier
+366,Timm Klose,21,NCFC,Defender,10,1,0,2,0,3,0,1,0,2,0,0,14,6,1,T,Timm,Klose
+367,James Chester,21,WBFC,Defender,9,0,0,3,0,4,0,28,4,2,0,0,19,9,0,J,James,Chester
+368,Timothy Fosu-Mensah,21,MUFC,Defender,2,0,1,1,4,1,0,8,6,1,0,0,6,3,0,T,Timothy,Fosu-Mensah
+369,Mario Suarez,21,WFC,Midfielder,8,0,0,0,0,2,0,7,7,3,0,0,0,0,0,M,Mario,Suarez
+370,Loic Remy,21,CHEL,Forward,3,1,0,0,0,0,0,22,10,3,0,0,0,0,0,L,Loic,Remy
+371,Nathan Dyer,20,SWAN,Midfielder,0,1,1,0,0,1,0,23,13,0,0,0,0,0,0,N,Nathan,Dyer
+372,Rolando Aarons,20,NEWU,Midfielder,3,1,1,0,0,1,0,13,7,1,0,0,0,0,0,R,Rolando,Aarons
+373,Mohamed Elneny,20,ARSL,Midfielder,9,0,1,0,0,3,0,6,2,4,0,0,0,0,0,M,Mohamed,Elneny
+374,Dame N'Doye,19,SUND,Forward,5,1,0,0,0,2,0,11,6,1,0,0,0,0,0,D,Dame,N'Doye
+375,Alex Song,19,WESTHAM,Midfielder,8,0,0,0,0,1,0,11,4,5,0,0,0,0,0,A,Alex,Song
+376,Jose Holebas,19,WFC,Defender,11,0,0,1,1,2,0,10,0,1,0,0,16,7,0,J,Jose,Holebas
+377,Ritchie de Laet,19,LEICSC,Defender,7,1,0,0,2,1,0,11,5,3,0,0,18,8,0,R,Ritchie,Laet
+378,Sergio Romero,19,MUFC,Goalkeeper,4,0,0,3,0,0,0,33,0,0,0,0,2,1,0,S,Sergio,Romero
+379,Danny Ings,18,LPOOL,Forward,3,2,0,0,0,1,0,6,3,2,0,0,0,0,0,D,Danny,Ings
+380,Joseph Gomez,18,LPOOL,Defender,5,0,1,3,0,3,0,3,0,1,0,0,6,4,0,J,Joseph,Gomez
+381,Muhamed Besic,18,EVER,Midfielder,7,0,0,0,0,1,0,13,5,4,0,0,0,0,0,M,Muhamed,Besic
+382,Kieran Richardson,18,AVILLA,Midfielder,8,0,1,0,0,4,0,14,3,3,0,0,0,0,0,K,Kieran,Richardson
+383,Peter Crouch,18,STOKEC,Forward,4,0,1,0,0,0,0,29,7,0,0,0,0,0,0,P,Peter,Crouch
+384,Jon Flanagan,18,LPOOL,Defender,5,0,1,2,0,1,0,5,0,1,0,0,5,2,0,J,Jon,Flanagan
+385,Emmanuel Emenike,18,WESTHAM,Forward,5,0,0,0,0,0,0,9,8,4,0,0,0,0,0,E,Emmanuel,Emenike
+386,Sandro,17,WBFC,Midfielder,5,0,0,0,0,0,0,10,7,3,0,0,0,0,0,S,Sandro,Sandro
+387,Vadis Odjidja-Ofoe,17,NCFC,Midfielder,3,0,2,0,0,2,0,12,7,3,0,0,0,0,0,V,Vadis,Odjidja-Ofoe
+388,Sebastian Coates,17,SUND,Defender,14,0,1,2,1,4,0,7,2,2,0,0,32,19,1,S,Sebastian,Coates
+389,Jordi Amat,17,SWAN,Defender,5,0,0,0,2,0,0,17,3,1,0,0,6,0,0,J,Jordi,Amat
+390,Danny Graham,17,SUND,Forward,4,0,1,0,0,0,0,12,6,4,0,0,0,0,0,D,Danny,Graham
+391,Andre Wisdom,16,NCFC,Defender,9,0,0,1,0,1,0,8,1,1,0,0,15,6,0,A,Andre,Wisdom
+392,Demarai Gray,16,LEICSC,Midfielder,1,0,1,0,0,0,0,17,11,1,0,0,0,0,0,D,Demarai,Gray
+393,Radamel Falcao,15,CHEL,Forward,1,1,0,0,0,1,0,13,9,0,0,0,0,0,0,R,Radamel,Falcao
+394,Patrick Bamford,15,LCFC,Forward,2,0,0,0,0,0,0,21,11,2,0,0,0,0,0,P,Patrick,Bamford
+395,Callum McManaman,15,WBFC,Midfielder,2,0,1,0,0,2,0,24,10,2,0,0,0,0,0,C,Callum,McManaman
+396,Florian Thauvin,15,NEWU,Midfielder,3,0,0,0,0,1,0,16,10,3,0,0,0,0,0,F,Florian,Thauvin
+397,Eder,15,SWAN,Forward,2,0,0,0,0,0,0,13,11,2,0,0,0,0,0,E,Eder,Eder
+398,Aly Cissokho,15,AVILLA,Defender,18,0,0,3,0,3,1,0,0,0,0,0,42,27,0,A,Aly,Cissokho
+399,Declan Rudd,14,NCFC,Goalkeeper,11,0,0,2,0,2,0,27,0,0,0,0,23,14,0,D,Declan,Rudd
+400,Charlie Austin,14,SOTOM,Forward,2,1,0,0,0,0,0,8,5,2,0,0,0,0,0,C,Charlie,Austin
+401,Sylvain Distin,14,BOU,Defender,9,0,0,1,1,0,0,22,3,0,0,0,23,13,0,S,Sylvain,Distin
+402,Fraizer Campbell,14,LCFC,Forward,4,0,0,0,0,1,0,19,7,4,0,0,0,0,0,F,Fraizer,Campbell
+403,Jay Rodriguez,14,SOTOM,Forward,3,0,0,0,0,1,0,11,9,3,0,0,0,0,0,J,Jay,Rodriguez
+404,Stephen Ireland,14,STOKEC,Midfielder,0,0,1,0,0,2,0,24,13,0,0,0,0,0,0,S,Stephen,Ireland
+405,Alan Hutton,14,AVILLA,Defender,26,0,1,2,0,7,0,5,2,1,0,0,64,38,2,A,Alan,Hutton
+406,Tommy Elphick,13,BOU,Defender,11,1,0,0,0,1,0,6,1,0,0,0,26,14,0,T,Tommy,Elphick
+407,Philip Bardsley,13,STOKEC,Defender,9,0,1,0,1,1,0,6,2,1,0,0,21,11,0,P,Philip,Bardsley
+408,Victor Anichebe,13,WBFC,Forward,3,0,0,0,0,0,0,27,7,2,0,0,0,0,0,V,Victor,Anichebe
+409,Nordin Amrabat,13,WFC,Forward,4,0,0,0,0,3,0,12,8,2,0,0,0,0,0,N,Nordin,Amrabat
+410,Steven Berghuis,13,WFC,Midfielder,0,0,2,0,0,2,0,16,9,0,0,0,0,0,0,S,Steven,Berghuis
+411,Paddy McNair,13,MUFC,Defender,3,0,0,0,2,0,0,20,5,2,0,0,8,2,0,P,Paddy,McNair
+412,David Ospina,13,ARSL,Goalkeeper,4,0,0,2,0,0,0,30,0,0,0,0,5,3,0,D,David,Ospina
+413,Alex McCarthy,12,LCFC,Goalkeeper,7,0,0,0,0,0,0,13,0,0,0,0,9,2,0,A,Alex,McCarthy
+414,Juanmi,12,SOTOM,Forward,0,0,0,0,0,0,0,28,12,0,0,0,0,0,0,J,Juanmi,Juanmi
+415,Marc Muniesa,12,STOKEC,Defender,12,0,0,0,1,2,0,11,3,1,0,0,29,15,0,M,Marc,Muniesa
+416,Adama Traore,12,AVILLA,Forward,0,0,1,0,0,1,0,14,10,1,0,0,0,0,0,A,Adama,Traore
+417,Steven Taylor,12,NEWU,Defender,9,0,0,2,0,1,0,8,1,1,0,0,19,11,1,S,Steven,Taylor
+418,Kevin Stewart,12,LPOOL,Midfielder,6,0,0,0,0,1,0,2,1,0,0,0,0,0,0,K,Kevin,Stewart
+419,Darren Randolph,12,WESTHAM,Goalkeeper,6,0,0,2,0,0,0,30,0,0,0,0,12,8,0,D,Darren,Randolph
+420,Jonathan Leko,11,WBFC,Forward,3,0,1,0,0,0,0,5,2,2,0,0,0,0,0,J,Jonathan,Leko
+421,Adnan Januzaj,11,MUFC,Midfielder,2,1,0,0,0,1,0,5,3,2,0,0,0,0,0,A,Adnan,Januzaj
+422,Youssuf Mulumbu,11,NCFC,Midfielder,5,0,0,0,0,1,0,17,2,4,0,0,0,0,0,Y,Youssuf,Mulumbu
+423,Jordi Gomez,11,SUND,Midfielder,5,0,0,0,0,0,0,6,1,4,0,0,0,0,0,J,Jordi,Gomez
+424,Clinton Mua Njie,11,SPURS,Midfielder,0,0,1,0,0,0,0,10,8,0,0,0,0,0,0,C,Clinton,Njie
+425,Ivo Pinto,11,NCFC,Defender,9,0,0,0,1,0,0,5,1,0,0,0,19,10,0,I,Ivo,Pinto
+426,Massadio Haidara,11,NEWU,Defender,6,0,0,1,0,1,0,3,1,1,0,0,11,5,0,M,Massadio,Haidara
+427,Tyias Browning,11,EVER,Defender,3,0,0,1,1,1,0,5,2,1,0,0,5,2,0,T,Tyias,Browning
+428,Leon Osman,11,EVER,Midfielder,2,0,0,0,0,0,0,32,7,1,0,0,0,0,0,L,Leon,Osman
+429,Miguel Layun,10,WFC,Defender,2,1,0,0,1,0,0,2,1,2,0,0,4,2,0,M,Miguel,Layun
+430,Gabriel Obertan,10,NEWU,Forward,3,0,1,0,0,1,0,6,2,2,0,0,0,0,0,G,Gabriel,Obertan
+431,Stephen Kingsley,10,SWAN,Defender,4,0,1,0,1,0,0,1,0,1,0,0,3,0,1,S,Stephen,Kingsley
+432,Marouane Chamakh,10,LCFC,Forward,1,0,0,0,0,1,0,15,9,1,0,0,0,0,0,M,Marouane,Chamakh
+433,Yoan Gouffran,10,NEWU,Forward,2,0,0,0,0,0,0,16,6,2,0,0,0,0,0,Y,Yoan,Gouffran
+434,Reece Oxford,10,WESTHAM,Midfielder,3,0,0,0,0,0,0,19,4,3,0,0,0,0,0,R,Reece,Oxford
+435,Guillermo Varela,10,MUFC,Defender,3,0,0,1,1,1,0,9,1,0,0,0,4,2,0,G,Guillermo,Varela
+436,Tim Krul,10,NEWU,Goalkeeper,8,0,0,1,0,0,0,0,0,0,0,0,17,10,0,T,Tim,Krul
+437,Willy Caballero,8,MCFC,Goalkeeper,3,0,0,1,0,0,0,35,1,0,0,0,6,3,0,W,Willy,Caballero
+438,Steven Whittaker,8,NCFC,Defender,8,1,0,0,0,2,0,11,0,0,0,0,19,11,0,S,Steven,Whittaker
+439,Modibo Maiga,8,WESTHAM,Midfielder,0,1,0,0,0,0,0,3,3,0,0,0,0,0,0,M,Modibo,Maiga
+440,Alexandre Pato,8,CHEL,Forward,1,1,0,0,0,0,0,9,1,1,0,0,0,0,0,A,Alexandre,Pato
+441,Lee Tomlin,8,BOU,Forward,3,0,0,0,0,1,0,7,3,2,0,0,0,0,0,L,Lee,Tomlin
+442,Gokhan Inler,8,LEICSC,Midfielder,3,0,0,0,0,0,0,22,2,3,0,0,0,0,0,G,Gokhan,Inler
+443,Joshua Onomah,8,SPURS,Midfielder,0,0,0,0,0,0,0,15,8,0,0,0,0,0,0,J,Joshua,Onomah
+444,Yann Kermorgant,7,BOU,Forward,0,0,0,0,0,0,0,17,7,0,0,0,0,0,0,Y,Yann,Kermorgant
+445,Libor Kozak,7,AVILLA,Forward,3,0,0,0,0,0,0,3,1,1,0,0,0,0,0,L,Libor,Kozak
+446,Matt Miazga,7,CHEL,Defender,2,0,0,1,0,1,0,3,0,1,0,0,1,0,0,M,Matt,Miazga
+447,Oumar Niasse,7,EVER,Forward,2,0,0,0,0,0,0,9,3,2,0,0,0,0,0,O,Oumar,Niasse
+448,Henri Saivet,6,NEWU,Forward,2,0,0,0,0,0,0,8,2,2,0,0,0,0,0,H,Henri,Saivet
+449,Darron Gibson,6,EVER,Midfielder,2,0,0,0,0,3,0,15,5,1,0,0,0,0,0,D,Darron,Gibson
+450,Kevin Toner,6,AVILLA,Defender,3,0,1,1,0,0,0,2,1,0,0,0,11,8,0,K,Kevin,Toner
+451,Connor Randall,6,LPOOL,Defender,2,0,0,0,1,0,0,12,1,1,0,0,3,1,0,C,Connor,Randall
+452,Steven Caulker,6,SOTOM,Defender,1,0,0,1,1,0,0,16,5,0,0,0,11,7,0,S,Steven,Caulker
+453,Gaston Ramirez,6,SOTOM,Midfielder,0,0,1,0,0,0,0,6,3,0,0,0,0,0,0,G,Gaston,Ramirez
+454,Daniel Amartey,6,LEICSC,Midfielder,1,0,0,0,0,0,0,11,4,1,0,0,0,0,0,D,Daniel,Amartey
+455,Jordan Lyden,6,AVILLA,Midfielder,2,0,0,0,0,0,0,16,2,2,0,0,0,0,0,J,Jordan,Lyden
+456,Sebastien Pocognoli,6,WBFC,Defender,0,0,1,0,1,0,0,5,1,0,0,0,0,0,0,S,Sebastien,Pocognoli
+457,Nabil Bentaleb,6,SPURS,Midfielder,2,0,0,0,0,1,0,9,3,1,0,0,0,0,0,N,Nabil,Bentaleb
+458,Peter Odemwingie,5,STOKEC,Forward,0,0,0,0,0,0,0,8,5,0,0,0,0,0,0,P,Peter,Odemwingie
+459,Bradley Johnson,5,NCFC,Midfielder,1,0,0,0,0,0,0,3,3,0,0,0,0,0,0,B,Bradley,Johnson
+460,Mikel Arteta,5,ARSL,Midfielder,0,0,0,0,0,1,0,13,9,1,0,0,0,0,1,M,Mikel,Arteta
+461,Matthew Pennington,5,EVER,Defender,4,0,0,0,1,1,0,1,0,1,0,0,7,4,0,M,Matthew,Pennington
+462,Kyle Bartley,5,SWAN,Defender,3,0,0,0,1,2,0,14,2,0,0,0,7,3,0,K,Kyle,Bartley
+463,Sam Byram,5,WESTHAM,Defender,2,0,0,1,0,3,0,6,2,0,0,0,5,2,0,S,Sam,Byram
+464,Bersant Celina,4,MCFC,Midfielder,0,0,1,0,0,0,0,3,1,0,0,0,0,0,0,B,Bersant,Celina
+465,Jack Wilshere,4,ARSL,Midfielder,1,0,0,0,0,0,0,3,2,1,0,0,0,0,0,J,Jack,Wilshere
+466,Emmanuel Riviere,4,NEWU,Forward,1,0,0,0,0,0,0,7,2,1,0,0,0,0,0,E,Emmanuel,Riviere
+467,Victor Ibarbo,4,WFC,Midfielder,0,0,0,0,0,0,0,10,4,0,0,0,0,0,0,V,Victor,Ibarbo
+468,Steven Pienaar,4,EVER,Midfielder,0,0,0,0,0,0,0,9,4,0,0,0,0,0,0,S,Steven,Pienaar
+469,Cameron Brannagan,4,LPOOL,Midfielder,1,0,0,0,0,0,0,4,2,0,0,0,0,0,0,C,Cameron,Brannagan
+470,Marcin Wasilewski,3,LEICSC,Defender,3,0,0,0,0,2,0,20,1,0,0,0,6,2,0,M,Marcin,Wasilewski
+471,Tom Davies,3,EVER,Midfielder,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,T,Tom,Davies
+472,Seydou Doumbia,3,NEWU,Forward,0,0,0,0,0,0,0,6,3,0,0,0,0,0,0,S,Seydou,Doumbia
+473,Mathieu Debuchy,3,ARSL,Defender,2,0,0,0,0,0,0,15,0,2,0,0,3,1,0,M,Mathieu,Debuchy
+474,Jonjoe Kenny,3,EVER,Defender,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,J,Jonjoe,Kenny
+475,Alessandro Diamanti,3,WFC,Forward,0,0,0,0,0,0,0,16,3,0,0,0,0,0,0,A,Alessandro,Diamanti
+476,Marvin Emnes,3,SWAN,Forward,1,0,0,0,0,0,0,10,1,1,0,0,0,0,0,M,Marvin,Emnes
+477,Alex Pritchard,3,SPURS,Forward,0,0,0,0,0,0,0,9,3,0,0,0,0,0,0,A,Alex,Pritchard
+478,Kieran Dowell,3,EVER,Midfielder,1,0,0,0,0,0,0,2,1,1,0,0,0,0,0,K,Kieran,Dowell
+479,Shaun MacDonald,3,BOU,Midfielder,0,0,0,0,0,0,0,14,3,0,0,0,0,0,0,S,Shaun,MacDonald
+480,Jake Clarke-Salter,3,CHEL,Defender,0,0,0,0,1,0,0,2,1,0,0,0,0,0,0,J,Jake,Clarke-Salter
+481,Kevin Nolan,3,WESTHAM,Midfielder,1,0,0,0,0,0,0,2,1,1,0,0,0,0,0,K,Kevin,Nolan
+482,Paulo Gazzaniga,3,SOTOM,Goalkeeper,2,0,0,0,0,0,0,6,0,0,0,0,3,1,0,P,Paulo,Gazzaniga
+483,Tokelo Rantie,3,BOU,Forward,0,0,0,0,0,0,0,8,3,0,0,0,0,0,0,T,Tokelo,Rantie
+484,Ivan Toney,2,NEWU,Forward,0,0,0,0,0,0,0,5,2,0,0,0,0,0,0,I,Ivan,Toney
+485,Gary Hooper,2,NCFC,Forward,0,0,0,0,0,0,0,4,2,0,0,0,0,0,0,G,Gary,Hooper
+486,Jose Angel Crespo,2,AVILLA,Defender,1,0,0,0,0,0,0,3,0,0,0,0,1,0,0,J,Jose,Crespo
+487,Adam Bogdan,2,LPOOL,Goalkeeper,2,0,0,0,0,0,0,21,0,0,0,0,4,2,0,A,Adam,Bogdan
+488,Wes Brown,2,SUND,Defender,6,0,0,0,0,1,0,9,0,0,0,0,15,9,0,W,Wes,Brown
+489,Cristian Gamboa,2,WBFC,Defender,0,0,0,0,1,1,0,6,1,0,0,0,0,0,0,C,Cristian,Gamboa
+490,Kristoffer Nordfeldt,2,SWAN,Goalkeeper,1,0,0,0,0,0,0,36,0,0,0,0,1,0,0,K,Kristoffer,Nordfeldt
+491,Adrian Mariappa,2,LCFC,Defender,3,0,0,0,0,0,0,13,0,1,0,0,7,4,0,A,Adrian,Mariappa
+492,Rees Greenwood,2,SUND,Forward,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,R,Rees,Greenwood
+493,Pedro Chirivella,2,LPOOL,Midfielder,1,0,0,0,0,0,0,2,0,1,0,0,0,0,0,P,Pedro,Chirivella
+494,Adam Federici,2,BOU,Goalkeeper,6,0,0,0,0,0,0,31,0,1,0,0,16,10,0,A,Adam,Federici
+495,Andre Green,2,AVILLA,Midfielder,0,0,0,0,0,0,0,3,2,0,0,0,0,0,0,A,Andre,Green
+496,Jay Fulton,2,SWAN,Midfielder,0,0,0,0,0,0,0,4,2,0,0,0,0,0,0,J,Jay,Fulton
+497,Tammy Abraham,2,CHEL,Forward,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,T,Tammy,Abraham
+498,Andreas Pereira,2,MUFC,Midfielder,0,0,0,0,0,2,0,21,4,0,0,0,0,0,0,A,Andreas,Pereira
+499,Danny Ward,2,LPOOL,Goalkeeper,2,0,0,0,0,0,0,13,0,0,0,0,4,2,0,D,Danny,Ward
+500,Brad Smith,2,LPOOL,Defender,3,0,0,0,0,2,0,10,1,0,0,0,7,3,0,B,Brad,Smith
+501,Yohan Benalouane,2,LEICSC,Defender,0,0,0,0,0,1,0,11,4,0,0,0,5,1,0,Y,Yohan,Benalouane
+502,Charles N'Zogbia,2,AVILLA,Midfielder,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,C,Charles,N'Zogbia
+503,Juan Iturbe,2,BOU,Forward,0,0,0,0,0,0,0,11,2,0,0,0,0,0,0,J,Juan,Iturbe
+504,Michel Vorm,2,SPURS,Goalkeeper,1,0,0,0,0,0,0,37,0,0,0,0,1,0,0,M,Michel,Vorm
+505,Matt Grimes,2,SWAN,Midfielder,1,0,0,0,0,0,0,3,0,0,0,0,0,0,0,M,Matt,Grimes
+506,Obbi Oulare,2,WFC,Forward,0,0,0,0,0,0,0,7,2,0,0,0,0,0,0,O,Obbi,Oulare
+507,Andrej Kramaric,2,LEICSC,Forward,0,0,0,0,0,0,0,9,2,0,0,0,0,0,0,A,Andrej,Kramaric
+508,Tom Robson,1,SUND,Defender,1,0,0,0,0,0,0,0,0,0,0,0,2,1,0,T,Tom,Robson
+509,Jakob Haugaard,1,STOKEC,Goalkeeper,4,0,0,0,0,0,0,25,1,0,0,0,13,8,0,J,Jakob,Haugaard
+510,James A Wilson,1,MUFC,Forward,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,J,James,Wilson
+511,Kevin Mbabu,1,NEWU,Defender,2,0,0,0,1,0,0,9,1,1,0,0,8,6,0,K,Kevin,Mbabu
+512,Marc Wilson,1,STOKEC,Defender,1,0,0,0,0,0,0,17,3,0,0,0,8,4,0,M,Marc,Wilson
+513,Joao Carlos Teixeira,1,LPOOL,Midfielder,0,0,0,0,0,0,0,10,1,0,0,0,0,0,0,J,Joao,Teixeira
+514,Fikayo Tomori,1,CHEL,Defender,0,0,0,0,0,0,0,2,1,0,0,0,1,0,0,F,Fikayo,Tomori
+515,Sergi Canos,1,LPOOL,Forward,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,S,Sergi,Canos
+516,Sam Field,1,WBFC,Midfielder,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,S,Sam,Field
+517,Rushian Hepburn-Murphy,1,AVILLA,Forward,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,R,Rushian,Hepburn-Murphy
+518,Jamie Sterry,1,NEWU,Defender,0,0,0,0,0,0,0,9,1,0,0,0,1,0,0,J,Jamie,Sterry
+519,Patrick Roberts,1,MCFC,Midfielder,0,0,0,0,0,0,0,8,1,0,0,0,0,0,0,P,Patrick,Roberts
+520,Juan Cuadrado,1,CHEL,Midfielder,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,J,Juan,Cuadrado
+521,Serge Gnabry,1,WBFC,Midfielder,0,0,0,0,0,0,0,6,1,0,0,0,0,0,0,S,Serge,Gnabry
+522,Kelvin Davis,1,SOTOM,Goalkeeper,1,0,0,0,0,0,0,16,0,0,0,0,2,1,0,K,Kelvin,Davis
+523,Harrison Reed,1,SOTOM,Midfielder,0,0,0,0,0,0,0,7,1,0,0,0,0,0,0,H,Harrison,Reed
+524,Manu Garcia,1,MCFC,Midfielder,0,0,0,0,0,0,0,9,1,0,0,0,0,0,0,M,Manu,Garcia
+525,Kyle Lafferty,1,NCFC,Forward,0,0,0,0,0,0,0,6,1,0,0,0,0,0,0,K,Kyle,Lafferty
+526,Tyrone Mings,1,BOU,Defender,0,0,0,0,0,0,0,4,1,1,0,0,1,0,0,T,Tyrone,Mings
+527,Jordan Rossiter,1,LPOOL,Midfielder,0,0,0,0,0,0,0,4,1,0,0,0,0,0,0,J,Jordan,Rossiter
+528,Jonathan Williams,1,LCFC,Midfielder,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,J,Jonathan,Williams
+529,Callum Connolly,1,EVER,Defender,0,0,0,0,0,0,0,3,1,0,0,0,1,0,0,C,Callum,Connolly
+530,Tony Hibbert,1,EVER,Defender,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,T,Tony,Hibbert
+531,George Honeyman,1,SUND,Midfielder,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,G,George,Honeyman
+532,Will Keane,1,MUFC,Forward,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,W,Will,Keane
+533,Dionatan Teixeira,1,STOKEC,Defender,0,0,0,0,0,0,0,6,1,0,0,0,1,0,0,D,Dionatan,Teixeira
+534,Nick Powell,1,MUFC,Forward,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,N,Nick,Powell
+535,Javier Hernandez,1,MUFC,Forward,0,0,0,0,0,0,0,4,1,0,0,0,0,0,0,J,Javier,Hernandez
+536,Steve Sidwell,1,STOKEC,Midfielder,0,0,0,0,0,0,0,3,1,0,0,0,0,0,0,S,Steve,Sidwell
+537,Josh Cullen,1,WESTHAM,Midfielder,0,0,0,0,0,0,0,11,1,0,0,0,0,0,0,J,Josh,Cullen
+538,Sullay Kaikai,1,LCFC,Forward,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,S,Sullay,Kaikai
+539,Hiram Boateng,1,LCFC,Midfielder,0,0,0,0,0,0,0,3,1,0,0,0,0,0,0,H,Hiram,Boateng
+540,James Weir,1,MUFC,Midfielder,0,0,0,0,0,0,0,5,1,0,0,0,0,0,0,J,James,Weir
+541,Joseph Dodoo,1,LEICSC,Midfielder,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,J,Joseph,Dodoo
+542,Stephen Hendrie,0,WESTHAM,Defender,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,S,Stephen,Hendrie
+543,Harry Winks,0,SPURS,Midfielder,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,H,Harry,Winks
+544,George Evans,0,MCFC,Midfielder,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,G,George,Evans
+545,Djair Parfitt-Williams,0,WESTHAM,Midfielder,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,D,Djair,Parfitt-Williams
+546,Connor Dymond,0,LCFC,Midfielder,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,C,Connor,Dymond
+547,Jake Gray,0,LCFC,Midfielder,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,J,Jake,Gray
+548,Brandon Barker,0,MCFC,Midfielder,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,B,Brandon,Barker
+549,James Horsfield,0,MCFC,Defender,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,J,James,Horsfield
+550,Conor McAleny,0,EVER,Forward,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,C,Conor,McAleny
+551,Ben Chilwell,0,LEICSC,Defender,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,B,Ben,Chilwell
+552,Sylvain Marveaux,0,NEWU,Midfielder,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,S,Sylvain,Marveaux
+553,Matt Butcher,0,BOU,Midfielder,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,M,Matt,Butcher
+554,Diego Poyet,0,WESTHAM,Midfielder,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,D,Diego,Poyet
+555,Tony Andreu,0,NCFC,Midfielder,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,T,Tony,Andreu
+556,Jordan Pickford,0,SUND,Goalkeeper,2,0,0,0,0,0,0,16,0,0,0,0,6,4,0,J,Jordan,Pickford
+557,Liam Bridcutt,0,SUND,Midfielder,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,L,Liam,Bridcutt
+558,Tom Beadling,0,SUND,Defender,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,T,Tom,Beadling
+559,Federico Fazio,0,SPURS,Defender,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,F,Federico,Fazio
+560,Fernando Forestieri,0,WFC,Forward,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,F,Fernando,Forestieri
+561,Papy Mison Djilobodji,0,CHEL,Defender,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,P,Papy,Djilobodji
+562,Franck Tabanou,0,SWAN,Midfielder,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,F,Franck,Tabanou
+563,Tyler Roberts,0,WBFC,Forward,0,0,0,0,0,1,0,5,1,0,0,0,0,0,0,T,Tyler,Roberts
+564,George Dobson,0,WESTHAM,Defender,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,G,George,Dobson
+565,Daniel Pudil,0,WFC,Midfielder,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,D,Daniel,Pudil
+566,Moha El Ouriachi,0,STOKEC,Midfielder,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,M,Moha,Ouriachi
+567,Baily Cargill,0,BOU,Defender,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,B,Baily,Cargill
+568,Tiago Ilori,0,AVILLA,Defender,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,T,Tiago,Ilori
+569,Joey O'Brien,0,WESTHAM,Midfielder,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,J,Joey,O'Brien
+570,Luke Dreher,0,LCFC,Forward,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,L,Luke,Dreher
+571,Julian Speroni,0,LCFC,Goalkeeper,2,0,0,0,0,0,0,19,0,0,0,0,6,4,0,J,Julian,Speroni
+572,Matt Macey,0,ARSL,Goalkeeper,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,M,Matt,Macey
+573,Jamal Blackman,0,CHEL,Goalkeeper,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,J,Jamal,Blackman
+574,Daniel Barlaser,0,NEWU,Midfielder,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,D,Daniel,Barlaser
+575,Luke Croll,0,LCFC,Defender,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,L,Luke,Croll
+576,Marco Amelia,0,CHEL,Goalkeeper,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,M,Marco,Amelia
+577,Gerhard Tremmel,0,SWAN,Goalkeeper,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,G,Gerhard,Tremmel
+578,Callum Williams,0,NEWU,Defender,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,C,Callum,Williams
+579,Joe Cole,0,AVILLA,Midfielder,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,J,Joe,Cole
+580,Joe Bennett,0,AVILLA,Defender,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,J,Joe,Bennett
+581,Anders Lindegaard,0,WBFC,Goalkeeper,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,A,Anders,Lindegaard
+582,Keinan Davis,0,AVILLA,Forward,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,K,Keinan,Davis
+583,Ryan Fulton,0,LPOOL,Goalkeeper,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,R,Ryan,Fulton
+584,Liam Gibson,0,NEWU,Defender,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,L,Liam,Gibson
+585,Jindrich Stanek,0,EVER,Goalkeeper,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,J,Jindrich,Stanek
+586,Lynden Gooch,0,SUND,Midfielder,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,L,Lynden,Gooch
+587,Mark Schwarzer,0,LEICSC,Goalkeeper,0,0,0,0,0,0,0,37,0,0,0,0,0,0,0,M,Mark,Schwarzer
+588,Lloyd Dyer,0,WFC,Midfielder,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,L,Lloyd,Dyer
+589,Jason Denayer,0,MCFC,Defender,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,J,Jason,Denayer
+590,Marcus Browne,0,WESTHAM,Midfielder,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,M,Marcus,Browne
+591,Donald Love,0,MUFC,Defender,0,0,0,0,0,0,0,1,1,0,0,0,2,1,0,D,Donald,Love
+592,Cameron Humphreys-Grant,0,MCFC,Defender,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,C,Cameron,Humphreys-Grant
+593,Aiden McGeady,0,EVER,Midfielder,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,A,Aiden,McGeady
+594,Aleix Garcia,0,MCFC,Midfielder,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,A,Aleix,Garcia
+595,Jack Rose,0,WBFC,Goalkeeper,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,J,Jack,Rose
+596,Richard Wright,0,MCFC,Goalkeeper,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,R,Richard,Wright
+597,Brown Ideye,0,WBFC,Forward,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,B,Brown,Ideye
+598,Doneil Henry,0,WESTHAM,Defender,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,D,Doneil,Henry
+599,Gabriele Angella,0,WFC,Defender,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,G,Gabriele,Angella
+600,Freddie Woodman,0,NEWU,Goalkeeper,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0,F,Freddie,Woodman
+601,Joe Riley,0,MUFC,Defender,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,J,Joe,Riley
+602,Mason Holgate,0,EVER,Defender,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,M,Mason,Holgate
+603,Giedrius Arlauskis,0,WFC,Goalkeeper,0,0,0,0,0,0,0,19,1,0,0,0,2,1,0,G,Giedrius,Arlauskis
+604,Matej Vydra,0,WFC,Forward,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,M,Matej,Vydra
+605,Dean Hammond,0,LEICSC,Midfielder,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,D,Dean,Hammond
+606,Jeff Reine-Adelaide,0,ARSL,Forward,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,J,Jeff,Reine-Adelaide
+607,Joe Rothwell,0,MUFC,Midfielder,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,J,Joe,Rothwell
+608,Olufela Olomola,0,SOTOM,Forward,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,O,Olufela,Olomola
+609,Sam Johnstone,0,MUFC,Goalkeeper,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,S,Sam,Johnstone
+610,Axel Tuanzebe,0,MUFC,Defender,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,A,Axel,Tuanzebe
+611,Mikael Mandron,0,SUND,Forward,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,M,Mikael,Mandron
+612,Pablo Maffeo,0,MCFC,Defender,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,P,Pablo,Maffeo
+613,Kyle Walker-Peters,0,SPURS,Defender,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,K,Kyle,Walker-Peters
+614,Temitayo Aina,0,CHEL,Defender,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,T,Temitayo,Aina
+615,Mike Williamson,0,NEWU,Defender,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,M,Mike,Williamson
+616,Kasey Palmer,0,CHEL,Defender,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,K,Kasey,Palmer
+617,Rhoys Wiggins,0,BOU,Defender,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,R,Rhoys,Wiggins
+618,Martin Samuelsen,0,WESTHAM,Midfielder,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,M,Martin,Samuelsen
+619,Charlie Colkett,0,CHEL,Midfielder,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,C,Charlie,Colkett
+620,Jose Tasende,0,MCFC,Defender,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,J,Jose,Tasende
+621,Raphael Spiegel,0,WESTHAM,Goalkeeper,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,R,Raphael,Spiegel
+622,Kyle Knoyle,0,WESTHAM,Defender,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,K,Kyle,Knoyle
+623,Elliott Lee,0,WESTHAM,Forward,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,E,Elliott,Lee
+624,Oliver Shenton,0,STOKEC,Midfielder,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,O,Oliver,Shenton
+625,Daniel Bachmann,0,STOKEC,Goalkeeper,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,D,Daniel,Bachmann
+626,Alex Palmer,0,WBFC,Goalkeeper,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,A,Alex,Palmer
+627,Rene Gilmartin,0,WFC,Goalkeeper,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,R,Rene,Gilmartin
+628,Jonny Maddison,0,LEICSC,Goalkeeper,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,J,Jonny,Maddison
+629,Sean Goss,0,MUFC,Midfielder,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,S,Sean,Goss
+630,Jerome Sinclair,0,LPOOL,Forward,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,J,Jerome,Sinclair
+631,Nathan Baker,0,AVILLA,Defender,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,N,Nathan,Baker
+632,Niall Mason,0,AVILLA,Defender,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,N,Niall,Mason
+633,Kenji Gorre,0,SWAN,Midfielder,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,K,Kenji,Gorre
+634,Ricky van Wolfswinkel,0,NCFC,Forward,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,R,Ricky,Wolfswinkel
+635,Emanuele Giaccherini,0,SUND,Forward,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,E,Emanuele,Giaccherini
+636,Tommy Hoban,0,WFC,Defender,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,T,Tommy,Hoban
+637,Ryan Seager,0,SOTOM,Forward,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,R,Ryan,Seager
+638,Josh Vickers,0,SWAN,Goalkeeper,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,J,Josh,Vickers
+639,Corey Jordan,0,BOU,Defender,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,C,Corey,Jordan
+640,Jordan Holmes,0,BOU,Goalkeeper,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,J,Jordan,Holmes
+641,Shay Given,-1,STOKEC,Goalkeeper,3,0,0,0,0,1,0,11,0,1,0,0,9,6,0,S,Shay,Given
+642,Ryan Allsop,-1,BOU,Goalkeeper,0,0,0,0,0,0,0,4,1,0,0,0,3,2,0,R,Ryan,Allsop
+643,Adam Matthews,-2,SUND,Defender,0,0,0,0,0,0,0,6,1,0,0,0,4,3,0,A,Adam,Matthews
+644,Robert Lewandowski,215,BM1,Forward,29,30,2,0,0,2,0,4,3,3,0,0,0,0,0,R,Robert,Lewandowski
+645,Pierre Emerick Aubameyang,193,BD1,Forward,28,25,5,0,0,4,0,3,3,9,0,1,0,0,0,P,Pierre,Aubameyang
+646,Thomas Muller,166,BM1,Forward,26,20,5,0,0,4,0,8,5,10,0,1,0,0,0,T,Thomas,Muller
+647,Raffael,162,MON1,Forward,30,14,11,0,0,2,0,2,1,12,0,0,0,0,0,R,Raffael,Raffael
+648,Henrikh Mkhitaryan,157,BD1,Midfielder,28,11,16,0,0,5,0,3,3,5,0,0,0,0,0,H,Henrikh,Mkhitaryan
+649,Anthony Modeste,145,FCK1,Forward,33,15,3,0,0,4,0,1,1,8,0,1,0,0,0,A,Anthony,Modeste
+650,Manuel Neuer,145,BM1,Goalkeeper,34,0,0,20,0,0,0,0,0,1,0,0,17,3,0,M,Manuel,Neuer
+651,Javier Hernandez,138,BL1,Forward,25,17,2,0,0,6,0,3,3,11,0,0,0,0,0,J,Javier,Hernandez
+652,Salomon Kalou,136,HB1,Forward,30,14,2,0,0,2,0,3,2,20,0,0,0,0,0,S,Salomon,Kalou
+653,Yunis Malli,134,,Midfielder,33,11,4,0,0,0,0,1,1,19,0,0,0,0,0,Y,Yunis,Malli
+654,Daniel Didavi,126,VFB,Midfielder,30,13,3,0,0,9,0,1,1,15,0,0,0,0,0,D,Daniel,Didavi
+655,David Alaba,123,BM1,Defender,27,1,0,15,2,2,0,3,3,1,0,0,14,1,0,D,David,Alaba
+656,Klass - Jan Huntelaar,123,SCH4,Forward,29,12,3,0,0,2,0,5,2,10,0,2,0,0,0,K,Klass,Huntelaar
+657,Sandro Wagner,122,,Forward,26,14,3,0,0,10,0,5,5,5,0,2,0,0,0,S,Sandro,Wagner
+658,Karim Bellarabi,122,BL1,Midfielder,31,6,11,0,0,5,0,2,2,15,0,0,0,0,0,K,Karim,Bellarabi
+659,Claudio Pizarro,119,WB1,Forward,17,14,3,0,0,3,0,11,11,8,0,1,0,0,0,C,Claudio,Pizarro
+660,Shinji Kagawa,119,BD1,Midfielder,26,9,7,0,0,2,0,6,3,12,0,0,0,0,0,S,Shinji,Kagawa
+661,Marco Reus,115,BD1,Midfielder,24,12,3,0,0,2,0,4,2,17,0,1,0,0,0,M,Marco,Reus
+662,Moritz Hartmann,114,,Forward,24,12,1,0,0,3,0,7,6,20,0,0,0,0,0,M,Moritz,Hartmann
+663,Kevin Volland,113,,Forward,30,8,7,0,0,8,0,2,2,8,0,1,0,0,0,K,Kevin,Volland
+664,Philipp Lahm,112,BM1,Defender,25,1,1,13,3,3,0,5,1,5,0,0,12,2,0,P,Philipp,Lahm
+665,Anthony Ujah,112,WB1,Forward,26,11,1,0,0,2,0,8,6,5,0,1,0,0,0,A,Anthony,Ujah
+666,Lars Stindl,111,MON1,Forward,29,7,8,0,0,5,0,2,1,5,0,1,0,0,0,L,Lars,Stindl
+667,Leroy Sane,110,SCH4,Midfielder,23,8,6,0,0,4,0,11,10,9,0,0,0,0,0,L,Leroy,Sane
+668,Mats Hummels,107,BD1,Defender,29,2,2,12,0,1,0,2,1,4,0,0,30,12,1,M,Mats,Hummels
+669,Nicolai Muller,107,HSV,Midfielder,27,9,4,0,0,6,0,4,2,17,0,0,0,0,0,N,Nicolai,Muller
+670,Vedad Ibisevic,105,HB1,Forward,25,10,4,0,0,5,1,1,1,7,0,0,0,0,0,V,Vedad,Ibisevic
+671,Max Kruse,105,VFL,Forward,28,6,6,0,0,3,0,4,4,12,0,0,0,0,0,M,Max,Kruse
+672,Jairo,104,,Midfielder,26,8,4,0,0,5,0,5,5,12,0,0,0,0,0,J,Jairo,Jairo
+673,Marcel Heller,104,,Midfielder,33,6,5,0,0,7,0,0,0,10,0,0,0,0,0,M,Marcel,Heller
+674,Mahmoud Dahoud,104,MON1,Midfielder,27,5,8,0,0,4,0,6,5,23,0,0,0,0,0,M,Mahmoud,Dahoud
+675,Bernd Leno,102,BL1,Goalkeeper,33,0,0,13,0,0,0,1,0,0,1,0,38,18,1,B,Bernd,Leno
+676,Julian Brandt,101,BL1,Midfielder,18,9,3,0,0,0,0,14,11,11,0,0,0,0,0,J,Julian,Brandt
+677,Roman Burki,100,BD1,Goalkeeper,33,0,0,12,0,1,0,0,0,0,0,0,34,13,0,R,Roman,Burki
+678,Alexander Meier,100,EF,Midfielder,19,12,1,0,0,1,0,1,0,1,0,0,0,0,0,A,Alexander,Meier
+679,Matthias Ginter,100,BD1,Defender,21,3,5,7,3,0,0,12,3,4,0,0,23,9,0,M,Matthias,Ginter
+680,Zlatko Junuzovic,100,WB1,Midfielder,26,4,10,0,0,6,0,4,4,7,0,0,0,0,0,Z,Zlatko,Junuzovic
+681,Andre Schurrle,99,VFL,Forward,21,9,3,0,0,5,0,8,8,8,0,0,0,0,0,A,Andre,Schurrle
+682,Joel Matip,98,SCH4,Defender,34,3,3,8,0,3,0,0,0,0,0,0,49,23,0,J,Joel,Matip
+683,Max Meyer,98,SCH4,Midfielder,27,5,6,0,0,4,0,6,5,18,0,0,0,0,0,M,Max,Meyer
+684,Timo Werner,98,VFB,Forward,26,6,3,0,0,0,0,7,7,15,0,0,0,0,0,T,Timo,Werner
+685,Aytac Sulu,96,,Defender,33,7,0,8,0,6,0,0,0,0,0,0,50,25,2,A,Aytac,Sulu
+686,Jonathan Tah,96,BL1,Defender,30,0,0,13,0,2,0,0,0,1,0,0,31,14,0,J,Jonathan,Tah
+687,Douglas Costa,96,BM1,Midfielder,23,4,9,0,0,1,0,7,4,10,0,0,0,0,0,D,Douglas,Costa
+688,Loris Karius,96,,Goalkeeper,34,0,0,9,0,1,0,0,0,0,2,0,42,17,0,L,Loris,Karius
+689,Fabian Johnson,96,MON1,Defender,25,6,4,4,2,2,0,1,1,6,0,0,35,15,0,F,Fabian,Johnson
+690,Filip Kostic,95,VFB,Forward,30,5,5,0,0,5,0,0,0,10,0,0,0,0,0,F,Filip,Kostic
+691,Marvin Matip,95,,Defender,32,2,1,10,0,6,0,1,1,0,0,0,40,17,0,M,Marvin,Matip
+692,Adrian Ramos,93,BD1,Forward,9,9,4,0,0,0,0,23,18,2,0,0,0,0,0,A,Adrian,Ramos
+693,Pierre-Michel Lasogga,92,HSV,Forward,21,8,2,0,0,5,0,11,9,12,0,0,0,0,0,P,Pierre-Michel,Lasogga
+694,Marcel Risse,91,FCK1,Midfielder,33,3,5,0,0,5,0,0,0,2,0,0,0,0,0,M,Marcel,Risse
+695,Ja-Cheol Koo,90,,Midfielder,24,8,1,0,0,6,0,6,5,8,0,0,0,0,0,J,Ja-Cheol,Koo
+696,Jonas Hector,90,FCK1,Defender,32,0,4,8,0,3,0,0,0,1,0,0,39,15,0,J,Jonas,Hector
+697,Paul Verhaegh,90,,Defender,25,6,2,8,1,8,0,0,0,1,0,0,35,19,1,P,Paul,Verhaegh
+698,Fin Bartels,89,WB1,Midfielder,22,8,1,0,0,6,0,9,8,8,0,0,0,0,0,F,Fin,Bartels
+699,Rafinha,88,BM1,Defender,18,0,3,9,5,7,0,14,7,3,0,0,14,3,0,R,Rafinha,Rafinha
+700,Timo Horn,88,FCK1,Goalkeeper,33,0,0,8,0,0,0,1,0,0,1,0,40,15,0,T,Timo,Horn
+701,Hakan Calhanoglu,87,BL1,Midfielder,27,3,5,0,0,1,0,5,4,13,0,0,0,0,0,H,Hakan,Calhanoglu
+702,Dominique Heintz,87,FCK1,Defender,32,2,0,8,0,4,0,1,1,2,0,0,41,16,0,D,Dominique,Heintz
+703,Vladimir Darida,86,HB1,Midfielder,30,5,2,0,0,6,0,1,1,12,0,0,0,0,0,V,Vladimir,Darida
+704,Marwin Hitz,86,,Goalkeeper,33,0,0,11,0,2,0,0,0,1,1,0,49,27,0,M,Marwin,Hitz
+705,Lukas Rupp,86,VFB,Midfielder,24,5,4,0,0,4,0,7,5,10,0,0,0,0,0,L,Lukas,Rupp
+706,Arturo Vidal,86,BM1,Midfielder,24,4,5,0,0,3,0,9,6,10,0,0,0,0,0,A,Arturo,Vidal
+707,Andreas Christensen,85,MON1,Defender,31,3,1,7,0,1,0,3,0,0,0,0,43,19,1,A,Andreas,Christensen
+708,Lewis Holtby,85,HSV,Midfielder,34,3,2,0,0,4,0,0,0,11,0,0,0,0,0,L,Lewis,Holtby
+709,Rune Jarstein,85,HB1,Goalkeeper,28,0,0,12,0,2,0,5,1,0,0,0,35,18,0,R,Rune,Jarstein
+710,Jerome Gondorf,84,,Midfielder,33,3,4,0,0,9,0,0,0,4,0,0,0,0,0,J,Jerome,Gondorf
+711,Ragnar Klavan,84,,Defender,32,0,1,11,0,2,0,0,0,1,0,0,46,25,0,R,Ragnar,Klavan
+712,Ramazan Ozcan,84,,Goalkeeper,28,0,0,10,0,1,0,6,0,0,0,0,29,11,0,R,Ramazan,Ozcan
+713,Maxim Choupo-Moting,84,SCH4,Forward,21,6,2,0,0,1,0,8,7,7,0,0,0,0,0,M,Maxim,Choupo-Moting
+714,Johannes Geis,84,SCH4,Defender,27,2,5,7,1,4,1,3,1,9,0,0,39,19,0,J,Johannes,Geis
+715,Julian Draxler,83,SCH4,Midfielder,22,6,5,0,0,5,1,4,2,10,0,0,0,0,0,J,Julian,Draxler
+716,Christian Gentner,83,VFB,Midfielder,29,5,2,0,0,3,0,0,0,5,0,0,0,0,1,C,Christian,Gentner
+717,Marvin Plattenhardt,83,HB1,Midfielder,33,2,4,0,0,5,0,0,0,0,0,0,0,0,0,M,Marvin,Plattenhardt
+718,Harvard Nordtveit,82,MON1,Defender,27,4,1,5,2,4,0,5,4,2,0,0,43,19,0,H,Harvard,Nordtveit
+719,Mark Uth,82,,Forward,16,8,1,0,0,2,0,14,9,6,0,0,0,0,0,M,Mark,Uth
+720,Stefan Kiessling,82,BL1,Forward,19,5,3,0,0,1,0,12,11,5,0,0,0,0,0,S,Stefan,Kiessling
+721,Marcel Schmelzer,82,BD1,Defender,22,0,4,7,2,2,0,7,4,1,0,0,25,8,0,M,Marcel,Schmelzer
+722,Christian Clemens,81,,Midfielder,20,5,3,0,0,1,0,9,8,12,0,0,0,0,0,C,Christian,Clemens
+723,Hiroshi Kiyotake,81,H96,Midfielder,20,5,5,0,0,0,0,1,1,7,0,0,0,0,0,H,Hiroshi,Kiyotake
+724,Kingsley Coman,81,BM1,Midfielder,20,4,6,0,0,0,0,7,3,7,0,0,0,0,0,K,Kingsley,Coman
+725,Ralf Fahrmann,81,SCH4,Goalkeeper,34,0,0,8,0,1,0,0,0,1,1,0,49,23,0,R,Ralf,Fahrmann
+726,Bas Dost,79,VFL,Forward,14,8,1,0,0,0,0,9,8,8,0,0,0,0,0,B,Bas,Dost
+727,John Anthony Brooks,79,HB1,Defender,20,1,2,9,1,3,0,5,3,0,0,0,23,10,0,J,John,Brooks
+728,Lukas Hradecky,79,EF,Goalkeeper,34,0,0,8,0,0,0,0,0,0,1,0,52,26,0,L,Lukas,Hradecky
+729,Ivo Ilicevic,78,HSV,Midfielder,24,4,2,0,0,3,0,8,7,12,0,0,0,0,0,I,Ivo,Ilicevic
+730,Benjamin Hubner,78,,Defender,30,1,0,9,0,7,0,0,0,2,0,0,37,16,0,B,Benjamin,Hubner
+731,Leonardo Bittencourt,78,FCK1,Midfielder,27,3,4,0,0,2,1,2,2,18,0,0,0,0,0,L,Leonardo,Bittencourt
+732,Matthias Ostrzolek,77,HSV,Defender,32,0,2,8,0,5,0,1,0,1,0,0,44,20,0,M,Matthias,Ostrzolek
+733,Yoshinori Muto,77,,Midfielder,18,7,2,0,0,2,0,2,2,13,0,0,0,0,0,Y,Yoshinori,Muto
+734,Artur Sobiech,76,H96,Forward,19,7,0,0,0,3,0,9,6,8,0,0,0,0,0,A,Artur,Sobiech
+735,Gonzalo Castro,76,BD1,Midfielder,16,3,7,0,0,1,0,17,9,9,0,0,0,0,0,G,Gonzalo,Castro
+736,Caiuby,75,,Forward,25,4,5,0,0,11,0,1,1,3,0,0,0,0,0,C,Caiuby,Caiuby
+737,Pablo de Blasis,75,,Midfielder,18,4,4,0,0,1,0,13,8,12,0,0,0,0,0,P,Pablo,Blasis
+738,Stefan Aigner,75,EF,Midfielder,27,3,3,0,0,7,0,5,4,14,0,0,0,0,0,S,Stefan,Aigner
+739,Genki Haraguchi,75,HB1,Midfielder,28,2,3,0,0,4,0,5,4,10,0,0,0,0,0,G,Genki,Haraguchi
+740,Lukas Hinterseer,74,,Forward,19,6,0,0,0,3,0,12,9,15,0,0,0,0,0,L,Lukas,Hinterseer
+741,Haris Seferovic,74,EF,Forward,25,3,5,0,0,10,0,5,4,4,0,0,0,0,0,H,Haris,Seferovic
+742,Christian Mathenia,74,,Goalkeeper,33,0,0,8,0,3,0,0,0,0,1,0,51,26,0,C,Christian,Mathenia
+743,Thorgan Hazard,73,MON1,Midfielder,19,4,3,0,0,4,0,14,10,14,0,0,0,0,0,T,Thorgan,Hazard
+744,Oscar Wendt,73,MON1,Defender,30,3,2,4,1,5,0,0,0,1,0,0,46,21,0,O,Oscar,Wendt
+745,Marco Russ,73,EF,Defender,26,3,2,6,1,9,0,2,2,2,0,0,40,19,0,M,Marco,Russ
+746,Pascal Gross,73,,Midfielder,32,1,4,0,0,8,0,0,0,2,0,0,0,0,0,P,Pascal,Gross
+747,Luca Caldirola,72,,Defender,34,0,1,8,0,4,0,0,0,0,0,0,53,27,0,L,Luca,Caldirola
+748,Mitchell Weiser,71,HB1,Midfielder,27,2,4,0,0,7,0,2,2,4,0,0,0,0,0,M,Mitchell,Weiser
+749,Raul Bobadilla,70,,Forward,20,4,2,0,0,4,0,9,8,11,0,0,0,0,0,R,Raul,Bobadilla
+750,Daniel Caligiuri,70,VFL,Midfielder,20,2,5,0,0,4,0,10,9,7,0,0,0,0,0,D,Daniel,Caligiuri
+751,Yannick Gerhardt,70,FCK1,Midfielder,22,2,4,0,0,3,0,10,7,9,0,0,0,0,0,Y,Yannick,Gerhardt
+752,Konstantin Rausch,70,,Defender,27,2,5,2,5,7,0,6,4,22,0,0,48,24,0,K,Konstantin,Rausch
+753,Nadiem Amiri,69,,Midfielder,16,4,4,0,0,4,0,9,9,9,0,0,0,0,0,N,Nadiem,Amiri
+754,Naldo,69,VFL,Defender,29,0,1,8,0,2,0,0,0,1,0,0,43,22,0,N,Naldo,Naldo
+755,Maximilian Arnold,67,VFL,Midfielder,22,3,1,0,0,4,0,9,9,7,0,0,0,0,0,M,Maximilian,Arnold
+756,Julian Baumgartlinger,67,,Midfielder,30,2,1,0,0,7,0,1,1,0,0,0,0,0,0,J,Julian,Baumgartlinger
+757,Simon Zoller,67,FCK1,Forward,14,6,1,0,0,4,0,12,10,11,0,0,0,0,0,S,Simon,Zoller
+758,Wendell,67,BL1,Defender,26,0,0,10,0,10,0,3,2,2,0,0,35,17,0,W,Wendell,Wendell
+759,Johan Djourou,67,HSV,Defender,26,2,0,6,1,7,0,2,0,1,0,0,33,14,0,J,Johan,Djourou
+760,Jerome Boateng,67,BM1,Defender,17,0,3,4,6,4,0,2,2,8,0,0,11,2,0,J,Jerome,Boateng
+761,Oliver Baumann,66,,Goalkeeper,33,0,0,6,0,1,0,1,0,0,0,0,50,23,0,O,Oliver,Baumann
+762,Niklas Sule,66,,Defender,33,0,1,6,0,4,0,0,0,0,0,0,50,23,0,N,Niklas,Sule
+763,Sokratis Papastathopoulos,66,BD1,Defender,23,1,0,7,1,5,0,5,2,1,0,0,29,12,0,S,Sokratis,Papastathopoulos
+764,Alexander Esswein,66,,Forward,21,3,1,0,0,1,0,8,7,16,0,0,0,0,0,A,Alexander,Esswein
+765,Makoto Hasebe,65,EF,Midfielder,31,1,2,0,0,9,0,1,1,7,0,0,0,0,0,M,Makoto,Hasebe
+766,Michael Gregoritsch,65,HSV,Forward,15,5,2,0,0,6,0,11,10,7,0,0,0,0,0,M,Michael,Gregoritsch
+767,Lukasz Piszczek,65,BD1,Defender,16,0,3,7,1,3,0,13,4,1,0,0,19,7,0,L,Lukasz,Piszczek
+768,Jhon Cordoba,65,,Forward,14,5,2,0,0,2,0,9,8,5,0,0,0,0,0,J,Jhon,Cordoba
+769,Mathew Leckie,65,,Forward,28,3,0,0,0,8,0,5,4,10,0,1,0,0,0,M,Mathew,Leckie
+770,Vieirinha,65,VFL,Midfielder,22,1,5,0,0,3,0,5,4,8,0,0,0,0,0,V,Vieirinha,Vieirinha
+771,Dante,64,BM1,Defender,23,1,0,7,1,6,0,8,1,0,0,0,28,12,0,D,Dante,Dante
+772,Dominic Maroh,64,FCK1,Defender,23,2,1,4,2,7,0,7,2,0,0,0,29,10,0,D,Dominic,Maroh
+773,Stefan Bell,64,,Forward,29,1,2,0,0,3,0,1,1,0,0,0,0,0,1,S,Stefan,Bell
+774,Andre Hahn,64,MON1,Midfielder,7,8,1,0,0,1,0,10,8,2,0,0,0,0,0,A,Andre,Hahn
+775,Granit Xhaka,64,MON1,Midfielder,28,3,1,0,0,7,1,0,0,5,0,0,0,0,0,G,Granit,Xhaka
+776,Admir Mehmedi,63,BL1,Forward,13,2,5,0,0,2,0,20,14,7,0,0,0,0,0,A,Admir,Mehmedi
+777,Josuha Guilavogui,63,VFL,Midfielder,26,2,0,0,0,3,0,4,4,7,0,0,0,0,0,J,Josuha,Guilavogui
+778,Alfred Finnbogason,62,,Forward,13,7,1,0,0,3,0,2,1,4,0,0,0,0,0,A,Alfred,Finnbogason
+779,Philipp Max,62,,Defender,23,0,0,9,1,3,0,7,3,3,0,0,38,22,0,P,Philipp,Max
+780,Giulio Donati,62,BL1,Defender,21,0,2,6,3,8,1,9,2,4,0,0,21,7,0,G,Giulio,Donati
+781,Kenan Karaman,62,H96,Forward,19,3,2,0,0,1,0,11,4,4,0,0,0,0,0,K,Kenan,Karaman
+782,Roger,62,,Midfielder,28,1,1,0,0,3,0,1,1,2,0,0,0,0,0,R,Roger,Roger
+783,Matthias Lehmann,62,FCK1,Midfielder,31,0,2,0,0,7,0,1,1,3,0,0,0,0,0,M,Matthias,Lehmann
+784,Roman Neustadter,61,SCH4,Defender,26,0,1,6,2,4,0,8,4,4,0,0,44,22,0,R,Roman,Neustadter
+785,Ricardo Rodriguez,61,VFL,Defender,23,2,3,4,0,3,0,4,1,1,0,0,38,18,0,R,Ricardo,Rodriguez
+786,Juan Bernat,61,BM1,Defender,13,0,1,7,2,2,0,10,3,2,0,0,8,1,0,J,Juan,Bernat
+787,Peter Niemeyer,60,,Midfielder,31,2,0,0,0,12,0,0,0,11,0,0,0,0,0,P,Peter,Niemeyer
+788,Thiago Alcantara,60,BM1,Midfielder,16,2,3,0,0,2,0,15,11,5,0,0,0,0,0,T,Thiago,Alcantara
+789,Daniel Baier,60,,Midfielder,28,1,2,0,0,7,0,0,0,9,0,0,0,0,0,D,Daniel,Baier
+790,Ilkay Gundogan,60,BD1,Midfielder,22,1,3,0,0,1,0,3,3,6,0,0,0,0,0,I,Ilkay,Gundogan
+791,Fabian Lustenberger,60,HB1,Midfielder,30,1,0,0,0,5,0,4,0,8,0,0,0,0,0,F,Fabian,Lustenberger
+792,Daniel Brosinski,60,,Midfielder,24,0,3,0,0,3,0,10,6,1,0,0,0,0,0,D,Daniel,Brosinski
+793,Per Cijan Skjelbred,59,HB1,Midfielder,31,0,2,0,0,9,0,0,0,6,0,0,0,0,0,P,Per,Skjelbred
+794,Yann Sommer,59,MON1,Goalkeeper,32,0,0,5,0,2,0,1,0,0,0,0,50,23,0,Y,Yann,Sommer
+795,Kevin Kampl,59,BD1,Midfielder,19,3,2,0,0,4,0,5,4,2,0,0,0,0,0,K,Kevin,Kampl
+796,Florian Grillitsch,59,WB1,Midfielder,23,1,3,0,0,3,0,3,2,8,0,0,0,0,0,F,Florian,Grillitsch
+797,David Abraham,59,EF,Defender,28,0,0,7,1,8,0,4,3,3,0,0,45,22,0,D,David,Abraham
+798,Javi Martinez,59,BM1,Defender,11,1,1,5,4,2,0,8,5,1,0,0,9,2,0,J,Javi,Martinez
+799,Jonathan Schmid,58,,Midfielder,16,4,0,0,0,1,0,14,7,8,0,0,0,0,0,J,Jonathan,Schmid
+800,Eduardo Vargas,57,,Forward,16,2,3,0,0,1,0,13,7,11,0,0,0,0,0,E,Eduardo,Vargas
+801,Marc Stendera,57,EF,Midfielder,25,2,1,0,0,8,0,3,2,11,0,0,0,0,0,M,Marc,Stendera
+802,Sebastien Langkamp,57,HB1,Defender,22,0,1,8,0,8,0,3,0,2,0,0,28,14,0,S,Sebastien,Langkamp
+803,Leon Goretzka,57,SCH4,Midfielder,23,1,3,0,0,5,0,4,2,6,0,0,0,0,0,L,Leon,Goretzka
+804,Clemens Fritz,56,WB1,Midfielder,29,1,2,0,0,13,0,0,0,8,0,0,0,0,0,C,Clemens,Fritz
+805,Christopher Kramer,56,BL1,Midfielder,28,0,1,0,0,3,0,2,0,3,0,0,0,0,0,C,Christopher,Kramer
+806,Emir Spahic,56,HSV,Defender,26,0,1,7,0,7,1,0,0,1,0,0,36,17,0,E,Emir,Spahic
+807,Niklas Stark,56,HB1,Defender,15,2,0,5,3,3,0,8,6,1,0,0,26,13,0,N,Niklas,Stark
+808,Tobias Levels,55,,Defender,16,1,2,6,0,5,0,5,0,0,0,0,17,7,0,T,Tobias,Levels
+809,Andrej Kramaric,55,,Forward,12,5,2,0,0,1,0,4,3,3,0,1,0,0,0,A,Andrej,Kramaric
+810,Dominik Kohr,55,,Midfielder,30,0,2,0,0,12,0,1,1,13,0,0,0,0,0,D,Dominik,Kohr
+811,Levin Oztunali,54,WB1,Midfielder,17,1,3,0,0,2,0,15,8,13,0,0,0,0,0,L,Levin,Oztunali
+812,Bastian Oczipka,54,EF,Defender,30,0,0,6,0,7,0,3,0,0,0,0,47,23,0,B,Bastian,Oczipka
+813,Pavel Kaderabek,54,,Midfielder,25,0,1,0,0,2,0,6,3,3,0,0,0,0,0,P,Pavel,Kaderabek
+814,Christian Trasch,53,VFL,Midfielder,23,0,1,0,0,2,0,9,6,8,0,0,0,0,0,C,Christian,Trasch
+815,Omer Toprak,53,BL1,Defender,17,1,0,5,1,2,0,2,2,6,0,0,21,8,0,O,Omer,Toprak
+816,Tobias Kempe,53,,Midfielder,9,0,4,0,0,0,0,25,23,7,0,0,0,0,0,T,Tobias,Kempe
+817,Mehdi Benatia,53,BM1,Defender,11,1,2,4,3,2,0,5,3,3,0,0,10,3,0,M,Mehdi,Benatia
+818,Ibrahima Traore,53,MON1,Midfielder,17,2,1,0,0,1,0,13,7,12,0,0,0,0,0,I,Ibrahima,Traore
+819,Luca Castaignos,53,EF,Forward,12,4,1,0,0,1,0,10,7,11,0,0,0,0,0,L,Luca,Castaignos
+820,Salif Sane,52,H96,Defender,30,2,0,4,1,8,0,1,1,1,0,0,55,29,0,S,Salif,Sane
+821,Ron-Robert Zieler,52,H96,Goalkeeper,34,0,0,5,0,3,0,0,0,0,0,0,62,33,0,R,Ron-Robert,Zieler
+822,Frederik Sorensen,52,FCK1,Defender,19,0,2,5,1,5,0,10,2,2,0,0,26,11,0,F,Frederik,Sorensen
+823,Xabi Alonso,51,BM1,Midfielder,23,1,2,0,0,6,0,6,3,7,0,0,0,0,1,X,Xabi,Alonso
+824,Manuel Schmiedebach,51,H96,Defender,22,1,1,5,0,4,0,8,0,8,0,0,34,17,0,M,Manuel,Schmiedebach
+825,Erik Durm,51,BD1,Defender,10,1,1,5,2,2,0,6,4,3,0,0,10,3,0,E,Erik,Durm
+826,Arjen Robben,51,BM1,Midfielder,14,4,1,0,0,1,0,1,1,8,0,0,0,0,0,A,Arjen,Robben
+827,Mario Gotze,51,BM1,Midfielder,11,3,4,0,0,1,0,9,3,4,0,0,0,0,0,M,Mario,Gotze
+828,Alexandru Maxim,50,VFB,Midfielder,9,1,4,0,0,1,0,24,16,6,0,0,0,0,0,A,Alexandru,Maxim
+829,Julian Weigl,50,BD1,Midfielder,25,0,0,0,0,5,0,5,5,6,0,0,0,0,0,J,Julian,Weigl
+830,Marcel Schafer,50,VFL,Defender,14,1,2,4,2,1,0,20,7,4,0,0,30,15,0,M,Marcel,Schafer
+831,Jannik Vestergaard,49,WB1,Defender,33,2,0,2,0,2,0,0,0,0,0,0,64,33,0,J,Jannik,Vestergaard
+832,Nico Elvedi,49,MON1,Defender,17,0,2,4,2,2,0,8,4,3,0,0,28,13,0,N,Nico,Elvedi
+833,Danny Da Costa,49,,Defender,17,0,4,4,1,4,0,14,3,2,0,0,29,14,0,D,Danny,Costa
+834,Franco Di Santo,48,SCH4,Forward,13,2,1,0,0,3,0,17,12,5,0,0,0,0,0,F,Franco,Santo
+835,Rene Adler,48,HSV,Goalkeeper,24,0,1,5,0,3,1,3,0,1,0,0,36,17,0,R,Rene,Adler
+836,Theodor Gebre Selassie,48,WB1,Defender,33,1,2,2,0,6,0,0,0,1,0,0,59,28,1,T,Theodor,Selassie
+837,Gotoku Sakai,48,HSV,Defender,21,0,1,4,0,2,0,13,1,1,0,0,30,12,0,G,Gotoku,Sakai
+838,Sebastian Rudy,48,,Midfielder,22,2,1,0,0,8,1,8,2,10,0,0,0,0,0,S,Sebastian,Rudy
+839,Serey Die,48,VFB,Midfielder,23,1,2,0,0,9,0,0,0,11,0,0,0,0,0,S,Serey,Die
+840,Eugen Polanski,48,,Midfielder,20,1,3,0,0,8,0,11,7,7,0,1,0,0,1,E,Eugen,Polanski
+841,Miiko Albornoz,48,H96,Defender,23,0,1,5,0,1,0,5,0,1,0,0,38,20,0,M,Miiko,Albornoz
+842,Junior Caicara,47,SCH4,Defender,22,0,3,4,1,7,0,11,1,5,0,0,36,18,0,J,Junior,Caicara
+843,Jeong-Ho Hong,47,,Defender,19,2,0,4,2,4,0,8,4,3,0,0,38,21,0,J,Jeong-Ho,Hong
+844,Aaron Hunt,47,VFL,Midfielder,19,1,2,0,0,2,0,5,3,7,0,0,0,0,1,A,Aaron,Hunt
+845,Dennis Diekmeier,47,HSV,Defender,15,0,0,6,1,1,0,15,7,0,0,0,30,15,0,D,Dennis,Diekmeier
+846,Luiz Gustavo,46,VFL,Midfielder,22,1,2,0,0,9,0,3,0,6,0,0,0,0,0,L,Luiz,Gustavo
+847,Danny Latza,45,,Midfielder,20,0,2,0,0,8,0,8,7,9,0,0,0,0,0,D,Danny,Latza
+848,Tobias Strobl,45,,Defender,22,0,1,4,0,5,0,8,4,2,0,0,39,17,0,T,Tobias,Strobl
+849,Carlos Zambrano,45,EF,Defender,21,0,0,5,1,10,0,6,3,4,0,0,30,12,0,C,Carlos,Zambrano
+850,Mario Vrancic,45,,Midfielder,12,2,1,0,0,2,0,21,10,11,0,0,0,0,0,M,Mario,Vrancic
+851,Koen Casteels,45,VFL,Goalkeeper,13,0,0,4,0,1,0,17,0,0,1,0,10,1,0,K,Koen,Casteels
+852,Cleber,45,HSV,Defender,15,1,0,3,3,2,0,17,8,1,0,0,31,14,0,C,Cleber,Cleber
+853,Halil Altintop,44,,Forward,15,1,2,0,0,1,0,17,4,10,0,0,0,0,0,H,Halil,Altintop
+854,Gojko Kacar,44,HSV,Defender,12,1,0,4,2,3,0,12,7,5,0,0,22,9,0,G,Gojko,Kacar
+855,Christian Schulz,43,H96,Defender,24,2,0,2,2,6,0,6,1,3,0,0,43,22,0,C,Christian,Schulz
+856,Patrick Herrmann,43,MON1,Defender,5,3,1,1,4,0,0,14,13,4,0,0,23,10,0,P,Patrick,Herrmann
+857,Alfredo Morales,43,,Midfielder,18,1,1,0,0,7,0,10,6,4,0,0,0,0,0,A,Alfredo,Morales
+858,Robert Bauer,42,,Midfielder,18,1,0,0,0,5,0,11,6,2,0,0,0,0,0,R,Robert,Bauer
+859,Leon Balogun,42,,Defender,17,1,0,4,1,5,0,8,4,2,0,0,30,14,0,L,Leon,Balogun
+860,Yuya Osako,42,FCK1,Forward,14,1,0,0,0,2,0,14,11,6,0,0,0,0,0,Y,Yuya,Osako
+861,Florian Klein,41,VFB,Midfielder,17,0,2,0,0,4,0,12,5,2,0,0,0,0,0,F,Florian,Klein
+862,Markus Suttner,41,,Defender,15,0,0,4,1,2,0,11,3,3,0,0,21,8,0,M,Markus,Suttner
+863,Romain Bregerie,41,,Defender,12,0,0,2,6,3,1,21,10,2,0,0,21,7,0,R,Romain,Bregerie
+864,Kevin Vogt,41,FCK1,Midfielder,17,0,2,0,0,5,0,13,6,8,0,0,0,0,0,K,Kevin,Vogt
+865,Joshua Kimmich,41,BM1,Midfielder,15,0,2,0,0,3,0,17,8,2,0,0,0,0,0,J,Joshua,Kimmich
+866,Dario Lezcano,41,,Forward,15,2,1,0,0,4,0,2,2,12,0,0,0,0,0,D,Dario,Lezcano
+867,Jan Rosenthal,41,,Midfielder,17,0,1,0,0,2,0,7,6,15,0,0,0,0,0,J,Jan,Rosenthal
+868,Dennis Aogo,41,SCH4,Defender,20,0,1,4,0,4,0,7,3,0,0,0,36,17,0,D,Dennis,Aogo
+869,Sead Kolasinac,40,SCH4,Midfielder,18,1,0,0,0,5,0,15,4,3,0,0,0,0,0,S,Sead,Kolasinac
+870,Przemyslaw Tyton,40,VFB,Goalkeeper,30,0,0,4,0,1,1,2,0,0,1,0,63,37,0,P,Przemyslaw,Tyton
+871,Franck Ribery,40,BM1,Midfielder,6,2,4,0,0,1,0,8,7,1,0,0,0,0,0,F,Franck,Ribery
+872,Santiago Garcia,40,WB1,Defender,29,0,3,1,1,9,0,1,0,10,0,0,51,24,0,S,Santiago,Garcia
+873,Gaetan Bussmann,40,,Defender,13,1,0,4,0,3,0,8,0,0,0,0,13,4,0,G,Gaetan,Bussmann
+874,Sven Schipplock,40,HSV,Forward,10,0,4,0,0,3,0,19,11,6,0,0,0,0,0,S,Sven,Schipplock
+875,Edgar Prib,39,H96,Midfielder,16,0,2,0,0,3,0,9,4,7,0,0,0,0,0,E,Edgar,Prib
+876,Felix Wiedwald,39,WB1,Goalkeeper,34,0,0,2,0,4,0,0,0,0,0,0,65,33,0,F,Felix,Wiedwald
+877,Niko Bungert,39,,Forward,20,0,0,0,0,2,0,6,1,2,0,0,0,0,0,N,Niko,Bungert
+878,Stefan Lex,38,,Midfielder,9,2,0,0,0,2,0,18,12,6,0,0,0,0,0,S,Stefan,Lex
+879,Diego Benaglio,38,VFL,Goalkeeper,21,0,0,5,0,1,0,2,0,0,0,0,39,23,0,D,Diego,Benaglio
+880,Martin Harnik,38,VFB,Midfielder,11,2,0,0,0,2,0,10,8,5,0,0,0,0,0,M,Martin,Harnik
+881,Emiliano Insua,37,VFB,Defender,33,0,1,4,0,5,0,0,0,3,0,0,72,43,0,E,Emiliano,Insua
+882,Leon Andreasen,37,H96,Midfielder,13,2,1,0,0,4,0,3,2,6,0,0,0,0,0,L,Leon,Andreasen
+883,Stefan Reinartz,37,EF,Defender,14,1,1,2,2,2,0,2,1,2,0,0,21,10,0,S,Stefan,Reinartz
+884,Yanni Regasel,36,HB1,Defender,14,0,0,4,1,1,0,8,2,1,0,0,22,11,0,Y,Yanni,Regasel
+885,Pierre Bengtsson,36,,Defender,14,0,0,4,0,1,0,11,2,2,0,0,21,9,0,P,Pierre,Bengtsson
+886,Alexander Baumjohann,36,HB1,Midfielder,1,1,2,0,0,0,0,30,23,1,0,0,0,0,0,A,Alexander,Baumjohann
+887,Andre Ramalho,36,BL1,Defender,11,0,0,5,1,5,0,22,8,0,0,0,24,11,0,A,Andre,Ramalho
+888,Jaroslav Drobny,36,HSV,Goalkeeper,9,0,1,4,0,1,0,21,1,0,1,0,12,6,0,J,Jaroslav,Drobny
+889,Pierre-Emile Hojbjerg,36,BM1,Midfielder,13,0,1,0,0,3,0,17,10,4,0,0,0,0,0,P,Pierre-Emile,Hojbjerg
+890,Josip Drmic,36,MON1,Forward,9,2,0,0,0,2,0,16,10,5,0,0,0,0,0,J,Josip,Drmic
+891,Fabian Schar,36,,Defender,20,1,0,3,1,3,0,13,4,4,0,0,41,21,1,F,Fabian,Schar
+892,Alessandro Schopf,35,SCH4,Midfielder,5,3,1,0,0,1,0,11,8,4,0,0,0,0,0,A,Alessandro,Schopf
+893,Valentin Stocker,35,HB1,Midfielder,10,1,0,0,0,2,0,23,12,8,0,0,0,0,0,V,Valentin,Stocker
+894,Szabolcs Huszti,35,EF,Midfielder,14,1,2,0,0,5,0,1,1,5,0,0,0,0,0,S,Szabolcs,Huszti
+895,Julian Korb,35,MON1,Midfielder,14,1,1,0,0,4,0,18,3,5,0,0,0,0,0,J,Julian,Korb
+896,Younes Belhanda,34,SCH4,Midfielder,8,2,1,0,0,2,0,9,7,4,0,0,0,0,0,Y,Younes,Belhanda
+897,Florian Jungwirth,34,,Midfielder,16,0,1,0,0,4,0,18,3,0,0,0,0,0,0,F,Florian,Jungwirth
+898,Hiroki Sakai,34,H96,Defender,25,1,0,1,1,1,0,3,1,0,0,0,51,27,0,H,Hiroki,Sakai
+899,Pawel Olkowski,34,FCK1,Defender,13,0,0,2,2,1,0,18,6,7,0,0,24,9,0,P,Pawel,Olkowski
+900,Fabien Frei,34,,Midfielder,11,0,2,0,0,1,0,9,7,4,0,0,0,0,0,F,Fabien,Frei
+901,Marcelo,33,H96,Defender,19,1,0,3,0,4,0,0,0,0,0,0,34,18,0,M,Marcelo,Marcelo
+902,Jeremy Toljan,33,,Defender,16,1,0,2,1,0,0,14,2,0,0,0,28,13,1,J,Jeremy,Toljan
+903,Tin Jedvaj,33,BL1,Defender,11,0,0,4,3,6,0,5,4,5,0,0,17,9,0,T,Tin,Jedvaj
+904,Artem Kravets,32,VFB,Midfielder,6,1,2,0,0,1,0,11,10,3,0,0,0,0,0,A,Artem,Kravets
+905,Slobodan Rajkovic,32,,Defender,13,1,1,2,1,4,0,10,3,1,0,0,24,11,0,S,Slobodan,Rajkovic
+906,Peter Pekarik,32,HB1,Defender,12,0,1,3,1,1,0,8,0,1,0,0,16,8,0,P,Peter,Pekarik
+907,Alexsandar Ignjovski,32,EF,Midfielder,12,0,2,0,0,3,0,14,5,2,0,0,0,0,0,A,Alexsandar,Ignjovski
+908,Sven Bender,32,BD1,Midfielder,14,0,0,0,0,1,0,13,5,3,0,0,0,0,0,S,Sven,Bender
+909,Tolga Cigerci,32,HB1,Midfielder,13,0,1,0,0,2,0,15,5,10,0,0,0,0,0,T,Tolga,Cigerci
+910,Almog Cohen,32,,Midfielder,8,0,2,0,0,2,0,17,12,6,0,0,0,0,0,A,Almog,Cohen
+911,Pirmin Schwegler,32,,Midfielder,16,0,0,0,0,5,0,6,5,6,0,0,0,0,0,P,Pirmin,Schwegler
+912,Jens Hegeler,32,HB1,Defender,3,0,1,0,9,1,0,29,13,3,0,0,14,7,0,J,Jens,Hegeler
+913,Felix Klaus,31,H96,Midfielder,9,1,0,0,0,1,0,14,9,9,0,0,0,0,0,F,Felix,Klaus
+914,Daniel Ginczek,31,VFB,Forward,7,3,1,0,0,1,0,0,0,0,0,0,0,0,0,D,Daniel,Ginczek
+915,Markus Feulner,31,,Midfielder,11,1,0,0,0,5,0,17,9,2,0,0,0,0,0,M,Markus,Feulner
+916,Max Christiansen,31,,Midfielder,12,0,1,0,0,3,0,17,7,6,0,0,0,0,0,M,Max,Christiansen
+917,Jin-Su Kim,30,,Defender,14,0,0,4,0,3,0,8,1,1,0,0,23,12,0,J,Jin-Su,Kim
+918,Holger Badstuber,30,BM1,Defender,5,0,0,3,3,0,0,4,2,1,0,0,1,0,0,H,Holger,Badstuber
+919,Artjoms Rudnevs,29,HSV,Midfielder,6,2,1,0,0,1,0,6,5,4,0,0,0,0,0,A,Artjoms,Rudnevs
+920,Daniel Schwaab,29,VFB,Defender,26,0,1,3,1,3,0,8,3,1,0,0,65,40,0,D,Daniel,Schwaab
+921,Ermin Bicakcic,29,,Defender,18,0,0,2,1,3,0,12,3,2,0,0,35,17,0,E,Ermin,Bicakcic
+922,Georg Niedermeier,29,VFB,Defender,16,3,1,2,0,5,0,9,2,1,0,0,36,20,2,G,Georg,Niedermeier
+923,Fabian Holland,29,,Defender,15,0,0,4,1,5,0,9,2,3,0,0,28,16,0,F,Fabian,Holland
+924,Kyriakos Papadopoulos,29,BL1,Defender,10,0,0,3,3,4,1,10,6,1,0,0,18,8,0,K,Kyriakos,Papadopoulos
+925,Jonas Hofmann,29,BD1,Midfielder,6,1,1,0,0,0,0,26,9,5,0,0,0,0,0,J,Jonas,Hofmann
+926,Sascha Riether,29,SCH4,Defender,14,0,0,4,0,3,0,19,3,0,0,0,25,12,1,S,Sascha,Riether
+927,Gideon Jung,28,HSV,Midfielder,13,0,0,0,0,4,0,13,6,3,0,0,0,0,0,G,Gideon,Jung
+928,Mergim Mavraj,28,FCK1,Defender,11,0,0,2,0,1,0,3,1,0,0,0,12,2,0,M,Mergim,Mavraj
+929,Toni Sunjic,27,VFB,Defender,17,1,0,3,0,6,0,11,2,4,0,0,36,20,0,T,Toni,Sunjic
+930,Steven Zuber,27,,Forward,6,2,0,0,0,1,0,16,6,3,0,0,0,0,0,S,Steven,Zuber
+931,Benedikt Howedes,27,SCH4,Defender,10,1,0,1,3,4,0,6,5,1,0,0,20,9,0,B,Benedikt,Howedes
+932,Lars Bender,27,BL1,Midfielder,11,1,1,0,0,3,0,0,0,4,0,0,0,0,0,L,Lars,Bender
+933,Adam Szalai,27,,Forward,7,0,2,0,0,2,0,11,9,1,0,0,0,0,0,A,Adam,Szalai
+934,Dong-Won Ji,26,,Forward,7,0,0,0,0,2,0,17,14,4,0,0,0,0,0,D,Dong-Won,Ji
+935,Gyorgy Garics,26,,Defender,20,0,0,4,0,8,0,8,1,1,0,0,37,20,1,G,Gyorgy,Garics
+936,Papy Mison Djilobodji,26,WB1,Defender,14,2,1,2,0,6,0,0,0,0,0,0,26,14,1,P,Papy,Djilobodji
+937,Filip Mladenovic,26,FCK1,Defender,10,0,2,1,0,1,0,7,4,6,0,0,20,7,0,F,Filip,Mladenovic
+938,Jan-Ingwer Callsen-Braker,26,,Defender,7,1,0,3,1,1,0,8,2,0,0,0,13,8,0,J,Jan-Ingwer,Callsen-Braker
+939,Uffe Bech,26,H96,Midfielder,8,1,1,0,0,1,0,4,3,5,0,0,0,0,0,U,Uffe,Bech
+940,Milos Jojic,25,FCK1,Midfielder,2,2,0,0,0,2,0,28,13,2,0,0,0,0,0,M,Milos,Jojic
+941,Sebastian Rode,25,BM1,Midfielder,3,1,1,0,0,1,0,24,12,1,0,0,0,0,0,S,Sebastian,Rode
+942,Nicklas Bendtner,25,VFL,Forward,4,2,0,0,0,2,0,13,9,4,0,0,0,0,0,N,Nicklas,Bendtner
+943,Phillip Bargfrede,25,WB1,Midfielder,14,0,1,0,0,3,1,0,0,2,0,0,0,0,0,P,Phillip,Bargfrede
+944,Marco Fabian,25,EF,Midfielder,9,0,2,0,0,1,0,5,2,4,0,0,0,0,0,M,Marco,Fabian
+945,Jeffrey Gouweleeuw,25,,Defender,11,0,0,4,0,2,1,3,0,0,0,0,15,8,0,J,Jeffrey,Gouweleeuw
+946,Charles Aranguiz,24,BL1,Midfielder,5,2,1,0,0,1,0,3,2,0,0,0,0,0,0,C,Charles,Aranguiz
+947,Marco Sailer,24,,Forward,3,1,1,0,0,1,0,20,11,2,0,0,0,0,0,M,Marco,Sailer
+948,Robin Knoche,24,VFL,Midfielder,9,1,0,0,0,1,0,14,2,1,0,0,0,0,0,R,Robin,Knoche
+949,Dominik Stroh-Engel,24,,Forward,6,0,1,0,0,0,0,20,9,5,0,0,0,0,0,D,Dominik,Stroh-Engel
+950,Slobodan Medojevic,24,EF,Midfielder,6,1,0,0,0,1,0,15,8,2,0,0,0,0,0,S,Slobodan,Medojevic
+951,Neven Subotic,23,BD1,Defender,5,0,0,3,1,2,0,11,1,0,0,0,2,0,0,N,Neven,Subotic
+952,Roberto Hilbert,23,BL1,Midfielder,9,0,1,0,0,1,0,5,3,4,0,0,0,0,0,R,Roberto,Hilbert
+953,Philipp Hosiner,22,FCK1,Forward,4,1,0,0,0,2,0,27,11,2,0,0,0,0,0,P,Philipp,Hosiner
+954,Oliver Sorg,22,H96,Defender,19,0,0,2,1,4,0,5,1,4,0,0,40,23,0,O,Oliver,Sorg
+955,Christian Pulisic,22,BD1,Midfielder,4,2,0,0,0,1,0,7,5,3,0,0,0,0,0,C,Christian,Pulisic
+956,Anis Ben Hatira,22,HB1,Midfielder,7,1,1,0,0,2,0,5,2,5,0,0,0,0,0,A,Anis,Hatira
+957,Albin Ekdal,21,HSV,Midfielder,14,0,0,0,0,4,0,3,0,5,0,0,0,0,1,A,Albin,Ekdal
+958,Aron Johannsson,21,WB1,Forward,5,2,0,0,0,0,0,1,1,5,0,0,0,0,0,A,Aron,Johannsson
+959,Allan Saint-Maximin,21,H96,Forward,1,1,0,0,0,1,0,21,15,1,0,0,0,0,0,A,Allan,Saint-Maximin
+960,Philipp Ochs,21,,Forward,6,0,1,0,0,0,0,7,6,5,0,0,0,0,0,P,Philipp,Ochs
+961,Timm Klose,21,VFL,Defender,7,1,0,1,1,1,0,10,1,0,0,0,10,4,0,T,Timm,Klose
+962,Tobias Werner,21,,Midfielder,7,0,1,0,0,2,0,15,6,3,0,0,0,0,0,T,Tobias,Werner
+963,Nuri Sahin,20,BD1,Midfielder,6,0,2,0,0,1,0,6,3,3,0,0,0,0,0,N,Nuri,Sahin
+964,Karim Onisiwo,19,,Forward,3,1,1,0,0,1,0,6,6,0,0,0,0,0,0,K,Karim,Onisiwo
+965,Jan Moravek,19,,Midfielder,3,1,0,0,0,0,0,10,8,3,0,0,0,0,0,J,Jan,Moravek
+966,Sambou Yatabare,19,WB1,Midfielder,6,1,1,0,0,3,0,2,2,5,0,0,0,0,0,S,Sambou,Yatabare
+967,Kevin Kuranyi,19,,Forward,5,0,0,0,0,0,0,13,9,4,0,0,0,0,0,K,Kevin,Kuranyi
+968,Noah-Joel Sarenren-Bazee,18,H96,Forward,5,0,3,0,0,1,0,0,0,4,0,0,0,0,0,N,Noah-Joel,Sarenren-Bazee
+969,Sebastian Jung,18,VFL,Forward,5,0,1,0,0,1,0,13,6,0,0,0,0,0,0,S,Sebastian,Jung
+970,Alex Galvez,17,WB1,Defender,15,1,0,0,1,3,0,16,6,4,0,0,40,20,1,A,Alex,Galvez
+971,Waldemar Anton,17,H96,Defender,6,1,0,1,1,2,0,14,2,1,0,0,12,6,0,W,Waldemar,Anton
+972,Iver Fossum,17,H96,Midfielder,8,0,0,0,0,0,0,4,1,4,0,0,0,0,0,I,Iver,Fossum
+973,Alvaro Dominguez,17,MON1,Defender,5,0,0,2,0,1,0,1,1,0,0,0,5,1,0,A,Alvaro,Dominguez
+974,Constant Djakpa,16,EF,Defender,8,0,0,2,1,2,0,17,4,1,0,0,21,12,0,C,Constant,Djakpa
+975,Johannes van den Bergh,16,HB1,Midfielder,1,0,1,0,0,1,0,23,12,1,0,0,0,0,0,J,Johannes,Bergh
+976,Sebastian Boenisch,16,BL1,Defender,7,1,0,2,0,1,1,12,1,1,0,0,14,8,0,S,Sebastian,Boenisch
+977,Benjamin Henrichs,16,BL1,Midfielder,5,0,1,0,0,1,0,9,4,0,0,0,0,0,0,B,Benjamin,Henrichs
+978,Hugo Almeida,16,H96,Forward,5,1,0,0,0,1,0,2,2,0,0,0,0,0,0,H,Hugo,Almeida
+979,Charlison Benschop,16,H96,Forward,2,1,0,0,0,0,0,8,7,2,0,0,0,0,0,C,Charlison,Benschop
+980,Jiloan Hamad,15,,Midfielder,4,1,0,0,0,1,0,5,3,4,0,0,0,0,0,J,Jiloan,Hamad
+981,Marvin Schulz,15,MON1,Midfielder,4,0,1,0,0,0,0,15,4,0,0,0,0,0,0,M,Marvin,Schulz
+982,Mevlut Erding,15,H96,Forward,3,0,1,0,0,0,0,10,8,3,0,1,0,0,0,M,Mevlut,Erding
+983,Alexander Milosevic,15,H96,Defender,10,0,0,1,0,1,0,1,0,2,0,0,17,8,0,A,Alexander,Milosevic
+984,Luca Waldschmidt,15,EF,Forward,0,0,1,0,0,0,0,29,12,1,0,0,0,0,0,L,Luca,Waldschmidt
+985,Junior Diaz,14,,Defender,9,0,0,1,1,2,0,16,3,2,0,0,21,11,0,J,Junior,Diaz
+986,Alexander Hack,14,,Defender,7,0,0,1,0,1,0,11,0,0,0,0,9,3,0,A,Alexander,Hack
+987,Dusan Svento,14,FCK1,Midfielder,2,1,0,0,0,0,0,20,5,2,0,0,0,0,0,D,Dusan,Svento
+988,Tarik Elyounoussi,14,,Forward,5,0,1,0,0,0,0,8,1,2,0,0,0,0,0,T,Tarik,Elyounoussi
+989,Suat Serdar,14,,Midfielder,2,0,0,0,0,0,0,16,10,2,0,0,0,0,0,S,Suat,Serdar
+990,Moritz Leitner,14,BD1,Midfielder,2,0,1,0,0,0,0,15,7,1,0,0,0,0,0,M,Moritz,Leitner
+991,Joo Ho Park,14,,Defender,5,0,0,1,0,0,0,12,1,2,0,0,6,1,0,J,Joo,Park
+992,Elias Kachunga,13,,Forward,3,0,0,0,0,0,0,14,7,3,0,0,0,0,0,E,Elias,Kachunga
+993,Tim Matavz,13,,Forward,3,0,0,0,0,1,0,11,8,0,0,0,0,0,0,T,Tim,Matavz
+994,Kostas Stafylidis,13,,Defender,8,1,0,1,0,2,0,11,3,2,0,0,23,13,0,K,Kostas,Stafylidis
+995,Vladen Yurchenko,13,BL1,Midfielder,3,1,0,0,0,2,0,16,4,3,0,0,0,0,0,V,Vladen,Yurchenko
+996,Timothy Chandler,13,EF,Midfielder,5,0,0,0,0,4,0,10,7,1,0,0,0,0,0,T,Timothy,Chandler
+997,Sandro Sirigu,13,,Defender,1,0,2,0,2,0,0,11,5,1,0,0,8,4,0,S,Sandro,Sirigu
+998,Andre Hoffman,13,H96,Midfielder,7,0,0,0,0,2,0,7,1,3,0,0,0,0,0,A,Andre,Hoffman
+999,Marcelo Diaz,13,HSV,Midfielder,4,0,0,0,0,1,0,12,6,2,0,0,0,0,0,M,Marcelo,Diaz
+1000,Jan Kliment,12,VFB,Midfielder,0,1,0,0,0,1,0,18,8,0,0,0,0,0,0,J,Jan,Kliment
+1001,Roel Brouwers,12,MON1,Defender,3,0,0,0,3,0,0,22,5,1,0,0,10,5,0,R,Roel,Brouwers
+1002,Kevin Grosskreutz,12,VFB,Midfielder,9,0,0,0,0,3,0,1,0,0,0,0,0,0,1,K,Kevin,Grosskreutz
+1003,Robbie Kruse,12,BL1,Midfielder,2,0,0,0,0,2,0,17,10,1,0,0,0,0,0,R,Robbie,Kruse
+1004,Thomas Kraft,12,HB1,Goalkeeper,6,0,0,1,0,0,0,11,0,1,0,0,9,4,0,T,Thomas,Kraft
+1005,Tobias Sippel,12,MON1,Goalkeeper,2,0,0,2,0,0,0,31,0,0,0,0,0,0,0,T,Tobias,Sippel
+1006,Daniel Opare,12,,Defender,4,0,0,2,0,2,0,1,0,0,0,0,4,2,0,D,Daniel,Opare
+1007,Bruno Henrique,11,VFL,Forward,2,0,1,0,0,1,0,8,5,1,0,0,0,0,0,B,Bruno,Henrique
+1008,Christoph Moritz,11,,Midfielder,3,0,0,0,0,0,0,24,5,2,0,0,0,0,0,C,Christoph,Moritz
+1009,Timo Baumgartl,11,VFB,Defender,17,0,0,2,0,3,0,7,2,1,0,0,44,27,1,T,Timo,Baumgartl
+1010,Florian Niederlechner,11,,Forward,1,0,0,0,0,2,0,15,11,1,0,0,0,0,0,F,Florian,Niederlechner
+1011,Assani Lukimya-Mulongoti,11,WB1,Defender,10,0,0,0,0,3,0,7,2,0,0,0,20,8,0,A,Assani,Lukimya-Mulongoti
+1012,Tony Jantschke,11,MON1,Defender,8,0,0,0,2,2,0,6,4,2,0,0,21,11,0,T,Tony,Jantschke
+1013,Christoph Janker,11,,Defender,2,0,0,0,4,2,0,25,9,2,0,0,15,8,0,C,Christoph,Janker
+1014,Felix Platte,11,SCH4,Forward,1,0,0,0,0,2,0,15,11,0,0,0,0,0,0,F,Felix,Platte
+1015,Hotaru Yamaguchi,11,H96,Midfielder,6,0,0,0,0,1,0,4,0,3,0,0,0,0,0,H,Hotaru,Yamaguchi
+1016,Melvyn Lorenzen,10,WB1,Forward,1,0,0,0,0,0,0,14,8,1,0,0,0,0,0,M,Melvyn,Lorenzen
+1017,Mijat Gacinovic,10,EF,Midfielder,4,0,0,0,0,1,0,10,3,4,0,0,0,0,0,M,Mijat,Gacinovic
+1018,Marlon Frey,10,BL1,Midfielder,2,0,0,0,0,1,0,23,7,2,0,0,0,0,0,M,Marlon,Frey
+1019,Orjan Nyland,10,,Goalkeeper,6,0,0,0,0,0,0,28,0,0,1,0,13,7,0,O,Orjan,Nyland
+1020,Serdar Tasci,9,BM1,Defender,3,0,0,1,0,1,0,7,0,2,0,0,2,0,0,S,Serdar,Tasci
+1021,Ivan Perisic,9,VFL,Midfielder,2,1,0,0,0,0,0,0,0,1,0,0,0,0,0,I,Ivan,Perisic
+1022,Adnan Januzaj,9,BD1,Midfielder,0,0,1,0,0,0,0,11,6,0,0,0,0,0,0,A,Adnan,Januzaj
+1023,Ivica Olic,9,HSV,Forward,0,0,0,0,0,0,0,17,9,0,0,0,0,0,0,I,Ivica,Olic
+1024,Maximillian Eggestein,9,WB1,Midfielder,2,0,0,0,0,0,0,19,5,2,0,0,0,0,0,M,Maximillian,Eggestein
+1025,Lukas Frode,9,WB1,Midfielder,1,0,0,0,0,0,0,19,7,0,0,0,0,0,0,L,Lukas,Frode
+1026,Sonny Kittel,9,EF,Midfielder,1,0,0,0,0,0,0,9,7,1,0,0,0,0,0,S,Sonny,Kittel
+1027,Borys Tashchy,9,VFB,Midfielder,0,0,0,0,0,0,0,15,9,0,0,0,0,0,0,B,Borys,Tashchy
+1028,Martin Hinteregger,9,MON1,Defender,6,0,0,1,1,0,0,8,4,1,0,0,15,7,2,M,Martin,Hinteregger
+1029,Johannes Flum,9,EF,Midfielder,1,0,1,0,0,0,0,12,4,0,0,0,0,0,0,J,Johannes,Flum
+1030,Branimir Hrgota,9,MON1,Forward,0,0,0,0,0,0,0,18,9,0,0,0,0,0,0,B,Branimir,Hrgota
+1031,Gonzalo Jara,9,,Defender,5,0,0,1,0,1,0,5,1,1,0,0,10,5,0,G,Gonzalo,Jara
+1032,Ceyhun Gulselam,8,H96,Defender,9,0,1,0,2,8,0,17,4,2,0,0,24,13,0,C,Ceyhun,Gulselam
+1033,Ulisses Garcia,8,WB1,Defender,7,0,0,0,0,3,0,12,4,3,0,0,18,7,0,U,Ulisses,Garcia
+1034,Felix Kroos,8,WB1,Midfielder,2,0,0,0,0,0,0,12,6,2,0,1,0,0,0,F,Felix,Kroos
+1035,Julian Schieber,8,HB1,Forward,0,0,1,0,0,1,0,7,6,0,0,0,0,0,0,J,Julian,Schieber
+1036,Piotr Trochowski,8,,Midfielder,2,0,0,0,0,0,0,13,4,2,0,0,0,0,0,P,Piotr,Trochowski
+1037,Maximillan Mittelstadt,8,HB1,Defender,2,0,1,0,1,0,0,11,1,0,0,0,4,2,0,M,Maximillan,Mittelstadt
+1038,Laszlo Kleinheisler,7,WB1,Midfielder,1,0,0,0,0,0,0,14,5,1,0,0,0,0,0,L,Laszlo,Kleinheisler
+1039,Adam Hlousek,7,VFB,Forward,4,0,0,0,0,1,0,13,3,0,0,0,0,0,1,A,Adam,Hlousek
+1040,Nabil Bahoui,7,HSV,Midfielder,2,0,0,0,0,1,0,11,4,2,0,0,0,0,0,N,Nabil,Bahoui
+1041,Roman Weidenfeller,6,BD1,Goalkeeper,1,0,0,1,0,0,0,33,0,0,0,0,0,0,0,R,Roman,Weidenfeller
+1042,Vaclav Kadlec,6,EF,Forward,2,0,0,0,0,1,0,10,3,2,0,0,0,0,0,V,Vaclav,Kadlec
+1043,Fynn Arkenberg,6,H96,Defender,2,0,0,1,0,0,0,0,0,0,0,0,3,2,0,F,Fynn,Arkenberg
+1044,Arianit Ferati,6,VFB,Midfielder,0,0,1,0,0,0,0,9,3,1,0,0,0,0,0,A,Arianit,Ferati
+1045,Marco Hoger,6,SCH4,Midfielder,3,0,0,0,0,2,0,5,2,3,0,0,0,0,0,M,Marco,Hoger
+1046,Paul Seguin,6,VFL,Midfielder,2,0,0,0,0,0,0,6,2,1,0,0,0,0,0,P,Paul,Seguin
+1047,Marcel Hartel,6,FCK1,Midfielder,0,0,0,0,0,0,0,8,6,0,0,0,0,0,0,M,Marcel,Hartel
+1048,Valmir Sulejmani,5,H96,Forward,1,0,0,0,0,0,0,3,3,1,0,0,0,0,0,V,Valmir,Sulejmani
+1049,Felix Passlack,5,BD1,Midfielder,2,0,0,0,0,0,0,2,1,1,0,0,0,0,0,F,Felix,Passlack
+1050,Felipe,5,H96,Defender,1,0,0,0,3,2,0,16,7,0,0,0,10,5,1,F,Felipe,Felipe
+1051,Jens Grahl,5,,Goalkeeper,2,0,0,1,0,0,0,28,0,0,0,0,4,3,0,J,Jens,Grahl
+1052,Konstantin Engel,5,,Defender,2,0,0,1,1,2,0,13,2,1,0,0,7,5,0,K,Konstantin,Engel
+1053,Matthias Zimmermann,4,VFB,Midfielder,2,0,0,0,0,0,0,1,0,1,0,0,0,0,0,M,Matthias,Zimmermann
+1054,Marvin Friedrich,4,SCH4,Defender,0,0,0,0,1,0,0,14,2,0,0,0,1,0,0,M,Marvin,Friedrich
+1055,Sascha Molders,4,,Forward,0,0,0,0,0,0,0,6,4,0,0,0,0,0,0,S,Sascha,Molders
+1056,Tomas Pekhart,4,,Forward,1,0,0,0,0,1,0,7,3,1,0,0,0,0,0,T,Tomas,Pekhart
+1057,Maurice Multhaup,4,,Midfielder,0,0,0,0,0,0,0,9,4,0,0,0,0,0,0,M,Maurice,Multhaup
+1058,Leandro Putaro,4,VFL,Forward,0,0,0,0,0,0,0,13,4,0,0,0,0,0,0,L,Leandro,Putaro
+1059,Matija Nastasic,4,SCH4,Defender,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,M,Matija,Nastasic
+1060,Martin Stranzl,3,MON1,Defender,2,0,0,0,0,0,0,3,2,1,0,0,7,3,0,M,Martin,Stranzl
+1061,Thilio Kehrer,3,SCH4,Defender,0,0,0,0,1,0,0,6,1,0,0,0,0,0,0,T,Thilio,Kehrer
+1062,Carlos Gruezo,3,VFB,Midfielder,1,0,0,0,0,0,0,7,1,1,0,0,0,0,0,C,Carlos,Gruezo
+1063,Marius Wolf,3,H96,Forward,2,0,0,0,0,1,0,1,0,2,0,0,0,0,0,M,Marius,Wolf
+1064,Roy Beerens,3,HB1,Forward,2,0,0,0,0,1,0,9,0,1,0,0,0,0,0,R,Roy,Beerens
+1065,Kaan Ayhan,3,SCH4,Midfielder,1,0,0,0,0,1,0,24,2,1,0,0,0,0,0,K,Kaan,Ayhan
+1066,Kevin De Bruyne,3,VFL,Midfielder,2,0,0,0,0,1,0,0,0,1,0,0,0,0,0,K,Kevin,Bruyne
+1067,Zoltan Stieber,2,HSV,Midfielder,0,0,0,0,0,0,0,7,2,0,0,0,0,0,0,Z,Zoltan,Stieber
+1068,David Kinsombi,2,EF,Defender,1,0,0,0,1,0,0,4,1,0,0,0,4,3,0,D,David,Kinsombi
+1069,Philipp Klement,2,,Midfielder,0,0,0,0,0,0,0,7,2,0,0,0,0,0,0,P,Philipp,Klement
+1070,Mart Ristl,2,VFB,Midfielder,0,0,0,0,0,1,0,5,3,0,0,0,0,0,0,M,Mart,Ristl
+1071,Kazuki Nagasawa,2,FCK1,Midfielder,1,0,0,0,0,0,0,6,0,1,0,0,0,0,0,K,Kazuki,Nagasawa
+1072,Lukasz Zaluska,2,,Goalkeeper,2,0,0,0,0,0,0,25,0,0,0,0,4,2,0,L,Lukasz,Zaluska
+1073,Ismail Azzaoui,2,VFL,Midfielder,0,0,0,0,0,0,0,11,2,0,0,0,0,0,0,I,Ismail,Azzaoui
+1074,Heung Min Son,2,BL1,Forward,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,H,Heung,Son
+1075,Tom Mickel,2,HSV,Goalkeeper,1,0,0,0,0,0,0,2,0,0,0,0,1,0,0,T,Tom,Mickel
+1076,Nico Schulz,2,HB1,Midfielder,0,0,0,0,0,0,0,5,2,0,0,0,0,0,0,N,Nico,Schulz
+1077,Sidney Sam,2,SCH4,Midfielder,0,0,0,0,0,0,0,8,2,0,0,0,0,0,0,S,Sidney,Sam
+1078,Takashi Inui,2,EF,Midfielder,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,T,Takashi,Inui
+1079,Danilo Soares,2,,Defender,1,0,0,0,0,0,0,2,0,0,0,0,1,0,0,D,Danilo,Soares
+1080,Benjamin Gorka,1,,Defender,0,0,0,0,0,0,0,11,4,0,0,0,7,3,0,B,Benjamin,Gorka
+1081,Carlos Ascues,1,VFL,Midfielder,0,0,0,0,0,0,0,6,1,0,0,0,0,0,0,C,Carlos,Ascues
+1082,Fabian Reese,1,SCH4,Forward,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,F,Fabian,Reese
+1083,Mike-Steven Bahre,1,H96,Midfielder,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,M,Mike-Steven,Bahre
+1084,Dario Kresic,1,BL1,Goalkeeper,1,0,0,0,0,0,0,32,0,1,0,0,2,1,0,D,Dario,Kresic
+1085,Stefan Wannenwetsch,1,,Midfielder,0,0,0,0,0,0,0,3,1,0,0,0,0,0,0,S,Stefan,Wannenwetsch
+1086,Marvin Wanitzek,1,VFB,Midfielder,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,M,Marvin,Wanitzek
+1087,Russell Canouse,1,,Midfielder,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,R,Russell,Canouse
+1088,Florian Kohls,1,HB1,Midfielder,0,0,0,0,0,0,0,3,1,0,0,0,0,0,0,F,Florian,Kohls
+1089,Thomas Kessler,1,FCK1,Goalkeeper,1,0,0,0,0,0,0,26,0,0,0,0,2,1,0,T,Thomas,Kessler
+1090,Ahmet Arslan,1,HSV,Midfielder,0,0,0,0,0,0,0,4,1,0,0,0,0,0,0,A,Ahmet,Arslan
+1091,Marcel Hilssner,1,WB1,Midfielder,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,M,Marcel,Hilssner
+1092,Milan Ivana,1,,Midfielder,0,0,0,0,0,0,0,3,1,0,0,0,0,0,0,M,Milan,Ivana
+1093,Milos Pantovic,1,BM1,Midfielder,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,M,Milos,Pantovic
+1094,Elkin Soto,1,,Midfielder,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,E,Elkin,Soto
+1095,Nico Rinderknecht,1,EF,Midfielder,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,N,Nico,Rinderknecht
+1096,Joelinton,1,,Forward,0,0,0,0,0,0,0,5,1,0,0,0,0,0,0,J,Joelinton,Joelinton
+1097,Sven Ulreich,1,BM1,Goalkeeper,0,0,0,0,0,0,0,30,1,0,0,0,1,0,0,S,Sven,Ulreich
+1098,Albian Ajeti,1,,Forward,0,0,0,0,0,0,0,6,1,0,0,0,0,0,0,A,Albian,Ajeti
+1099,Devante Parker,1,,Forward,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,D,Devante,Parker
+1100,Tim Dierssen,1,H96,Midfielder,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,T,Tim,Dierssen
+1101,Maximilian Beister,1,,Forward,0,0,0,0,0,0,0,3,1,0,0,0,0,0,0,M,Maximilian,Beister
+1102,Francisco Rodriguez,1,VFL,Midfielder,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,F,Francisco,Rodriguez
+1103,Philip Heise,1,VFB,Defender,1,0,1,0,1,0,0,14,4,0,0,0,14,10,0,P,Philip,Heise
+1104,Lukas Klunter,1,FCK1,Defender,0,0,0,0,0,0,0,6,1,0,0,0,1,0,0,L,Lukas,Klunter
+1105,Yildirim Ozkan,1,WB1,Midfielder,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,Y,Yildirim,Ozkan
+1106,Alexander Nubel,1,SCH4,Goalkeeper,0,0,0,0,0,0,0,7,1,0,0,0,1,0,0,A,Alexander,Nubel
+1107,Mitchell Langerak,0,VFB,Goalkeeper,2,0,0,0,0,0,0,15,0,0,0,0,6,4,0,M,Mitchell,Langerak
+1108,Maurice Hirsch,0,H96,Midfielder,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,M,Maurice,Hirsch
+1109,Benjamin Uphoff,0,VFB,Goalkeeper,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,B,Benjamin,Uphoff
+1110,Patrick Platins,0,,Goalkeeper,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,P,Patrick,Platins
+1111,Marius Gersbeck,0,HB1,Goalkeeper,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,M,Marius,Gersbeck
+1112,Nils-Jonathan Korber,0,HB1,Goalkeeper,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,N,Nils-Jonathan,Korber
+1113,Bard Finne,0,FCK1,Forward,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,B,Bard,Finne
+1114,Niklas Feierabend,0,H96,Midfielder,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,N,Niklas,Feierabend
+1115,Todor Nedelev,0,,Midfielder,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,T,Todor,Nedelev
+1116,Tom Starke,0,BM1,Goalkeeper,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,T,Tom,Starke
+1117,Marlon Ritter,0,MON1,Forward,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,M,Marlon,Ritter
+1118,Andreas Hirzel,0,HSV,Goalkeeper,0,0,0,0,0,0,0,6,1,0,0,0,2,1,0,A,Andreas,Hirzel
+1119,Julian von Haacke,0,WB1,Midfielder,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,J,Julian,Haacke
+1120,Niki Zimling,0,,Midfielder,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,N,Niki,Zimling
+1121,Pascal Stenzel,0,BD1,Midfielder,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,P,Pascal,Stenzel
+1122,Julian Derstroff,0,,Forward,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,J,Julian,Derstroff
+1123,Yannik Oettl,0,,Goalkeeper,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Y,Yannik,Oettl
+1124,Alexander Stolz,0,,Goalkeeper,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,A,Alexander,Stolz
+1125,Michael Zetterer,0,WB1,Goalkeeper,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,M,Michael,Zetterer
+1126,Gerhard Tremmel,0,WB1,Goalkeeper,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,G,Gerhard,Tremmel
+1127,Batuhan Altintas,0,HSV,Forward,0,0,0,0,0,1,0,3,1,0,0,0,0,0,0,B,Batuhan,Altintas
+1128,Daniel Mesenhoeler,0,FCK1,Goalkeeper,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,D,Daniel,Mesenhoeler
+1129,Milos Veljkovic,0,WB1,Defender,1,0,0,0,0,0,0,3,2,1,0,0,7,4,0,M,Milos,Veljkovic
+1130,Levent Aycicek,0,WB1,Midfielder,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,L,Levent,Aycicek
+1131,Yannick Zummack,0,EF,Goalkeeper,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Y,Yannick,Zummack
+1132,Phillipp Tschauner,0,H96,Goalkeeper,0,0,0,0,0,0,0,34,0,0,0,0,0,0,0,P,Phillipp,Tschauner
+1133,Michael Gspurning,0,SCH4,Goalkeeper,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,M,Michael,Gspurning
+1134,Robin Zentner,0,,Goalkeeper,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,R,Robin,Zentner
+1135,Shawn Parker,0,,Forward,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,S,Shawn,Parker
+1136,Seung-Woo Ryu,0,BL1,Forward,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,S,Seung-Woo,Ryu
+1137,Joel Gerezgiher,0,EF,Defender,1,0,0,0,0,1,0,6,2,1,0,0,6,3,0,J,Joel,Gerezgiher
+1138,Sascha Burchert,0,HB1,Goalkeeper,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,S,Sascha,Burchert
+1139,Ioannis Gelios,0,,Goalkeeper,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,I,Ioannis,Gelios
+1140,Lukas Boeder,0,BL1,Defender,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,L,Lukas,Boeder
+1141,Philip Steinhart,0,BM1,Defender,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,P,Philip,Steinhart
+1142,Patrick Ochs,0,,Defender,0,0,0,0,0,0,0,1,1,0,0,0,2,1,0,P,Patrick,Ochs
+1143,Felipe Lopes,0,VFL,Defender,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,F,Felipe,Lopes
+1144,Hendrick Bonmann,0,BD1,Goalkeeper,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,H,Hendrick,Bonmann
+1145,Oliver Husing,0,WB1,Defender,0,0,0,0,0,0,0,4,1,0,0,0,2,1,0,O,Oliver,Husing
+1146,Tim Reider,0,,Midfielder,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,T,Tim,Reider
+1147,Thomas Blomeyer,0,,Defender,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,T,Thomas,Blomeyer
+1148,Kerim Carolus,0,HSV,Defender,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,K,Kerim,Carolus
+1149,Jannes Horn,0,VFL,Defender,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,J,Jannes,Horn
+1150,Gianluca Gaudino,0,BM1,Midfielder,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,G,Gianluca,Gaudino
+1151,Jan Kirchhoff,0,BM1,Defender,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,J,Jan,Kirchhoff
+1152,Patrik Dzalto,0,BL1,Forward,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,P,Patrik,Dzalto
+1153,Sebastian Stolze,0,VFL,Forward,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,S,Sebastian,Stolze
+1154,Aloy Ihenacho,0,,Forward,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,A,Aloy,Ihenacho
+1155,Max Grun,0,VFL,Goalkeeper,0,0,0,0,0,0,0,15,0,0,0,0,0,0,0,M,Max,Grun
+1156,Ashton Gotz,0,HSV,Defender,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,A,Ashton,Gotz
+1157,Fabian Giefer,0,SCH4,Goalkeeper,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,F,Fabian,Giefer
+1158,Baris Atik,0,,Midfielder,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,B,Baris,Atik
+1159,Gianluca Curci,0,,Goalkeeper,0,0,0,0,0,0,0,23,0,0,0,0,0,0,0,G,Gianluca,Curci
+1160,Joel Abu Hanna,0,BL1,Defender,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,J,Joel,Hanna
+1161,Thomas Pledl,0,,Midfielder,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,T,Thomas,Pledl
+1162,Daniel Zeaiter,0,,Goalkeeper,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,D,Daniel,Zeaiter
+1163,Patrick Weihrauch,0,BM1,Forward,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,P,Patrick,Weihrauch
+1164,Jannik Huth,0,,Goalkeeper,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,J,Jannik,Huth
+1165,Christofer Heimeroth,0,MON1,Goalkeeper,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,C,Christofer,Heimeroth
+1166,Eric Oelschlagel,0,WB1,Goalkeeper,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,E,Eric,Oelschlagel
+1167,Erik Thommy,0,,Midfielder,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,E,Erik,Thommy
+1168,Heinz Lindner,0,EF,Goalkeeper,0,0,0,0,0,0,0,33,0,0,0,0,0,0,0,H,Heinz,Lindner
+1169,Tino Dehmelt,0,HSV,Goalkeeper,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,T,Tino,Dehmelt
+1170,Djibril Sow,0,MON1,Midfielder,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,D,Djibril,Sow
+1171,David Yelldell,0,BL1,Goalkeeper,0,0,0,0,0,0,0,1,1,0,0,0,2,1,0,D,David,Yelldell
+1172,Henrique Sereno,0,,Defender,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,H,Henrique,Sereno
+1173,Alex Manninger,-1,,Goalkeeper,1,0,0,0,0,0,0,32,1,0,0,0,6,4,0,A,Alex,Manninger
+1174,Federico Barba,-1,VFB,Defender,2,1,0,0,0,0,0,3,0,2,0,0,9,7,1,F,Federico,Barba
+1175,Odisseas Vlachodimos,-2,VFB,Goalkeeper,2,0,0,0,0,0,0,12,1,0,0,0,10,7,0,O,Odisseas,Vlachodimos
+1176,Janek Sternberg,-2,WB1,Defender,4,0,0,0,1,2,0,19,5,1,0,0,23,15,0,J,Janek,Sternberg
+1177,Leon Guwara,-2,WB1,Defender,1,0,0,0,0,0,0,3,0,0,0,0,5,4,0,L,Leon,Guwara
+1178,Ronny,-2,HB1,Defender,0,0,0,0,0,0,0,5,1,0,0,0,4,3,0,R,Ronny,Ronny
+1179,Luca-Milan Zander,-4,WB1,Defender,1,0,0,0,0,0,0,3,1,1,0,0,9,7,0,L,Luca-Milan,Zander
+1180,Luis Suarez,308,BARC,Forward,35,40,16,0,0,6,0,2,0,0,0,2,0,0,0,L,Luis,Suarez
+1181,Cristiano Ronaldo,274,MADR,Forward,36,35,11,0,0,2,0,0,0,2,0,2,0,0,0,C,Cristiano,Ronaldo
+1182,Lionel Messi,233,BARC,Forward,31,26,16,0,0,3,0,2,2,2,0,3,0,0,0,L,Lionel,Messi
+1183,Neymar,217,BARC,Forward,34,24,13,0,0,6,0,0,0,1,0,2,0,0,0,N,Neymar,Neymar
+1184,Karim Benzema,194,MADR,Forward,26,24,7,0,0,0,0,1,1,16,0,0,0,0,0,K,Karim,Benzema
+1185,Antoine Griezmann,192,,Forward,36,22,5,0,0,5,0,2,2,16,0,1,0,0,0,A,Antoine,Griezmann
+1186,Lucas,175,RCDC,Forward,35,17,7,0,0,2,0,1,1,5,0,0,0,0,0,L,Lucas,Lucas
+1187,Ruben Castro,172,BETI,Forward,38,19,2,0,0,3,0,0,0,5,0,1,0,0,0,R,Ruben,Castro
+1188,Aritz Aduriz,169,ATBI,Forward,30,20,6,0,0,9,0,4,4,5,0,2,0,0,0,A,Aritz,Aduriz
+1189,Jan Oblak,168,,Goalkeeper,38,0,0,24,0,0,0,0,0,0,0,0,18,4,0,J,Jan,Oblak
+1190,Gareth Bale,167,MADR,Midfielder,21,19,10,0,0,2,0,3,2,9,0,0,0,0,0,G,Gareth,Bale
+1191,Borja Gonzalez,161,,Forward,29,18,3,0,0,3,0,7,7,14,0,0,0,0,0,B,Borja,Gonzalez
+1192,Juanfran,157,,Defender,34,1,1,22,1,6,0,2,1,1,0,0,16,4,0,J,Juanfran,Juanfran
+1193,Youssef El-Arabi,146,,Forward,27,16,2,0,0,2,0,9,8,8,0,0,0,0,0,Y,Youssef,El-Arabi
+1194,Diego Godin,145,,Defender,31,1,1,20,2,7,0,1,0,2,0,0,11,2,0,D,Diego,Godin
+1195,Jonathan Viera,142,LASP,Midfielder,36,10,8,0,0,3,0,0,1,9,0,1,0,0,0,J,Jonathan,Viera
+1196,Filipe Luis,140,,Defender,32,1,4,19,0,10,1,2,0,0,0,0,17,4,0,F,Filipe,Luis
+1197,Kevin Gameiro,138,SEVI,Forward,22,16,3,0,0,2,0,9,9,9,0,1,0,0,0,K,Kevin,Gameiro
+1198,Paco Alcacer,138,VALA,Forward,25,13,6,0,0,2,0,10,9,7,0,1,0,0,0,P,Paco,Alcacer
+1199,Iago Aspas,135,RCCV,Forward,31,13,4,0,0,8,0,4,4,17,0,0,0,0,0,I,Iago,Aspas
+1200,Jorge Koke,132,,Midfielder,34,5,14,0,0,4,0,1,1,6,0,0,0,0,0,J,Jorge,Koke
+1201,Jordi Alba,130,BARC,Defender,29,0,6,13,4,2,0,5,2,4,0,0,20,6,0,J,Jordi,Alba
+1202,Keylor Navas,128,MADR,Goalkeeper,34,0,0,13,0,0,0,0,0,0,3,0,28,7,0,K,Keylor,Navas
+1203,Nolito,126,RCCV,Forward,27,12,7,0,0,9,0,2,2,5,0,1,0,0,0,N,Nolito,Nolito
+1204,Charles,122,MALA,Forward,33,12,3,0,0,12,0,3,2,6,0,0,0,0,1,C,Charles,Charles
+1205,Claudio Bravo,122,BARC,Goalkeeper,33,0,0,15,1,0,0,0,0,1,0,0,23,6,0,C,Claudio,Bravo
+1206,Sergi Enrich,122,,Forward,25,9,6,0,0,4,0,13,13,12,0,0,0,0,0,S,Sergi,Enrich
+1207,Cedric Bakambu,120,VIAL,Forward,21,12,3,0,0,4,0,14,13,12,0,0,0,0,0,C,Cedric,Bakambu
+1208,Alphonse Areola,119,VIAL,Goalkeeper,32,0,0,15,0,1,0,4,0,0,1,0,26,9,0,A,Alphonse,Areola
+1209,Marco Asensio,114,RCDE,Midfielder,33,4,10,0,0,3,0,3,1,9,0,0,0,0,0,M,Marco,Asensio
+1210,Roberto Rosales,113,MALA,Defender,35,0,3,12,0,5,0,0,0,1,0,0,32,9,0,R,Roberto,Rosales
+1211,Mario Gasper,113,VIAL,Defender,32,2,2,13,1,8,0,2,1,1,0,0,33,14,0,M,Mario,Gasper
+1212,Jose Luis Morales,112,,Midfielder,31,7,5,0,0,4,0,7,4,12,0,0,0,0,0,J,Jose,Morales
+1213,Fernando Torres,111,,Forward,17,11,4,0,0,3,0,17,13,10,0,0,0,0,0,F,Fernando,Torres
+1214,Marcelo,111,MADR,Defender,28,2,3,11,0,3,0,4,2,3,0,0,26,7,0,M,Marcelo,Marcelo
+1215,Jose Maria Gimenez,110,,Defender,27,1,1,15,0,8,0,5,0,0,0,0,16,4,0,J,Jose,Gimenez
+1216,Antonio Sanabria,110,,Forward,27,11,1,0,0,4,0,2,2,14,0,0,0,0,0,A,Antonio,Sanabria
+1217,Fabian Orellana,109,RCCV,Forward,33,7,6,0,0,10,0,1,0,9,0,0,0,0,0,F,Fabian,Orellana
+1218,Jony,109,,Midfielder,33,5,7,0,0,4,0,4,3,13,0,1,0,0,0,J,Jony,Jony
+1219,Gorka Iraizoz,108,ATBI,Goalkeeper,37,0,0,13,0,1,1,0,0,0,1,0,43,19,0,G,Gorka,Iraizoz
+1220,Daniel Parejo,107,VALA,Midfielder,30,8,4,0,0,8,0,5,3,4,0,0,0,0,0,D,Daniel,Parejo
+1221,Pablo Sarabia,106,,Midfielder,30,7,6,0,0,8,0,3,1,10,0,0,0,0,0,P,Pablo,Sarabia
+1222,Javi Guerra,105,RAVA,Forward,23,12,0,0,0,8,0,9,7,8,0,0,0,0,0,J,Javi,Guerra
+1223,Faycal Fajr,103,RCDC,Midfielder,31,5,4,0,0,3,0,7,7,7,0,0,0,0,0,F,Faycal,Fajr
+1224,Ruben Rochina,103,,Forward,29,6,6,0,0,10,0,7,7,19,0,0,0,0,0,R,Ruben,Rochina
+1225,Victor Ruiz,102,VIAL,Defender,31,0,0,14,2,9,0,4,3,0,0,0,29,11,1,V,Victor,Ruiz
+1226,Luis Alberto,102,RCDC,Midfielder,25,6,7,0,0,3,0,7,4,12,0,0,0,0,0,L,Luis,Alberto
+1227,Mikel San Jose,101,ATBI,Defender,30,2,3,8,5,6,1,4,4,4,0,0,36,15,0,M,Mikel,Jose
+1228,Jozabed Sanchez,101,RAVA,Midfielder,24,10,2,0,0,3,0,7,3,6,0,0,0,0,1,J,Jozabed,Sanchez
+1229,Raul Garcia,101,,Midfielder,27,7,6,0,0,10,0,4,4,9,0,0,0,0,0,R,Raul,Garcia
+1230,Ivan Rakitic,101,BARC,Midfielder,30,7,2,0,0,3,0,7,6,14,0,0,0,0,1,I,Ivan,Rakitic
+1231,Gerard Pique,100,BARC,Defender,30,2,1,10,4,12,0,1,0,6,0,0,25,9,0,G,Gerard,Pique
+1232,Dani Alves,99,BARC,Defender,24,0,4,9,6,6,0,11,5,7,0,0,22,8,0,D,Dani,Alves
+1233,Roberto Soldado,99,VIAL,Forward,27,5,10,0,0,11,0,7,1,11,0,0,0,0,0,R,Roberto,Soldado
+1234,Carlos Vela,99,RESO,Forward,32,5,4,0,0,5,0,3,3,13,0,0,0,0,0,C,Carlos,Vela
+1235,Mikel Balenziaga,99,ATBI,Defender,33,0,3,12,0,6,0,3,1,2,0,0,41,19,0,M,Mikel,Balenziaga
+1236,James Rodriguez,98,MADR,Midfielder,17,7,7,0,0,1,0,12,9,10,0,0,0,0,0,J,James,Rodriguez
+1237,Duje Cop,97,MALA,Forward,25,7,3,0,0,3,0,9,6,21,0,0,0,0,0,D,Duje,Cop
+1238,Toni Kroos,96,MADR,Midfielder,32,1,10,0,0,3,0,3,0,7,0,0,0,0,0,T,Toni,Kroos
+1239,Geronimo Rulli,96,RESO,Goalkeeper,36,0,0,12,0,4,1,0,0,0,1,0,46,22,0,G,Geronimo,Rulli
+1240,Imanol Agirretxe,95,RESO,Forward,14,13,0,0,0,0,0,4,2,6,0,0,0,0,0,I,Imanol,Agirretxe
+1241,Inaki Williams,95,ATBI,Forward,21,8,4,0,0,3,0,5,4,19,0,0,0,0,0,I,Inaki,Williams
+1242,Deyverson,93,,Forward,24,9,1,0,0,12,0,11,9,12,0,0,0,0,0,D,Deyverson,Deyverson
+1243,Nicolas Fedor,93,RAVA,Forward,18,9,4,0,0,4,0,8,4,7,0,0,0,0,0,N,Nicolas,Fedor
+1244,Roberto Trashorras,93,RAVA,Midfielder,35,2,8,0,0,10,0,1,1,2,0,1,0,0,0,R,Roberto,Trashorras
+1245,Willian Jose,91,LASP,Forward,19,9,1,0,0,6,0,15,11,5,0,0,0,0,0,W,Willian,Jose
+1246,Gerard Moreno,91,RCDE,Forward,19,7,3,0,0,4,0,14,13,10,0,0,0,0,0,G,Gerard,Moreno
+1247,Bebe,91,RAVA,Forward,27,3,6,0,0,3,0,9,7,16,0,0,0,0,0,B,Bebe,Bebe
+1248,Daniel Wass,90,RCCV,Defender,31,2,5,5,5,3,0,5,5,15,0,0,55,29,0,D,Daniel,Wass
+1249,Sergio Rico,90,SEVI,Goalkeeper,35,0,0,10,0,2,0,3,0,0,0,0,43,18,0,S,Sergio,Rico
+1250,Raul Albentosa,89,MALA,Defender,27,2,0,10,0,11,0,8,2,0,0,0,25,6,0,R,Raul,Albentosa
+1251,Felipe Caicedo,89,RCDE,Forward,26,8,0,0,0,6,0,6,5,14,0,1,0,0,0,F,Felipe,Caicedo
+1252,Tana,88,LASP,Midfielder,26,5,4,0,0,2,0,3,1,16,0,0,0,0,0,T,Tana,Tana
+1253,Antonio Adan,88,BETI,Goalkeeper,36,0,0,12,0,6,0,0,0,1,0,0,50,26,0,A,Antonio,Adan
+1254,Denis Suarez,88,SEVI,Midfielder,26,4,4,0,0,3,0,10,7,6,0,0,0,0,0,D,Denis,Suarez
+1255,Carlos Kameni,87,MALA,Goalkeeper,28,0,1,9,0,1,0,3,0,1,1,0,28,9,1,C,Carlos,Kameni
+1256,Markel Susaeta,86,ATBI,Midfielder,22,3,8,0,0,3,0,13,6,13,0,0,0,0,0,M,Markel,Susaeta
+1257,Weligton,85,MALA,Defender,30,0,2,8,0,5,0,1,0,3,0,0,30,8,0,W,Weligton,Weligton
+1258,Sergio Araujo,85,LASP,Forward,20,6,3,0,0,4,0,16,10,8,0,0,0,0,0,S,Sergio,Araujo
+1259,Hernan Perez,85,RCDE,Midfielder,27,7,1,0,0,12,0,5,5,7,0,0,0,0,0,H,Hernan,Perez
+1260,Xabier Prieto,84,RESO,Midfielder,27,3,3,0,0,3,0,11,9,9,0,0,0,0,0,X,Xabier,Prieto
+1261,Danilo,84,MADR,Defender,23,2,5,6,2,6,0,7,1,3,0,0,26,10,0,D,Danilo,Danilo
+1262,Alen Halilovic,84,,Midfielder,24,3,5,0,0,6,0,12,12,9,0,0,0,0,0,A,Alen,Halilovic
+1263,Isaac Success,83,,Forward,28,6,2,0,0,11,0,2,2,11,0,0,0,0,0,I,Isaac,Success
+1264,Isco,83,MADR,Midfielder,21,3,7,0,0,2,1,15,10,13,0,0,0,0,0,I,Isco,Isco
+1265,Hugo Mallo,83,RCCV,Defender,33,1,4,9,1,8,0,2,1,2,0,0,55,31,0,H,Hugo,Mallo
+1266,Ander Capa,83,,Midfielder,34,2,5,0,0,12,0,2,2,1,0,0,0,0,0,A,Ander,Capa
+1267,Bruno,83,BETI,Defender,32,0,0,12,0,10,0,2,0,3,0,0,39,19,0,B,Bruno,Bruno
+1268,Vicente Iborra,83,SEVI,Midfielder,21,7,2,0,0,8,0,15,8,13,0,0,0,0,0,V,Vicente,Iborra
+1269,Saul Niguez,81,,Midfielder,26,4,2,0,0,1,0,12,4,4,0,0,0,0,0,S,Saul,Niguez
+1270,Luka Modric,81,MADR,Midfielder,31,2,4,0,0,4,0,2,1,11,0,0,0,0,0,L,Luka,Modric
+1271,Benat,80,ATBI,Midfielder,32,1,5,0,0,8,0,5,4,10,0,0,0,0,0,B,Benat,Benat
+1272,Alvaro Vazquez,80,,Defender,24,5,5,0,7,5,0,11,10,16,0,0,54,27,0,A,Alvaro,Vazquez
+1273,John Guidetti,80,RCCV,Forward,12,7,0,0,0,2,0,25,23,10,0,0,0,0,0,J,John,Guidetti
+1274,Stefan Scepovic,80,,Forward,17,6,1,0,0,4,0,18,17,6,0,0,0,0,0,S,Stefan,Scepovic
+1275,Inigo Martinez,79,RESO,Defender,30,1,0,10,0,7,0,1,0,0,0,0,39,19,0,I,Inigo,Martinez
+1276,Jonathas,79,RESO,Forward,17,7,2,0,0,6,0,13,10,5,0,0,0,0,0,J,Jonathas,Jonathas
+1277,Vicente Guaita,79,,Goalkeeper,38,0,0,8,0,2,0,0,0,0,2,0,67,37,0,V,Vicente,Guaita
+1278,Xabier Etxeita,79,ATBI,Defender,28,0,1,10,1,5,0,5,2,2,0,0,35,16,1,X,Xabier,Etxeita
+1279,Bruno Soriano,79,VIAL,Midfielder,28,5,1,0,0,5,1,6,3,0,0,0,0,0,0,B,Bruno,Soriano
+1280,Jese,78,MADR,Forward,7,5,6,0,0,0,0,28,21,7,0,0,0,0,0,J,Jese,Jese
+1281,Pedro Bigas,78,LASP,Defender,26,3,0,8,1,5,0,2,1,1,0,0,37,19,0,P,Pedro,Bigas
+1282,Ruben Pardo,78,RESO,Defender,19,0,7,6,5,7,0,17,9,8,0,0,34,17,0,R,Ruben,Pardo
+1283,Ivan Cuellar,77,,Goalkeeper,32,0,2,7,0,3,0,1,0,0,1,0,48,23,0,I,Ivan,Cuellar
+1284,Saul,76,,Forward,16,4,4,0,0,1,0,19,13,12,0,0,0,0,0,S,Saul,Saul
+1285,Oscar De Marcos,76,ATBI,Midfielder,33,1,3,0,0,5,0,2,1,3,0,0,0,0,0,O,Oscar,Marcos
+1286,Jonny,75,RCCV,Defender,34,1,4,8,1,9,1,2,2,4,0,0,58,31,1,J,Jonny,Jonny
+1287,Artiz Elustondo,75,RESO,Defender,30,1,0,8,2,8,0,1,1,7,0,0,40,19,0,A,Artiz,Elustondo
+1288,Yevhen Konoplyanka,75,SEVI,Midfielder,15,4,4,0,0,4,0,21,17,8,0,0,0,0,0,Y,Yevhen,Konoplyanka
+1289,Keko,75,,Midfielder,27,3,3,0,0,5,0,2,2,10,0,0,0,0,0,K,Keko,Keko
+1290,Sergio Busquets,75,BARC,Midfielder,34,0,4,0,0,6,0,2,1,7,0,0,0,0,0,S,Sergio,Busquets
+1291,Sergio Ramos,74,MADR,Defender,23,2,2,7,1,9,0,1,0,2,0,0,24,9,0,S,Sergio,Ramos
+1292,Raphael Varane,73,MADR,Defender,23,0,0,9,1,6,0,8,3,0,0,0,24,8,0,R,Raphael,Varane
+1293,Asier Riesgo,73,,Goalkeeper,34,0,0,7,0,1,0,2,0,0,1,0,54,27,0,A,Asier,Riesgo
+1294,Daniel Carvajal,73,MADR,Defender,19,0,4,6,3,6,0,6,3,6,0,0,17,4,0,D,Daniel,Carvajal
+1295,Javier Varas,73,LASP,Goalkeeper,31,0,0,9,0,1,1,5,0,0,0,0,43,21,0,J,Javier,Varas
+1296,Victor Rodriguez,73,,Midfielder,26,2,2,0,0,2,0,9,7,14,0,0,0,0,0,V,Victor,Rodriguez
+1297,Adrian Gonzalez,72,,Midfielder,26,4,0,0,0,6,0,8,6,12,0,0,0,0,0,A,Adrian,Gonzalez
+1298,Alfred N'Diaye,72,BETI,Midfielder,34,2,0,0,0,6,0,0,0,3,0,0,0,0,0,A,Alfred,N'Diaye
+1299,Benoit Tremoulinas,72,SEVI,Defender,24,0,3,8,0,3,0,1,0,1,0,0,30,14,0,B,Benoit,Tremoulinas
+1300,Victor Camarasa,72,,Midfielder,21,2,3,0,0,3,0,16,14,7,0,0,0,0,0,V,Victor,Camarasa
+1301,Pablo Hernandez,71,RAVA,Midfielder,24,3,3,0,0,4,0,3,3,10,0,0,0,0,0,P,Pablo,Hernandez
+1302,Fernandez Gabi,71,,Midfielder,34,1,3,0,0,12,0,1,1,6,0,0,0,0,0,F,Fernandez,Gabi
+1303,Mikel Oyarzabal,70,RESO,Midfielder,16,6,1,0,0,1,0,9,6,6,0,0,0,0,0,M,Mikel,Oyarzabal
+1304,Adalberto Penaranda,70,,Midfielder,21,5,3,0,0,8,0,3,2,11,0,0,0,0,0,A,Adalberto,Penaranda
+1305,Pablo Hernandez,70,RCCV,Midfielder,28,2,4,0,0,13,0,5,5,13,0,0,0,0,0,P,Pablo,Hernandez
+1306,Juanfran,70,RCDC,Midfielder,29,1,2,0,0,4,0,7,5,10,0,0,0,0,0,J,Juanfran,Juanfran
+1307,Pedro Mosquera,70,RCDC,Midfielder,37,0,2,0,0,10,0,0,0,2,0,0,0,0,0,P,Pedro,Mosquera
+1308,Adil Rami,70,SEVI,Defender,28,0,1,9,0,8,0,1,0,2,0,0,36,17,0,A,Adil,Rami
+1309,Pedro Leon,69,,Midfielder,23,2,4,0,0,5,0,11,8,17,0,1,0,0,0,P,Pedro,Leon
+1310,Sidnei,69,RCDC,Defender,33,0,0,7,0,2,0,0,0,2,0,0,49,23,0,S,Sidnei,Sidnei
+1311,Joaquin,69,BETI,Midfielder,22,1,5,0,0,3,0,10,8,14,0,0,0,0,0,J,Joaquin,Joaquin
+1312,Aymeric Laporte,69,ATBI,Defender,25,3,1,7,2,8,1,2,1,1,0,0,35,18,1,A,Aymeric,Laporte
+1313,Ever Banega,69,SEVI,Midfielder,20,5,2,0,0,7,0,7,5,11,0,0,0,0,0,E,Ever,Banega
+1314,Takashi Inui,68,,Midfielder,18,3,3,0,0,1,0,14,9,12,0,0,0,0,0,T,Takashi,Inui
+1315,Vitolo,68,SEVI,Midfielder,23,2,4,0,0,5,0,5,5,5,0,0,0,0,0,V,Vitolo,Vitolo
+1316,Luis Hernandez,68,,Defender,36,0,0,7,0,5,0,0,0,0,0,0,56,27,0,L,Luis,Hernandez
+1317,Gustavo Cabral,68,RCCV,Defender,31,0,0,9,0,11,1,1,0,1,0,0,38,16,0,G,Gustavo,Cabral
+1318,Joao Cancelo,68,VALA,Defender,25,1,3,5,1,6,0,4,3,4,0,0,37,15,0,J,Joao,Cancelo
+1319,Roque Mesa,67,LASP,Midfielder,34,1,2,0,0,12,0,1,0,14,0,0,0,0,0,R,Roque,Mesa
+1320,Fernando Navarro,67,RCDC,Defender,36,0,2,5,1,5,0,1,0,8,0,0,58,28,0,F,Fernando,Navarro
+1321,Giuseppe Rossi,67,,Forward,15,6,2,0,0,1,0,3,2,10,0,0,0,0,0,G,Giuseppe,Rossi
+1322,Victor Sanchez,67,RCDE,Midfielder,28,1,6,0,0,13,0,1,1,12,0,0,0,0,0,V,Victor,Sanchez
+1323,Gonzalo Escalante,66,,Defender,32,3,1,6,1,15,0,2,2,9,0,0,56,29,0,G,Gonzalo,Escalante
+1324,Damian Suarez,66,,Defender,30,0,3,8,0,7,1,1,1,2,0,0,49,26,0,D,Damian,Suarez
+1325,Juanpi,66,MALA,Midfielder,18,4,1,0,0,4,0,15,11,12,0,0,0,0,0,J,Juanpi,Juanpi
+1326,Steven N'Zonzi,66,SEVI,Midfielder,22,3,1,0,0,3,0,12,7,7,0,0,0,0,0,S,Steven,N'Zonzi
+1327,Andre Gomes,66,VALA,Midfielder,27,2,3,0,0,10,0,3,3,7,0,0,0,0,0,A,Andre,Gomes
+1328,Carlos Castro,66,,Forward,7,7,0,0,0,1,0,24,18,5,0,0,0,0,0,C,Carlos,Castro
+1329,Sergio Roberto,66,BARC,Midfielder,21,0,5,0,0,1,0,13,10,9,0,0,0,0,0,S,Sergio,Roberto
+1330,Mariano,66,SEVI,Defender,18,0,3,8,1,6,0,10,5,1,0,0,26,12,0,M,Mariano,Mariano
+1331,Alvaro Negredo,65,VALA,Forward,12,5,1,0,0,0,0,18,13,6,0,0,0,0,0,A,Alvaro,Negredo
+1332,German Lux,65,RCDC,Goalkeeper,29,0,0,6,0,4,1,0,0,1,1,0,38,15,0,G,German,Lux
+1333,Nabil El Zhar,65,LASP,Forward,17,2,4,0,0,4,0,15,13,11,0,0,0,0,0,N,Nabil,Zhar
+1334,Sergi Gomez,64,RCCV,Defender,29,0,1,7,1,6,0,6,2,0,0,0,46,23,0,S,Sergi,Gomez
+1335,Pepe,64,MADR,Defender,21,1,1,6,0,5,0,6,0,1,0,0,20,5,0,P,Pepe,Pepe
+1336,Juan Manuel Vargas,64,BETI,Defender,20,2,2,7,0,7,0,0,0,1,0,0,26,13,0,J,Juan,Vargas
+1337,Angel Correa,64,,Forward,8,5,4,0,0,7,0,28,18,7,0,0,0,0,0,A,Angel,Correa
+1338,Adri Embarba,64,RAVA,Midfielder,19,2,4,0,0,5,0,14,9,8,0,0,0,0,0,A,Adri,Embarba
+1339,Jefferson Lerma,64,,Midfielder,31,1,2,0,0,11,0,4,2,5,0,0,0,0,0,J,Jefferson,Lerma
+1340,Manu Trigueros,63,VIAL,Forward,24,2,1,0,0,5,0,14,7,10,0,0,0,0,0,M,Manu,Trigueros
+1341,Sergio,63,RCCV,Goalkeeper,30,0,0,7,0,1,0,7,1,0,0,0,49,25,0,S,Sergio,Sergio
+1342,Yannick Carrasco,63,,Midfielder,16,4,1,0,0,5,0,14,13,15,0,0,0,0,0,Y,Yannick,Carrasco
+1343,Santi Mina,63,VALA,Forward,17,4,1,0,0,2,0,13,8,12,0,0,0,0,0,S,Santi,Mina
+1344,Aythami,63,LASP,Defender,30,0,1,8,0,11,0,2,1,1,0,0,45,22,0,A,Aythami,Aythami
+1345,Lucas Vazquez,63,MADR,Midfielder,10,4,4,0,0,3,0,23,14,3,0,0,0,0,0,L,Lucas,Vazquez
+1346,Shkodran Mustafi,62,VALA,Defender,30,2,0,6,0,13,0,0,0,1,0,0,40,16,1,S,Shkodran,Mustafi
+1347,Federico Cartabia,62,RCDC,Midfielder,15,3,3,0,0,3,0,17,11,13,0,0,0,0,0,F,Federico,Cartabia
+1348,Fernando Llorente,62,SEVI,Forward,14,4,3,0,0,4,0,19,9,12,0,0,0,0,0,F,Fernando,Llorente
+1349,Mateo Musacchio,62,VIAL,Defender,12,1,0,7,3,1,0,2,1,3,0,0,4,1,0,M,Mateo,Musacchio
+1350,Celso Borges,62,RCDC,Midfielder,21,3,2,0,0,4,0,4,3,3,0,0,0,0,0,C,Celso,Borges
+1351,Andres Iniesta,62,BARC,Midfielder,25,1,2,0,0,2,0,9,3,5,0,0,0,0,0,A,Andres,Iniesta
+1352,Recio,61,MALA,Forward,32,0,4,0,0,16,0,2,1,8,0,0,0,0,0,R,Recio,Recio
+1353,Sergio Alvarez,61,,Midfielder,26,2,2,0,0,8,0,2,1,5,0,0,0,0,0,S,Sergio,Alvarez
+1354,Timothee Kolodziejczak,60,SEVI,Defender,26,0,0,8,0,6,1,11,3,1,0,0,39,18,0,T,Timothee,Kolodziejczak
+1355,German Pezzella,60,BETI,Defender,23,3,1,6,0,8,0,7,2,1,0,0,41,22,0,G,German,Pezzella
+1356,Pape Diop,60,RCDE,Midfielder,29,3,0,0,0,14,0,1,1,4,0,0,0,0,0,P,Pape,Diop
+1357,Ismael Lopez,60,,Forward,28,2,0,0,0,8,0,8,2,4,0,0,0,0,0,I,Ismael,Lopez
+1358,Sabin Merino,59,ATBI,Forward,13,5,0,0,0,1,0,12,9,8,0,0,0,0,0,S,Sabin,Merino
+1359,Jaume Costa,59,VIAL,Defender,17,1,1,7,0,8,0,2,1,1,0,0,15,4,0,J,Jaume,Costa
+1360,Bruma,59,RESO,Midfielder,14,2,1,0,0,0,0,23,18,11,0,0,0,0,0,B,Bruma,Bruma
+1361,Verza,58,,Midfielder,23,2,3,0,0,13,0,10,6,5,0,0,0,0,0,V,Verza,Verza
+1362,Alejandro Arribas,58,RCDC,Defender,31,2,0,5,0,10,0,3,0,2,0,0,47,21,1,A,Alejandro,Arribas
+1363,Pau Lopez,58,RCDE,Goalkeeper,36,0,0,7,0,4,0,2,1,0,0,0,69,39,0,P,Pau,Lopez
+1364,Eric Bailly,57,VIAL,Defender,25,0,0,6,2,10,0,5,0,6,0,0,28,11,0,E,Eric,Bailly
+1365,David Simon,57,LASP,Defender,24,1,2,6,1,7,0,9,3,1,0,0,41,21,1,D,David,Simon
+1366,Victor Alvarez,57,RCDE,Midfielder,25,1,2,0,0,6,0,12,2,12,0,0,0,0,0,V,Victor,Alvarez
+1367,Asier Illarramendi,57,RESO,Midfielder,32,1,1,0,0,16,0,1,1,3,0,0,0,0,0,A,Asier,Illarramendi
+1368,Yuri Berchiche,57,RESO,Defender,21,0,4,6,0,10,0,11,0,4,0,0,26,11,0,Y,Yuri,Berchiche
+1369,Petros,57,BETI,Midfielder,27,1,1,0,0,8,0,9,3,5,0,0,0,0,0,P,Petros,Petros
+1370,Diego Reyes,56,RESO,Midfielder,26,2,0,0,0,4,0,8,1,3,0,0,0,0,1,D,Diego,Reyes
+1371,Chori Castro,56,RESO,Midfielder,16,1,4,0,0,1,0,10,8,8,0,0,0,0,0,C,Chori,Castro
+1372,Diego Llorente,56,RAVA,Defender,33,2,0,6,0,10,1,0,0,2,0,0,55,28,1,D,Diego,Llorente
+1373,Jean-Sylvain Babin,56,,Defender,25,3,0,4,0,4,0,9,0,1,0,0,42,21,0,J,Jean-Sylvain,Babin
+1374,David Garcia,56,LASP,Defender,18,2,1,5,0,2,0,17,1,4,0,0,26,12,0,D,David,Garcia
+1375,Javi Lopez,55,RCDE,Midfielder,28,0,2,0,0,10,0,8,3,4,0,0,0,0,0,J,Javi,Lopez
+1376,Juan Rodriguez,55,,Midfielder,30,0,2,0,0,10,0,6,2,10,0,0,0,0,1,J,Juan,Rodriguez
+1377,Miguel Torres,55,MALA,Defender,22,0,2,4,2,9,0,10,1,2,0,0,24,7,0,M,Miguel,Torres
+1378,Stefan Savic,55,,Defender,10,0,0,9,0,1,0,19,2,0,0,0,5,2,0,S,Stefan,Savic
+1379,Leo Baptistao,55,VIAL,Forward,12,3,1,0,0,1,0,15,14,7,0,0,0,0,0,L,Leo,Baptistao
+1380,Eneko Boveda,54,ATBI,Defender,15,0,0,5,4,1,0,12,8,2,0,0,25,11,0,E,Eneko,Boveda
+1381,Michael Krohn-Dehli,54,SEVI,Midfielder,16,1,3,0,0,3,0,12,11,3,0,0,0,0,0,M,Michael,Krohn-Dehli
+1382,Medhi Lacen,54,,Midfielder,31,0,0,0,0,8,0,1,0,4,0,0,0,0,0,M,Medhi,Lacen
+1383,Jaume Domenech,53,VALA,Goalkeeper,17,0,0,5,0,0,0,10,0,0,1,0,18,6,0,J,Jaume,Domenech
+1384,Manucho Goncalves,53,RAVA,Forward,5,4,1,0,0,3,0,32,23,3,0,0,0,0,0,M,Manucho,Goncalves
+1385,Ruben Perez,53,,Midfielder,30,0,2,0,0,14,0,1,1,11,0,0,0,0,0,R,Ruben,Perez
+1386,Tito,53,RAVA,Defender,29,1,3,4,1,5,1,1,0,3,0,0,53,29,0,T,Tito,Tito
+1387,Alejandro Bergantinos,52,RCDC,Midfielder,20,2,1,0,0,3,0,18,2,3,0,0,0,0,0,A,Alejandro,Bergantinos
+1388,Dani Ceballos,52,BETI,Midfielder,22,0,2,0,0,10,0,13,12,12,0,0,0,0,0,D,Dani,Ceballos
+1389,Dani Garcia,52,,Midfielder,35,0,0,0,0,16,0,0,0,5,0,1,0,0,0,D,Dani,Garcia
+1390,Alvaro Gonzalez,52,RCDE,Defender,35,0,1,6,1,10,0,1,0,1,0,0,62,34,1,A,Alvaro,Gonzalez
+1391,Alvaro Cejudo,52,BETI,Midfielder,21,1,2,0,0,10,0,14,9,12,0,0,0,0,0,A,Alvaro,Cejudo
+1392,Mauro Dos Santos,52,,Defender,29,0,1,6,0,7,0,7,1,1,0,0,48,24,1,M,Mauro,Santos
+1393,Augusto Fernandez,51,RCCV,Midfielder,25,1,1,0,0,9,0,3,2,9,0,0,0,0,0,A,Augusto,Fernandez
+1394,Javier Garrido,51,LASP,Defender,18,0,1,7,0,2,0,8,0,1,0,0,25,14,0,J,Javier,Garrido
+1395,Carlos Carmona,51,,Midfielder,16,2,3,0,0,4,0,14,4,14,0,0,0,0,0,C,Carlos,Carmona
+1396,Javier Mascherano,51,BARC,Midfielder,31,0,0,0,0,9,1,3,1,3,0,0,0,0,0,J,Javier,Mascherano
+1397,Mikel Gonzalez,50,RESO,Defender,17,0,0,7,0,1,0,15,2,2,0,0,25,13,0,M,Mikel,Gonzalez
+1398,Fran Rico,50,,Midfielder,15,2,1,0,0,6,0,20,13,8,0,0,0,0,0,F,Fran,Rico
+1399,Enzo Roco,50,RCDE,Defender,26,2,0,5,1,9,0,9,7,0,0,0,59,32,0,E,Enzo,Roco
+1400,Antonio Rukavina,49,VIAL,Defender,14,0,0,7,2,5,0,21,4,0,0,0,19,10,0,A,Antonio,Rukavina
+1401,Jeremy Mathieu,49,BARC,Defender,12,0,2,2,7,2,0,17,9,4,0,0,19,7,1,J,Jeremy,Mathieu
+1402,Samu Castillejo,49,VIAL,Midfielder,18,1,1,0,0,4,0,16,9,10,0,0,0,0,0,S,Samu,Castillejo
+1403,Adrian Marin,49,VIAL,Defender,10,1,1,5,1,1,0,11,2,1,0,0,8,2,0,A,Adrian,Marin
+1404,Marc Bartra,49,BARC,Defender,4,2,1,1,8,0,0,27,8,1,0,0,3,0,0,M,Marc,Bartra
+1405,Heiko Westermann,48,BETI,Defender,20,1,0,6,0,5,0,6,0,3,0,0,27,13,1,H,Heiko,Westermann
+1406,Ignacio Camacho,48,MALA,Midfielder,23,2,0,0,0,8,0,0,0,1,0,0,0,0,0,I,Ignacio,Camacho
+1407,Cristiano Biraghi,47,,Defender,32,0,1,4,0,8,0,2,0,3,0,0,56,28,0,C,Cristiano,Biraghi
+1408,Zouhair Feddal,47,,Defender,28,1,1,5,0,10,0,5,0,0,0,0,50,27,0,Z,Zouhair,Feddal
+1409,Miguel Angel Guerrero,47,,Forward,13,2,1,0,0,2,0,19,10,13,0,0,0,0,0,M,Miguel,Guerrero
+1410,Andres Fernandez,47,,Goalkeeper,37,0,0,4,0,6,1,0,0,0,0,0,67,34,0,A,Andres,Fernandez
+1411,Moises Gomez,47,,Midfielder,9,2,3,0,0,3,0,24,13,6,0,0,0,0,0,M,Moises,Gomez
+1412,Casemiro,47,MADR,Midfielder,17,1,3,0,0,7,0,19,6,4,0,0,0,0,0,C,Casemiro,Casemiro
+1413,Dani Castellano,47,LASP,Midfielder,25,0,0,0,0,5,0,3,2,3,0,0,0,0,0,D,Dani,Castellano
+1414,Alberto Lora,47,,Midfielder,23,0,1,0,0,7,0,9,5,2,0,0,0,0,0,A,Alberto,Lora
+1415,Tomas Pina,45,VIAL,Midfielder,19,0,1,0,0,4,0,13,8,7,0,0,0,0,0,T,Tomas,Pina
+1416,Adrian Lopez,45,VIAL,Forward,9,3,3,0,0,1,0,6,4,8,0,0,0,0,0,A,Adrian,Lopez
+1417,Theo Bongonda,45,RCCV,Forward,14,2,1,0,0,5,0,22,9,10,0,0,0,0,0,T,Theo,Bongonda
+1418,Jonathan Dos Santos,45,VIAL,Forward,20,0,1,0,0,4,0,9,6,11,0,0,0,0,0,J,Jonathan,Santos
+1419,Markel Bergara,44,RESO,Defender,15,1,0,4,4,7,0,13,5,6,0,0,25,13,0,M,Markel,Bergara
+1420,Omar Mascarell,44,,Midfielder,20,0,1,0,0,5,0,12,6,4,0,0,0,0,0,O,Omar,Mascarell
+1421,Aymen Abdennour,44,VALA,Defender,21,0,0,3,0,4,0,4,0,2,0,0,24,6,0,A,Aymen,Abdennour
+1422,Munir El Haddadi,44,BARC,Forward,8,3,2,0,0,0,0,29,7,5,0,0,0,0,0,M,Munir,Haddadi
+1423,Coke,44,SEVI,Defender,20,1,1,3,1,3,1,14,1,3,0,0,30,13,0,C,Coke,Coke
+1424,Nacho,44,MADR,Defender,12,0,0,6,0,5,0,20,4,0,0,0,13,3,0,N,Nacho,Nacho
+1425,Momo,44,LASP,Midfielder,15,0,3,0,0,3,0,14,8,11,0,0,0,0,0,M,Momo,Momo
+1426,Burgui,43,RCDE,Forward,8,1,2,0,0,0,0,26,18,7,0,1,0,0,0,B,Burgui,Burgui
+1427,Carles Planas,43,RCCV,Defender,18,0,2,4,2,4,0,20,8,3,0,0,43,23,0,C,Carles,Planas
+1428,Victor Casadesus,43,,Forward,8,3,1,0,0,5,0,21,14,7,0,0,0,0,0,V,Victor,Casadesus
+1429,Raul Baena,43,RAVA,Midfielder,22,1,1,0,0,11,0,7,2,5,0,0,0,0,0,R,Raul,Baena
+1430,David Zurutuza,43,RESO,Midfielder,14,1,3,0,0,1,0,2,2,9,0,0,0,0,0,D,David,Zurutuza
+1431,Juankar,43,MALA,Midfielder,14,1,2,0,0,1,0,5,5,4,0,0,0,0,0,J,Juankar,Juankar
+1432,Pablo Fornals,43,MALA,Midfielder,12,1,0,0,0,1,0,21,15,6,0,0,0,0,0,P,Pablo,Fornals
+1433,Nemanja Radoja,43,RCCV,Midfielder,15,0,1,0,0,5,0,17,15,7,0,0,0,0,0,N,Nemanja,Radoja
+1434,Luciano Vietto,42,,Forward,12,1,3,0,0,3,0,21,7,11,0,0,0,0,0,L,Luciano,Vietto
+1435,David Junca,42,,Defender,25,0,4,2,2,8,0,8,6,2,0,0,54,27,1,D,David,Junca
+1436,Jackson Martinez,42,,Forward,8,2,3,0,0,0,0,9,7,6,0,0,0,0,0,J,Jackson,Martinez
+1437,Arthur Boka,42,MALA,Defender,12,0,0,5,1,4,0,10,2,4,0,0,10,2,0,A,Arthur,Boka
+1438,Angel Lafita,42,,Midfielder,12,3,2,0,0,5,0,2,2,8,0,0,0,0,0,A,Angel,Lafita
+1439,Inigo Lekue,42,ATBI,Defender,12,1,0,2,4,2,0,19,8,5,0,0,23,9,0,I,Inigo,Lekue
+1440,Alvaro Medran,42,,Midfielder,16,2,1,0,0,7,0,6,4,5,0,0,0,0,0,A,Alvaro,Medran
+1441,Arda Turan,41,BARC,Midfielder,9,2,3,0,0,5,0,11,9,7,0,0,0,0,0,A,Arda,Turan
+1442,Thomas Vermaelen,41,BARC,Defender,7,1,0,3,4,2,0,16,4,4,0,0,4,0,0,T,Thomas,Vermaelen
+1443,Iker Muniain,41,ATBI,Forward,13,2,0,0,0,2,0,7,7,10,0,0,0,0,0,I,Iker,Muniain
+1444,Vicente Gomez,41,LASP,Midfielder,16,1,1,0,0,4,0,9,5,3,0,0,0,0,0,V,Vicente,Gomez
+1445,Abraham,40,RCDE,Midfielder,13,1,1,0,0,1,0,11,7,7,0,0,0,0,0,A,Abraham,Abraham
+1446,Cala,40,,Defender,21,1,1,3,1,11,0,5,1,0,0,0,32,14,0,C,Cala,Cala
+1447,Jose Antonio Reyes,40,SEVI,Forward,14,1,1,0,0,6,0,18,10,12,0,0,0,0,0,J,Jose,Reyes
+1448,Javier Fuego,39,VALA,Midfielder,23,0,0,0,0,10,0,6,3,3,0,0,0,0,0,J,Javier,Fuego
+1449,Grzegorz Krychowiak,39,SEVI,Midfielder,25,0,0,0,0,6,0,1,1,1,0,0,0,0,2,G,Grzegorz,Krychowiak
+1450,Santiago Vergini,39,,Defender,24,0,0,6,1,8,0,10,2,0,0,0,48,29,0,S,Santiago,Vergini
+1451,Jorge Mere,38,,Defender,24,0,0,3,0,6,0,12,1,2,0,0,39,17,0,J,Jorge,Mere
+1452,Roberto Lago,38,,Defender,17,0,2,4,1,6,0,2,0,4,0,0,26,14,0,R,Roberto,Lago
+1453,Francisco Molinero,38,BETI,Defender,15,0,1,2,8,5,0,15,6,7,0,0,31,20,0,F,Francisco,Molinero
+1454,Jose Gaya,38,VALA,Defender,15,0,0,3,1,6,0,6,5,2,0,0,21,5,0,J,Jose,Gaya
+1455,Ivan Ramis,37,,Defender,21,0,1,4,0,7,1,4,2,3,0,0,35,16,0,I,Ivan,Ramis
+1456,Piti,37,,Forward,9,2,2,0,0,3,0,9,6,7,0,0,0,0,0,P,Piti,Piti
+1457,Antonio Barragan,37,VALA,Defender,19,0,0,1,2,6,0,12,5,6,0,0,29,8,0,A,Antonio,Barragan
+1458,Rene Krhin,37,,Midfielder,16,0,0,0,0,3,0,17,8,4,0,0,0,0,0,R,Rene,Krhin
+1459,Juan Carlos,37,RAVA,Goalkeeper,19,0,0,3,0,1,0,18,2,0,1,0,37,19,0,J,Juan,Carlos
+1460,Rodrigo Moreno,37,VALA,Forward,11,1,2,0,0,1,1,10,8,4,0,0,0,0,0,R,Rodrigo,Moreno
+1461,Jorge Molina,37,BETI,Forward,10,1,1,0,0,4,0,19,13,10,0,0,0,0,0,J,Jorge,Molina
+1462,Duda,37,MALA,Midfielder,10,1,1,0,0,5,0,26,16,5,0,1,0,0,0,D,Duda,Duda
+1463,Nacho Cases,36,,Midfielder,21,1,0,0,0,11,1,5,3,1,0,0,0,0,0,N,Nacho,Cases
+1464,Oriol Riera,36,RCDC,Forward,7,2,0,0,0,3,0,24,15,2,0,0,0,0,0,O,Oriol,Riera
+1465,Jose Ze Castro,36,RAVA,Defender,22,2,0,4,0,7,1,3,0,5,0,0,42,24,0,J,Jose,Castro
+1466,Samu,36,VIAL,Forward,8,2,1,0,0,2,0,19,9,2,0,0,0,0,0,S,Samu,Samu
+1467,Isaac Cuenca,36,,Midfielder,8,2,2,0,0,0,0,7,4,2,0,0,0,0,0,I,Isaac,Cuenca
+1468,Daniel Carrico,36,SEVI,Defender,11,1,1,4,0,3,0,8,3,1,0,0,20,10,0,D,Daniel,Carrico
+1469,Sofiane Feghouli,36,VALA,Midfielder,13,1,0,0,0,3,0,8,8,4,0,0,0,0,0,S,Sofiane,Feghouli
+1470,Sebastian Cristoforo,36,SEVI,Midfielder,17,0,1,0,0,5,0,9,4,9,0,0,0,0,0,S,Sebastian,Cristoforo
+1471,Javier Eraso,35,ATBI,Midfielder,8,2,1,0,0,2,0,21,8,4,0,0,0,0,0,J,Javier,Eraso
+1472,Cristiano Piccini,35,BETI,Defender,16,0,0,3,2,4,0,2,0,2,0,0,20,9,0,C,Cristiano,Piccini
+1473,Charly Musonda,35,BETI,Midfielder,13,1,1,0,0,2,0,3,3,4,0,0,0,0,0,C,Charly,Musonda
+1474,Marcos Angeleri,34,MALA,Defender,13,0,0,4,0,3,0,2,0,1,0,0,14,5,0,M,Marcos,Angeleri
+1475,Ruben,34,,Goalkeeper,15,0,0,3,0,4,0,23,1,0,2,0,28,15,0,R,Ruben,Ruben
+1476,Ruben Duarte,34,RCDE,Defender,21,0,1,4,1,5,0,11,1,2,0,0,42,25,0,R,Ruben,Duarte
+1477,Sergio Escudero,34,SEVI,Defender,13,1,1,2,2,2,0,7,2,2,0,0,23,12,0,S,Sergio,Escudero
+1478,Oliver,34,,Midfielder,9,0,2,0,0,2,0,18,12,9,0,0,0,0,0,O,Oliver,Oliver
+1479,Francisco Portillo,34,BETI,Defender,11,0,0,1,6,4,0,22,9,5,0,0,21,9,0,F,Francisco,Portillo
+1480,Lucas Hernandez,33,,Defender,8,0,0,3,2,0,0,8,2,0,0,0,6,1,0,L,Lucas,Hernandez
+1481,Mateo Kovacic,33,MADR,Midfielder,8,0,2,0,0,3,1,27,17,5,0,0,0,0,0,M,Mateo,Kovacic
+1482,Aderlan Santos,33,VALA,Defender,18,0,0,2,0,1,0,12,0,0,0,0,26,10,0,A,Aderlan,Santos
+1483,Rachid Ait-Atmane,33,,Midfielder,11,0,2,0,0,2,0,18,7,1,0,0,0,0,0,R,Rachid,Ait-Atmane
+1484,Roque Santa Cruz,33,MALA,Forward,3,2,1,0,0,0,0,17,14,1,0,0,0,0,0,R,Roque,Cruz
+1485,Zakaria Bakkali,33,VALA,Forward,4,1,3,0,0,1,0,13,12,4,0,0,0,0,0,Z,Zakaria,Bakkali
+1486,Tono,33,,Defender,26,0,1,4,0,8,0,2,1,1,0,0,51,28,1,T,Tono,Tono
+1487,Alexis,33,,Defender,15,1,0,5,0,7,0,0,0,0,0,0,25,15,0,A,Alexis,Alexis
+1488,Jesus Gamez,33,,Defender,7,0,0,4,2,2,0,24,3,0,0,0,6,2,0,J,Jesus,Gamez
+1489,Antonio Luna,32,,Defender,12,0,1,3,1,2,0,7,3,4,0,0,21,10,0,A,Antonio,Luna
+1490,Ruben Vezo,32,VALA,Defender,10,0,0,3,0,2,0,18,5,0,0,0,15,3,0,R,Ruben,Vezo
+1491,Javi Marquez,32,,Midfielder,16,0,1,0,0,6,0,6,3,6,0,0,0,0,0,J,Javi,Marquez
+1492,Francisco Varela,32,BETI,Defender,10,0,0,3,2,3,0,8,4,2,0,0,14,5,0,F,Francisco,Varela
+1493,Nabil Ghilas,32,,Forward,10,0,1,0,0,1,0,14,10,6,0,0,0,0,0,N,Nabil,Ghilas
+1494,Alex Menendez,32,,Defender,11,2,1,0,4,1,0,17,10,3,0,0,37,20,0,A,Alex,Menendez
+1495,Joan Verdu,31,,Midfielder,10,1,1,0,0,0,0,5,3,2,0,0,0,0,0,J,Joan,Verdu
+1496,Bernardo Espinosa,31,,Defender,16,1,0,3,0,6,0,0,0,1,0,0,25,12,0,B,Bernardo,Espinosa
+1497,Danilo Barbosa,31,VALA,Midfielder,16,0,0,0,0,4,0,19,3,6,0,0,0,0,0,D,Danilo,Barbosa
+1498,Guillermo Ochoa,31,MALA,Goalkeeper,10,0,0,3,0,0,0,28,1,0,0,0,10,2,0,G,Guillermo,Ochoa
+1499,Ruben Garcia,31,,Midfielder,9,1,0,0,0,4,0,19,12,4,0,0,0,0,0,R,Ruben,Garcia
+1500,Denis Cherychev,31,MADR,Forward,6,3,1,0,0,2,0,9,3,5,0,0,0,0,0,D,Denis,Cherychev
+1501,Hernan,30,LASP,Midfielder,11,1,0,0,0,4,0,9,7,5,0,0,0,0,0,H,Hernan,Hernan
+1502,David Lomban,30,,Defender,29,0,0,1,1,6,0,7,2,0,0,0,56,27,1,D,David,Lomban
+1503,Mate Junior Simao,30,,Defender,26,1,0,3,1,11,1,5,4,7,0,0,57,31,0,M,Mate,Simao
+1504,Miguel Lopes,30,,Defender,23,0,1,3,1,9,0,8,3,5,0,0,46,24,1,M,Miguel,Lopes
+1505,Nahuel,30,VIAL,Midfielder,11,0,1,0,0,4,0,21,9,7,0,0,0,0,0,N,Nahuel,Nahuel
+1506,Carl Medjani,30,,Defender,14,1,0,3,0,1,0,2,0,0,0,0,25,14,0,C,Carl,Medjani
+1507,Tiago,30,,Midfielder,12,1,1,0,0,4,0,2,2,2,0,0,0,0,0,T,Tiago,Tiago
+1508,Alberto de la Bella,30,RESO,Midfielder,14,0,2,0,0,5,0,16,1,1,0,0,0,0,0,A,Alberto,Bella
+1509,Ricky van Wolfswinkel,30,BETI,Forward,5,1,2,0,0,2,0,21,11,3,0,0,0,0,0,R,Ricky,Wolfswinkel
+1510,Laure,30,RCDC,Defender,16,0,0,2,3,6,0,20,7,4,0,0,35,17,0,L,Laure,Laure
+1511,Juanfran,29,,Defender,19,0,1,4,0,8,1,5,1,6,0,0,34,18,0,J,Juanfran,Juanfran
+1512,Joseba Zaldua,29,RESO,Defender,10,0,0,3,3,5,0,9,3,2,0,0,14,7,0,J,Joseba,Zaldua
+1513,Abdoulaye Doucoure,29,,Midfielder,13,0,2,0,0,5,0,3,2,1,0,0,0,0,0,A,Abdoulaye,Doucoure
+1514,Pablo Piatti,29,VALA,Forward,10,0,0,0,0,3,0,19,12,9,0,0,0,0,0,P,Pablo,Piatti
+1515,Aleksandar Pantic,28,,Defender,19,0,0,3,0,6,0,14,2,1,0,0,36,18,0,A,Aleksandar,Pantic
+1516,Martin Montoya,28,BETI,Defender,13,0,1,3,0,4,0,0,0,1,0,0,19,9,0,M,Martin,Montoya
+1517,Dani Ndi,28,,Midfielder,10,1,0,0,0,2,0,7,5,9,0,0,0,0,0,D,Dani,Ndi
+1518,Mikel Rico,28,ATBI,Midfielder,8,1,1,0,0,2,1,22,9,5,0,0,0,0,0,M,Mikel,Rico
+1519,Cani,28,RCDC,Midfielder,12,0,0,0,0,2,0,13,6,12,0,0,0,0,0,C,Cani,Cani
+1520,Guilherme Siqueira,28,,Midfielder,15,0,0,0,0,2,0,5,0,4,0,0,0,0,0,G,Guilherme,Siqueira
+1521,Quini,28,RAVA,Defender,22,0,1,3,1,7,0,11,5,3,0,0,54,31,0,Q,Quini,Quini
+1522,Diego Marino,28,,Goalkeeper,23,0,0,3,0,1,0,13,0,0,0,0,43,23,2,D,Diego,Marino
+1523,Ricardo Costa,27,,Defender,14,1,0,3,0,7,0,0,0,1,0,0,22,11,0,R,Ricardo,Costa
+1524,Luisinho,27,RCDC,Defender,11,0,0,3,0,6,0,13,9,4,0,0,27,10,0,L,Luisinho,Luisinho
+1525,Thomas,26,,Midfielder,3,2,1,0,0,3,0,18,10,2,0,0,0,0,0,T,Thomas,Thomas
+1526,Daniele Bonera,26,VIAL,Defender,10,0,0,3,2,4,0,11,4,2,0,0,19,10,0,D,Daniele,Bonera
+1527,Enzo Perez,26,VALA,Midfielder,16,0,0,0,0,10,0,6,4,13,0,0,0,0,0,E,Enzo,Perez
+1528,Christian Atsu,25,MALA,Midfielder,3,2,0,0,0,0,0,12,9,1,0,0,0,0,0,C,Christian,Atsu
+1529,Emiliano Velazquez,25,,Defender,11,3,1,1,0,7,0,16,0,1,0,0,22,12,0,E,Emiliano,Velazquez
+1530,Rodrigo de Paul,25,VALA,Midfielder,9,1,0,0,0,3,0,13,5,6,0,0,0,0,0,R,Rodrigo,Paul
+1531,Pablo Perez,25,,Midfielder,9,0,1,0,0,5,0,20,9,7,0,0,0,0,0,P,Pablo,Perez
+1532,Tono,25,RAVA,Goalkeeper,10,0,0,3,0,0,1,0,0,1,1,0,16,9,0,T,Tono,Tono
+1533,Pedro Lopez,25,,Defender,16,1,0,1,1,8,0,7,1,4,0,0,26,11,0,P,Pedro,Lopez
+1534,Ander Iturraspe,25,ATBI,Midfielder,7,0,1,0,0,1,0,15,9,5,0,0,0,0,0,A,Ander,Iturraspe
+1535,Mubarak Wakaso,24,LASP,Midfielder,10,1,0,0,0,11,0,11,10,4,0,0,0,0,0,M,Mubarak,Wakaso
+1536,Lass Bangoura,24,RAVA,Forward,7,0,1,0,0,2,0,13,9,5,0,0,0,0,0,L,Lass,Bangoura
+1537,Ricardo Horta,24,MALA,Forward,9,0,0,0,0,2,0,20,8,10,0,0,0,0,0,R,Ricardo,Horta
+1538,Sergio Canales,24,RESO,Midfielder,11,0,0,0,0,3,0,6,5,8,0,0,0,0,0,S,Sergio,Canales
+1539,Marcelo Diaz,24,RCCV,Midfielder,10,0,1,0,0,3,0,4,4,2,0,0,0,0,0,M,Marcelo,Diaz
+1540,Roberto Ibanez,24,,Midfielder,7,0,1,0,0,4,0,20,11,7,0,0,0,0,0,R,Roberto,Ibanez
+1541,Wanderson,24,,Midfielder,6,0,0,0,0,2,0,25,14,4,0,0,0,0,0,W,Wanderson,Wanderson
+1542,Edgar,23,,Midfielder,7,1,0,0,0,4,0,17,8,3,0,0,0,0,0,E,Edgar,Edgar
+1543,Karim Yoda,23,,Midfielder,8,0,0,0,0,3,0,17,10,0,0,0,0,0,0,K,Karim,Yoda
+1544,Antolin Alcaraz,23,LASP,Defender,6,1,1,2,0,2,0,1,0,0,0,0,7,3,0,A,Antolin,Alcaraz
+1545,Aleix Vidal,23,BARC,Defender,5,0,1,1,2,1,0,12,3,2,0,0,5,0,0,A,Aleix,Vidal
+1546,Carlos Gurpegi,23,ATBI,Midfielder,12,0,0,0,0,4,0,23,3,2,0,0,0,0,0,C,Carlos,Gurpegi
+1547,Adriano,23,BARC,Defender,4,0,1,0,4,0,0,19,4,2,0,0,4,0,0,A,Adriano,Adriano
+1548,David Navarro,22,,Defender,20,0,0,2,0,5,0,9,0,3,0,0,36,18,1,D,David,Navarro
+1549,Ruben Blanco,22,RCCV,Goalkeeper,8,0,0,3,0,1,1,18,0,1,1,0,12,7,0,R,Ruben,Blanco
+1550,Salva Sevilla,22,RCDE,Midfielder,5,1,0,0,0,3,0,28,10,3,0,0,0,0,0,S,Salva,Sevilla
+1551,Federico Ricca,22,MALA,Defender,7,1,1,0,1,3,0,6,1,1,0,0,7,0,0,F,Federico,Ricca
+1552,Carlos Martinez,22,RESO,Defender,6,0,2,1,1,2,0,6,4,1,0,0,12,4,0,C,Carlos,Martinez
+1553,Gorka Elustondo,22,ATBI,Defender,4,1,0,1,2,1,0,18,7,1,0,0,13,5,0,G,Gorka,Elustondo
+1554,Fabian,21,BETI,Midfielder,6,0,1,0,0,0,0,8,6,6,0,0,0,0,0,F,Fabian,Fabian
+1555,Hector,21,RESO,Defender,4,0,1,1,4,1,0,18,9,1,0,0,18,10,0,H,Hector,Hector
+1556,Claudio Beauvue,20,RCCV,Midfielder,6,1,0,0,0,1,0,6,4,3,0,0,0,0,0,C,Claudio,Beauvue
+1557,Dimitri Foulquier,20,,Defender,16,1,1,0,1,4,0,14,5,2,0,0,43,23,0,D,Dimitri,Foulquier
+1558,Ciro Immobile,20,SEVI,Forward,4,2,0,0,0,2,0,9,4,4,0,0,0,0,0,C,Ciro,Immobile
+1559,Jota,20,,Midfielder,8,0,0,0,0,1,0,7,5,3,0,0,0,0,0,J,Jota,Jota
+1560,Roger,20,,Forward,7,0,0,0,0,3,0,13,9,5,0,0,0,0,0,R,Roger,Roger
+1561,Jonas Gutierrez,20,RCDC,Midfielder,3,0,1,0,0,2,0,20,13,4,0,0,0,0,0,J,Jonas,Gutierrez
+1562,Nacho Martinez,20,RAVA,Defender,22,0,0,3,0,7,0,7,0,7,0,0,48,29,0,N,Nacho,Martinez
+1563,Mauricio Lemos,20,LASP,Defender,8,0,0,2,2,5,0,5,2,1,0,0,11,5,0,M,Mauricio,Lemos
+1564,Diego Alves,20,VALA,Goalkeeper,13,0,0,1,0,1,0,0,0,0,0,0,21,9,0,D,Diego,Alves
+1565,Emiliano Buendia,20,,Midfielder,6,1,0,0,0,5,1,17,11,2,0,0,0,0,0,E,Emiliano,Buendia
+1566,Adnane Tighadouini,19,MALA,Midfielder,4,1,0,0,0,0,0,7,6,4,0,0,0,0,0,A,Adnane,Tighadouini
+1567,Carlos Vigaray,19,,Defender,14,1,0,2,0,6,0,10,0,1,0,0,28,16,0,C,Carlos,Vigaray
+1568,Nordin Amrabat,19,MALA,Forward,13,0,1,0,0,5,1,0,0,8,0,1,0,0,0,N,Nordin,Amrabat
+1569,Oscar Duarte,19,RCDE,Defender,13,1,0,2,0,5,0,2,1,1,0,0,25,13,1,O,Oscar,Duarte
+1570,Matthew Ryan,18,VALA,Goalkeeper,8,0,0,1,0,0,0,18,0,0,0,0,9,2,0,M,Matthew,Ryan
+1571,Egor Filipenko,18,MALA,Defender,6,0,0,1,1,1,0,19,2,2,0,0,7,1,0,E,Egor,Filipenko
+1572,Marc Andre ter Stegen,18,BARC,Goalkeeper,5,0,0,2,1,0,0,31,1,0,0,0,6,3,0,M,Marc,Stegen
+1573,Sandro Ramirez,17,BARC,Forward,4,0,1,0,0,0,0,15,6,3,0,0,0,0,0,S,Sandro,Ramirez
+1574,Jose Canas,17,RCDE,Midfielder,7,0,0,0,0,3,0,11,6,3,0,0,0,0,0,J,Jose,Canas
+1575,Jose Mari,17,,Midfielder,10,0,0,0,0,5,0,8,2,6,0,0,0,0,0,J,Jose,Mari
+1576,Alberto Ramos,17,,Midfielder,4,0,3,0,0,0,0,1,0,0,0,0,0,0,0,A,Alberto,Ramos
+1577,Fernando Tissone,17,MALA,Midfielder,12,0,0,0,0,4,0,3,0,1,0,0,0,0,1,F,Fernando,Tissone
+1578,Xavi Torres,17,BETI,Midfielder,6,0,0,0,0,1,0,18,6,2,0,0,0,0,0,X,Xavi,Torres
+1579,Juan Carlos Valeron,16,LASP,Midfielder,3,0,0,0,0,0,0,30,10,2,0,0,0,0,0,J,Juan,Valeron
+1580,Jonathan Rodriguez,16,RCDC,Forward,6,0,0,0,0,2,0,14,6,5,0,0,0,0,0,J,Jonathan,Rodriguez
+1581,Juan Culio,16,LASP,Midfielder,6,0,1,0,0,2,1,13,6,3,0,0,0,0,0,J,Juan,Culio
+1582,Raul Lizoain,16,LASP,Goalkeeper,7,0,0,2,0,0,0,31,1,0,0,0,13,7,0,R,Raul,Lizoain
+1583,Joan Jordan,16,RCDE,Midfielder,5,1,0,0,0,3,0,14,4,1,0,0,0,0,0,J,Joan,Jordan
+1584,Juan Munoz,15,SEVI,Forward,3,1,0,0,0,0,0,10,4,2,0,0,0,0,0,J,Juan,Munoz
+1585,Esteban Granero,15,RESO,Midfielder,9,0,0,0,0,6,1,12,6,3,0,0,0,0,0,E,Esteban,Granero
+1586,Nili,15,LASP,Defender,4,0,0,0,3,0,0,4,4,4,0,0,8,3,0,N,Nili,Nili
+1587,Rafinha,14,BARC,Midfielder,3,1,0,0,0,0,0,7,3,1,0,0,0,0,0,R,Rafinha,Rafinha
+1588,Alberto Garcia,14,,Goalkeeper,5,0,0,0,0,0,0,27,0,0,2,0,11,6,0,A,Alberto,Garcia
+1589,Alberto Lopo,14,RCDC,Defender,8,0,0,2,0,5,0,18,2,0,0,0,15,7,0,A,Alberto,Lopo
+1590,Josep Sene,14,RCCV,Midfielder,4,0,1,0,0,1,0,27,4,2,0,0,0,0,0,J,Josep,Sene
+1591,Razvan Rat,14,RAVA,Defender,8,0,0,2,0,3,0,7,2,0,0,0,17,9,0,R,Razvan,Rat
+1592,David Barral,14,,Forward,3,0,0,0,0,3,0,13,11,2,0,0,0,0,0,D,David,Barral
+1593,Roberto Canella,13,,Midfielder,8,0,0,0,0,4,0,7,1,2,0,0,0,0,0,R,Roberto,Canella
+1594,Andreau Fontas,13,RCCV,Defender,6,1,0,1,0,1,0,2,1,1,0,0,14,8,0,A,Andreau,Fontas
+1595,Jordi Xumetra,13,,Midfielder,5,0,0,0,0,5,0,16,8,5,0,0,0,0,0,J,Jordi,Xumetra
+1596,Mamadou Sylla,13,RCDE,Forward,2,0,0,0,0,3,0,22,12,1,0,0,0,0,0,M,Mamadou,Sylla
+1597,Foued Kadir,13,BETI,Midfielder,6,0,0,0,0,1,0,5,2,5,0,0,0,0,0,F,Foued,Kadir
+1598,Vincenzo Rennella,12,BETI,Forward,2,1,0,0,0,1,0,5,4,2,0,0,0,0,0,V,Vincenzo,Rennella
+1599,Borja Viguera,12,ATBI,Forward,3,0,0,0,0,0,0,16,6,1,0,0,0,0,0,B,Borja,Viguera
+1600,Angel Montoro,12,LASP,Midfielder,5,0,0,0,0,2,0,7,4,2,0,0,0,0,0,A,Angel,Montoro
+1601,Ognjen Vranjes,12,,Defender,10,0,0,2,0,7,0,4,1,1,0,0,19,10,0,O,Ognjen,Vranjes
+1602,Sergio Asenjo,12,VIAL,Goalkeeper,4,0,0,2,0,1,0,8,0,0,0,0,5,3,0,S,Sergio,Asenjo
+1603,Nauzet,11,LASP,Midfielder,2,0,0,0,0,0,0,17,7,2,0,0,0,0,0,N,Nauzet,Nauzet
+1604,Angel Trujillo,11,,Defender,8,0,0,1,0,0,0,7,0,1,0,0,16,9,0,A,Angel,Trujillo
+1605,Mikel Arruabarrena,11,,Forward,0,1,0,0,0,0,0,12,6,0,0,0,0,0,0,M,Mikel,Arruabarrena
+1606,Lillo,11,,Defender,5,0,0,2,1,5,0,11,5,1,0,0,16,9,0,L,Lillo,Lillo
+1607,Josip Radosevic,11,,Midfielder,5,0,0,0,0,2,0,5,3,2,0,0,0,0,0,J,Josip,Radosevic
+1608,Simone Verdi,10,,Forward,3,0,0,0,0,2,0,15,6,3,0,0,0,0,0,S,Simone,Verdi
+1609,Patrick Ebert,10,RAVA,Midfielder,7,0,0,0,0,3,1,3,2,3,0,0,0,0,0,P,Patrick,Ebert
+1610,Matias Kranevitter,10,,Midfielder,3,0,0,0,0,1,0,10,5,1,0,0,0,0,0,M,Matias,Kranevitter
+1611,Ion Ansotegui,10,RESO,Defender,6,0,0,1,0,0,0,17,2,0,0,0,15,8,0,I,Ion,Ansotegui
+1612,Rafael van der Vaart,9,BETI,Midfielder,2,0,0,0,0,0,0,12,5,2,0,0,0,0,0,R,Rafael,Vaart
+1613,Lucas Orban,9,VALA,Defender,9,0,0,2,1,6,1,14,1,2,0,0,18,11,0,L,Lucas,Orban
+1614,Kiko Casilla,9,MADR,Goalkeeper,4,0,0,1,0,0,0,34,0,0,0,0,6,3,0,K,Kiko,Casilla
+1615,Nicolas Lopez,9,,Forward,1,0,0,0,0,0,0,11,7,1,0,0,0,0,0,N,Nicolas,Lopez
+1616,Izet Hajrovic,9,,Midfielder,2,0,0,0,0,0,0,22,5,2,0,0,0,0,0,I,Izet,Hajrovic
+1617,Joni Montiel,9,RAVA,Midfielder,1,0,0,0,0,0,0,17,7,1,0,0,0,0,0,J,Joni,Montiel
+1618,Ivan Lopez,9,,Defender,10,0,0,1,1,3,0,7,3,2,0,0,25,14,1,I,Ivan,Lopez
+1619,Jose Angel Crespo,9,RAVA,Defender,9,0,0,1,0,4,0,3,0,3,0,0,17,9,0,J,Jose,Crespo
+1620,Anaitz Arbilla,9,RCDE,Defender,7,0,0,2,0,3,0,2,0,0,0,0,15,10,0,A,Anaitz,Arbilla
+1621,Alvaro Arbeloa,9,MADR,Defender,2,0,0,1,0,1,0,18,4,0,0,0,7,2,0,A,Alvaro,Arbeloa
+1622,Borja Mayoral,9,MADR,Forward,3,0,0,0,0,0,0,7,3,3,0,0,0,0,0,B,Borja,Mayoral
+1623,Bernard Mensah,8,,Midfielder,0,0,0,0,0,0,0,22,8,0,0,0,0,0,0,B,Bernard,Mensah
+1624,Didier Digard,8,BETI,Midfielder,2,0,0,0,0,2,0,14,6,1,0,0,0,0,0,D,Didier,Digard
+1625,Jon Bautista,8,RESO,Forward,1,1,0,0,0,2,0,4,3,1,0,0,0,0,0,J,Jon,Bautista
+1626,Paco Montanes,8,RCDE,Midfielder,2,0,0,0,0,1,0,14,5,1,0,0,0,0,0,P,Paco,Montanes
+1627,Mariano Barbosa,8,VIAL,Goalkeeper,3,0,0,1,0,0,0,25,0,0,0,0,4,2,0,M,Mariano,Barbosa
+1628,Antonio Amaya,8,RAVA,Defender,10,1,0,1,1,5,0,14,7,2,0,0,40,25,0,A,Antonio,Amaya
+1629,Mauro Cuero,8,,Defender,5,0,1,0,2,1,0,14,8,4,0,0,27,16,0,M,Mauro,Cuero
+1630,Antonio Raillo,8,RCDE,Defender,4,0,0,1,0,1,0,10,0,0,0,0,6,3,0,A,Antonio,Raillo
+1631,Bojan Jokic,7,VIAL,Defender,2,0,0,1,0,1,0,6,0,0,0,0,1,0,0,B,Bojan,Jokic
+1632,Juan Dominguez,7,RCDC,Defender,2,0,0,0,1,0,0,13,3,2,0,0,6,2,0,J,Juan,Dominguez
+1633,Thievy Bifouma,7,,Midfielder,0,0,0,0,0,0,0,9,7,0,0,0,0,0,0,T,Thievy,Bifouma
+1634,Jose Dorado,7,RAVA,Defender,4,0,0,0,2,2,0,22,5,3,0,0,15,8,0,J,Jose,Dorado
+1635,Borja Fernandez,7,RCCV,Midfielder,2,0,0,0,0,0,0,8,3,0,0,0,0,0,0,B,Borja,Fernandez
+1636,Curro,7,SEVI,Midfielder,3,0,1,0,0,3,0,2,1,0,0,0,0,0,0,C,Curro,Curro
+1637,Pape Cheikh Diop,6,RCCV,Midfielder,0,0,0,0,0,0,0,12,6,0,0,0,0,0,0,P,Pape,Diop
+1638,Miguel Cardoso,6,RCDC,Forward,0,0,1,0,0,0,0,5,3,0,0,0,0,0,0,M,Miguel,Cardoso
+1639,Uche Agbo,6,,Midfielder,3,0,0,0,0,3,0,7,3,3,0,0,0,0,0,U,Uche,Agbo
+1640,Dejan Drazic,6,RCCV,Midfielder,1,0,0,0,0,1,0,31,5,1,0,0,0,0,0,D,Dejan,Drazic
+1641,Kike Sola,6,ATBI,Forward,1,0,0,0,0,0,0,8,4,1,0,0,0,0,0,K,Kike,Sola
+1642,Manu,6,RCDC,Goalkeeper,7,0,0,1,0,2,0,21,1,0,0,0,18,11,0,M,Manu,Manu
+1643,Juan Fuentas,6,RCDE,Defender,9,0,0,0,1,2,0,4,1,3,0,0,22,13,0,J,Juan,Fuentas
+1644,Aras Ozbiliz,6,RAVA,Forward,1,0,1,0,0,1,0,8,2,1,0,0,0,0,0,A,Aras,Ozbiliz
+1645,Beto,6,SEVI,Goalkeeper,4,0,0,1,0,1,0,2,0,0,0,0,8,5,0,B,Beto,Beto
+1646,Marco Andreolli,5,SEVI,Defender,6,0,0,0,0,2,0,3,0,2,0,0,11,5,0,M,Marco,Andreolli
+1647,Federico Fazio,5,SEVI,Defender,4,0,0,0,0,1,0,3,0,0,0,0,6,2,0,F,Federico,Fazio
+1648,Miguel Munoz,5,,Defender,2,0,0,0,1,1,0,3,1,2,0,0,3,1,0,M,Miguel,Munoz
+1649,Javi Noblejas,5,,Defender,1,0,0,1,0,1,0,1,0,0,0,0,0,0,0,J,Javi,Noblejas
+1650,Ager Aketxe,5,ATBI,Midfielder,2,0,0,0,0,0,0,2,1,1,0,0,0,0,0,A,Ager,Aketxe
+1651,Dani Gimenez,5,BETI,Goalkeeper,2,0,0,0,0,0,0,35,1,0,0,0,3,0,0,D,Dani,Gimenez
+1652,Oier Olazabal,5,RESO,Goalkeeper,2,0,0,1,0,1,0,29,1,0,0,0,5,3,0,O,Oier,Olazabal
+1653,Manuel Iturra,5,RAVA,Midfielder,4,0,0,0,0,2,1,4,2,1,0,0,0,0,0,M,Manuel,Iturra
+1654,Eddy,5,,Midfielder,1,0,0,0,0,2,0,12,5,0,0,0,0,0,0,E,Eddy,Eddy
+1655,Angel Lopez,5,LASP,Defender,0,0,0,0,2,0,0,9,3,0,0,0,3,2,0,A,Angel,Lopez
+1656,Leandro Damiao,4,BETI,Forward,1,0,0,0,0,0,0,5,2,1,0,0,0,0,0,L,Leandro,Damiao
+1657,Ikechukwu Uche,4,MALA,Forward,1,0,0,0,0,0,0,10,2,1,0,0,0,0,0,I,Ikechukwu,Uche
+1658,Hugo Fraile,4,,Midfielder,1,0,0,0,0,0,0,4,2,1,0,0,0,0,0,H,Hugo,Fraile
+1659,Alex Barrera,4,,Midfielder,0,0,0,0,0,0,0,6,4,0,0,0,0,0,0,A,Alex,Barrera
+1660,Juan Muniz,4,,Midfielder,0,0,0,0,0,0,0,7,4,0,0,0,0,0,0,J,Juan,Muniz
+1661,Alvaro Vadillo,4,BETI,Midfielder,1,0,0,0,0,0,0,3,2,1,0,0,0,0,0,A,Alvaro,Vadillo
+1662,Ibai Gomez,4,ATBI,Forward,1,0,0,0,0,2,0,7,4,1,0,0,0,0,0,I,Ibai,Gomez
+1663,Javi Ontiveros,4,MALA,Midfielder,0,0,0,0,0,0,0,8,4,0,0,0,0,0,0,J,Javi,Ontiveros
+1664,Felipe Alfonso,3,VIAL,Defender,2,0,0,0,0,0,0,2,0,2,0,0,3,1,0,F,Felipe,Alfonso
+1665,Luis Farina,3,RAVA,Midfielder,0,0,0,0,0,0,0,8,3,0,0,0,0,0,0,L,Luis,Farina
+1666,Jordi,3,BETI,Defender,2,0,0,0,1,1,0,7,1,1,0,0,5,3,0,J,Jordi,Jordi
+1667,Imanol Corral,3,,Defender,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,I,Imanol,Corral
+1668,Xabi,3,,Goalkeeper,3,0,0,0,0,0,0,28,0,0,0,0,6,3,0,X,Xabi,Xabi
+1669,Diego Gonzalez,3,SEVI,Defender,1,1,0,0,0,0,0,2,1,0,0,0,7,5,0,D,Diego,Gonzalez
+1670,Henok Goitom,3,,Forward,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,H,Henok,Goitom
+1671,Rodri Hernandez,3,VIAL,Midfielder,1,0,0,0,0,1,0,3,2,1,0,0,0,0,0,R,Rodri,Hernandez
+1672,Wilfried Zahibo,3,VALA,Midfielder,2,0,0,0,0,1,0,3,0,2,0,0,0,0,0,W,Wilfried,Zahibo
+1673,Doria,2,,Defender,7,0,0,0,0,4,0,12,1,1,0,0,17,9,0,D,Doria,Doria
+1674,Nacho Monsalve,2,,Defender,1,0,0,0,0,0,0,2,0,0,0,0,1,0,0,N,Nacho,Monsalve
+1675,Fabio Espinho,2,MALA,Midfielder,0,0,0,0,0,0,0,8,2,0,0,0,0,0,0,F,Fabio,Espinho
+1676,Marcos Llorente,2,MADR,Midfielder,0,0,0,0,0,0,0,5,2,0,0,0,0,0,0,M,Marcos,Llorente
+1677,Matos,2,SEVI,Defender,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,M,Matos,Matos
+1678,Javi Castellano,2,LASP,Midfielder,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,J,Javi,Castellano
+1679,Antonio Cotan,2,SEVI,Midfielder,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,A,Antonio,Cotan
+1680,Inigo Barrenetxea,2,,Midfielder,0,0,0,0,0,0,0,9,2,0,0,0,0,0,0,I,Inigo,Barrenetxea
+1681,Julen Iriarte,2,,Forward,1,0,0,0,0,0,0,5,0,0,0,0,0,0,0,J,Julen,Iriarte
+1682,Gael Kakuta,2,SEVI,Forward,1,0,0,0,0,1,0,2,1,1,0,0,0,0,0,G,Gael,Kakuta
+1683,Gerard Gumbau,2,BARC,Midfielder,0,0,0,0,0,0,0,9,2,0,0,0,0,0,0,G,Gerard,Gumbau
+1684,Igor Zubeldia,1,RESO,Midfielder,0,0,0,0,0,0,0,3,1,0,0,0,0,0,0,I,Igor,Zubeldia
+1685,Jose Rodriguez,1,RCDC,Midfielder,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,J,Jose,Rodriguez
+1686,Levy Madinda,1,RCCV,Midfielder,0,0,0,0,0,0,0,16,1,0,0,0,0,0,0,L,Levy,Madinda
+1687,Diego Alende,1,RCCV,Defender,0,0,0,0,0,0,0,6,1,0,0,0,1,0,0,D,Diego,Alende
+1688,Sito,1,VALA,Midfielder,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,S,Sito,Sito
+1689,Yoel Rodriguez,1,VALA,Goalkeeper,10,0,0,0,0,1,1,24,0,1,0,0,25,15,0,Y,Yoel,Rodriguez
+1690,Tropi,1,VALA,Midfielder,0,0,0,0,0,0,0,3,1,0,0,0,0,0,0,T,Tropi,Tropi
+1691,Nikos Karabelas,1,,Defender,1,0,0,0,0,1,0,9,0,0,0,0,1,0,0,N,Nikos,Karabelas
+1692,Zhang Chengdong,1,RAVA,Midfielder,0,0,0,0,0,0,0,4,1,0,0,0,0,0,0,Z,Zhang,Chengdong
+1693,Sergi Samper,1,BARC,Midfielder,0,0,0,0,0,0,0,3,1,0,0,0,0,0,0,S,Sergi,Samper
+1694,Ian Gonzalez,1,,Forward,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,I,Ian,Gonzalez
+1695,Hachim Mastour,1,MALA,Midfielder,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,H,Hachim,Mastour
+1696,Jesus Fernandez,1,,Goalkeeper,1,0,0,0,0,0,0,15,0,0,0,0,2,1,0,J,Jesus,Fernandez
+1697,Nestor,1,RCCV,Goalkeeper,0,0,0,0,0,0,0,12,1,0,0,0,1,0,0,N,Nestor,Nestor
+1698,Alberto Guitian,1,,Midfielder,1,0,0,0,0,1,0,6,0,0,0,0,0,0,0,A,Alberto,Guitian
+1699,Mendi,1,,Forward,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,M,Mendi,Mendi
+1700,Rober,1,RCDE,Defender,5,0,0,0,1,3,0,5,2,2,0,0,16,10,0,R,Rober,Rober
+1701,Eneko Capilla,1,RESO,Midfielder,0,0,0,0,0,0,0,3,1,0,0,0,0,0,0,E,Eneko,Capilla
+1702,Sergi Darder,1,MALA,Midfielder,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,S,Sergi,Darder
+1703,Carlos Fernandez,1,SEVI,Forward,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,C,Carlos,Fernandez
+1704,Borja Iglesias,0,RCCV,Defender,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,B,Borja,Iglesias
+1705,Ousseynou Cisse,0,RAVA,Midfielder,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,O,Ousseynou,Cisse
+1706,Nacho Gil,0,VALA,Midfielder,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,N,Nacho,Gil
+1707,Miguelon,0,VIAL,Defender,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,M,Miguelon,Miguelon
+1708,Pablo Claveria,0,RAVA,Midfielder,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,P,Pablo,Claveria
+1709,Dani Calvo,0,,Defender,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,D,Dani,Calvo
+1710,Stipe Pletikosa,0,RCDC,Goalkeeper,2,0,0,0,0,0,0,10,0,0,0,0,6,4,0,S,Stipe,Pletikosa
+1711,Philipp Lienhart,0,MADR,Defender,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,P,Philipp,Lienhart
+1712,Fran Villalba,0,VALA,Midfielder,0,0,0,0,0,1,0,3,1,0,0,0,0,0,0,F,Fran,Villalba
+1713,Douglas,0,BARC,Defender,0,0,0,0,0,0,0,6,1,0,0,0,2,1,0,D,Douglas,Douglas
+1714,Alejandro Remiro,0,ATBI,Goalkeeper,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,A,Alejandro,Remiro
+1715,Borja Ekiza,0,,Defender,2,0,0,0,0,1,0,11,2,2,0,0,9,5,0,B,Borja,Ekiza
+1716,Neuton,0,,Defender,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,N,Neuton,Neuton
+1717,Francesco Bardi,0,RCDE,Goalkeeper,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,F,Francesco,Bardi
+1718,Jose Carlos Lazo,0,MADR,Midfielder,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,J,Jose,Lazo
+1719,Stole Dimitrievski,0,,Goalkeeper,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,S,Stole,Dimitrievski
+1720,Fabricio,0,RCDC,Goalkeeper,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,F,Fabricio,Fabricio
+1721,Diogo Figueiras,0,SEVI,Defender,4,0,0,0,0,2,0,5,0,2,0,0,10,6,0,D,Diogo,Figueiras
+1722,Asdrubal,0,LASP,Forward,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,A,Asdrubal,Asdrubal
+1723,Luismi,0,SEVI,Defender,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,L,Luismi,Luismi
+1724,Jorge Mediavilla,0,,Goalkeeper,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,J,Jorge,Mediavilla
+1725,Andres Prieto,0,RCDE,Goalkeeper,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,A,Andres,Prieto
+1726,Ander Bardaji,0,RESO,Goalkeeper,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,A,Ander,Bardaji
+1727,Balazs Megyeri,0,,Goalkeeper,0,0,0,0,0,0,0,38,0,0,0,0,0,0,0,B,Balazs,Megyeri
+1728,Jordi Masip,0,BARC,Goalkeeper,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,J,Jordi,Masip
+1729,Dennis Diaz,0,,Goalkeeper,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,D,Dennis,Diaz
+1730,Sergio Akieme,0,RAVA,Defender,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,S,Sergio,Akieme
+1731,David Gomez,0,RCDC,Goalkeeper,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,D,David,Gomez
+1732,Pablo Iniguez,0,VIAL,Defender,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,P,Pablo,Iniguez
+1733,Angel Calzada,0,BETI,Goalkeeper,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,A,Angel,Calzada
+1734,Alvaro Traver,0,,Midfielder,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,A,Alvaro,Traver
+1735,Jhon Cordoba,0,,Forward,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,J,Jhon,Cordoba
+1736,Ruben Yanez,0,MADR,Goalkeeper,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,R,Ruben,Yanez
+1737,Alex Campos,0,RAVA,Goalkeeper,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,A,Alex,Campos
+1738,Dani Lorenzo,0,LASP,Goalkeeper,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,D,Dani,Lorenzo
+1739,Jon Errasti,0,,Midfielder,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,J,Jon,Errasti
+1740,Samu Villa,0,,Midfielder,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,S,Samu,Villa
+1741,Juan Camara,0,BARC,Midfielder,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,J,Juan,Camara
+1742,Rafa Mir,0,VALA,Forward,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,R,Rafa,Mir
+1743,Miguel Angel Moya,0,,Goalkeeper,0,0,0,0,0,0,0,38,0,0,0,0,0,0,0,M,Miguel,Moya
+1744,David Cobeno,0,RAVA,Goalkeeper,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,D,David,Cobeno
+1745,Jefte Betancor,0,LASP,Forward,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,J,Jefte,Betancor
+1746,Theo Hernandez,0,,Defender,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,T,Theo,Hernandez
+1747,Ibrahima Diallo,0,VALA,Defender,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,I,Ibrahima,Diallo
+1748,Haris Medunjanin,0,RCDC,Midfielder,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,H,Haris,Medunjanin
+1749,David Soria,0,SEVI,Goalkeeper,0,0,0,0,0,0,0,31,0,0,0,0,0,0,0,D,David,Soria
+1750,Jose Carrillo,0,,Defender,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,J,Jose,Carrillo
+1751,Asier Etxaburu,0,,Midfielder,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,A,Asier,Etxaburu
+1752,Aaron Escandell,0,MALA,Goalkeeper,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,A,Aaron,Escandell
+1753,Martin Odegaard,0,MADR,Midfielder,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,M,Martin,Odegaard
+1754,Carlos Gonzalez Cabrera,0,LASP,Forward,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,C,Carlos,Cabrera
+1755,Alvaro Tejero,0,MADR,Defender,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,A,Alvaro,Tejero
+1756,Borja Galan,0,,Forward,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,B,Borja,Galan
+1757,Ivi,0,SEVI,Forward,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,I,Ivi,Ivi
+1758,Nicolas Pareja,0,SEVI,Defender,1,0,0,0,0,0,0,1,1,1,0,0,5,3,0,N,Nicolas,Pareja
+1759,David Carmona,0,SEVI,Defender,1,0,0,0,0,0,0,0,0,0,0,0,3,2,0,D,David,Carmona
+1760,Ander Gayoso,0,,Defender,0,0,0,0,0,0,0,1,1,0,0,0,2,1,0,A,Ander,Gayoso
+1761,Amath Ndiaye Diedhiou,0,,Forward,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,A,Amath,Diedhiou
+1762,Juan Soriano,0,SEVI,Goalkeeper,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,J,Juan,Soriano
+1763,Cifu,0,MALA,Defender,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,C,Cifu,Cifu
+1764,Luis Fernandez,0,RCDC,Forward,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,L,Luis,Fernandez
+1765,Diego Cabello,0,VALA,Defender,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,D,Diego,Cabello
+1766,Pedro Lopez,0,BETI,Goalkeeper,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,P,Pedro,Lopez
+1767,Oscar,0,RCDC,Midfielder,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,O,Oscar,Oscar
+1768,Borja Lasso,0,SEVI,Midfielder,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,B,Borja,Lasso
+1769,Carlos Soler,0,VALA,Midfielder,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,C,Carlos,Soler
+1770,Alvaro Odriozola,0,RESO,Defender,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,A,Alvaro,Odriozola
+1771,Antonio Latorre,0,VALA,Defender,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,A,Antonio,Latorre
+1772,Lluis Lopez,0,RCDE,Defender,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,L,Lluis,Lopez
+1773,Diego Mainz,-1,,Defender,4,0,0,0,0,1,0,9,1,0,0,0,14,9,0,D,Diego,Mainz
+1774,Manuel Pablo,-1,RCDC,Defender,2,0,0,0,0,0,0,9,1,1,0,0,9,6,0,M,Manuel,Pablo
+1775,David Goldar,-1,RCCV,Defender,1,0,0,0,0,1,0,2,0,0,0,0,3,2,0,D,David,Goldar
+1776,Rober,-1,RCDC,Defender,0,0,0,0,0,0,0,8,2,0,0,0,5,3,0,R,Rober,Rober
+1777,Ivan Kelava,-1,,Goalkeeper,0,0,0,0,0,1,0,24,0,0,0,0,0,0,0,I,Ivan,Kelava
+1778,Salvador Ruiz,-2,,Defender,1,0,0,0,0,0,1,10,1,0,0,0,4,2,0,S,Salvador,Ruiz
+1779,Iago Herrerin,-3,ATBI,Goalkeeper,1,0,0,0,0,0,0,37,1,0,0,0,8,6,0,I,Iago,Herrerin
+1780,Igor Lichnovsky,-3,,Defender,2,0,0,0,0,0,0,10,0,0,0,0,9,7,0,I,Igor,Lichnovsky
+1781,Alvaro Pereira,-5,,Defender,6,0,0,0,0,3,0,2,0,2,0,0,20,14,0,A,Alvaro,Pereira
+1782,Michael Ciani,-5,RCDE,Defender,2,0,0,0,0,0,0,6,0,1,0,0,11,9,0,M,Michael,Ciani
+1783,Giedrius Arlauskis,-6,RCDE,Goalkeeper,3,0,0,0,0,0,0,11,0,1,0,0,15,12,0,G,Giedrius,Arlauskis
